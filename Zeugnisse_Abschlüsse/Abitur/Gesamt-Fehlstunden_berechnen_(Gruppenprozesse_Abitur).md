@@ -1,0 +1,1 @@
+# Gesamt-Fehlstunden berechnen (Gruppenprozesse Abitur)

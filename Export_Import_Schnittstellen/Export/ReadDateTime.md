@@ -1,0 +1,6 @@
+# ReadDateTime
+| RAP-Funktion "ReadDateTime" | Beschreibung | ```   function ReadDateTime(aPrompt: String; var D,T1,T2: TDateTime; IsIntervall: Boolean): Boolean;``` |
+| --- | --- | --- |
+| Parameter | ```   aPrompt            - Hinweistext im Dialogtitel``` ```   D                  - Datum)``` ```   T1                 - Uhrzeit (Beginn)``` ```   T2                 - Uhrzeit(Ende``` ```   IsIntervall        - Falls True, wird die Uhrzeit (Ende) eingeblendet``` ```                        und kann verändert werden``` |  |
+| Rückgabewert | ```   True: Dialog durch „Ok“ beendet, False sonst``` |  |
+| Beispiel | ```   Procedure Label1OnGetText(var Text: String);``` ```    var``` ```      D,T1,T2 : Datetime;``` ```    begin``` ```      If ReadDateTime('Sprechtag', D, T1, T2, True) then``` ```        Text:='Elternsprechtag am ' + DateToStr(D)``` ```        + ' von ' + TimeToStr(T1) + ' Uhr'``` ```        + ' bis ' + TimeToStr(T2) + ' Uhr'``` ```      else``` ```        Text:='---';``` ```    end;``` |  |

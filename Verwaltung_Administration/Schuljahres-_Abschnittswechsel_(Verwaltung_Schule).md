@@ -1,0 +1,2 @@
+# Schuljahres-/Abschnittswechsel (Verwaltung Schule)1.  REDIRECT
+    [Versetzung_ins_neue_Schuljahr_und_Abschnittswechsel_durchführen\_(Einführung_in_SchILD-NRW)](Einführung_Grundlagen/Allgemein/Versetzung_ins_neue_Schuljahr_und_Abschnittswechsel_durchführen_(Einführung_in_SchILD-NRW).md)

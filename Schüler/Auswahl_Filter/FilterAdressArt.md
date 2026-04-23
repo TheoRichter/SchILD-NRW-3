@@ -1,0 +1,6 @@
+# FilterAdressArt|                                    |                                                                    |                                                     |
+|------------------------------------|--------------------------------------------|-----|
+| **RAP-Funktion "FilterAdressArt"** | **Beschreibung**                                                   | `   procedure FilterAdressArt(aAdressArt: String);` |
+| **Parameter**                      | `   aAdressArt         - Adressart, auf die gefiltert werden soll` |                                                     |
+| **Rückgabewert**                   | `   ...`                                                           |                                                     |
+| **Beispiel**                       | `   Siehe „SelectAdressArt“`                                       |                                                     |**Zurück zu [RAP-Funktionen](../../Export_Import_Schnittstellen/Export/RAP-Funktionen.md)**
