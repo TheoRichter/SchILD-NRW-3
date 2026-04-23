@@ -2,7 +2,7 @@
 
 ### Export
 
-![SchILD_Export_Schnittstellendateien_1.png](../../graphics/SchILD_Export_Schnittstellendateien_1.png)
+![SchILD_Export_Schnittstellendateien_1.png](../graphics/SchILD_Export_Schnittstellendateien_1.png)
 
  
 
