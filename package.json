@@ -1,0 +1,21 @@
+{
+  "name": "schild-nrw-3",
+  "version": "1.0.0",
+  "description": "Hier ist eine Landing Page zu SchILD-NRW 3",
+  "main": "generate-sidebar.js",
+  "scripts": {
+    "sidebar": "ts-node scripts/generate-sidebar.ts",
+    "docs:dev": "npm run sidebar && vitepress dev",
+    "docs:build": "npm run sidebar && vitepress build",
+    "docs:preview": "vitepress preview",
+    "lint": "eslint '**/*.{ts,vue,md}' --cache"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3",
+    "vitepress": "^1.6.4"
+  }
+}

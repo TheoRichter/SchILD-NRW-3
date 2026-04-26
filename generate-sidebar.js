@@ -1,93 +1,114 @@
-// usage: node generate-sidebar.js . > sidebar.ts
-// check sidebar.ts and copy to sidebar[] ind .vitepresscontig.mts
+const fs = require('fs')
+const path = require('path')
 
-const fs = require('fs');
-const path = require('path');
+const docsDir = path.join(__dirname, 'docs')
 
-const ROOT = process.argv[2];
-
-if (!ROOT) {
-  console.log("Usage: node generate-sidebar.js <docs-folder>");
-  process.exit(1);
-}
-
-const IGNORE_FOLDERS = [
-  '.vitepress',
-  'node_modules',
-  'Dubletten',
-  'Unsortiert'
-];
-
-function shouldIgnore(dirPath) {
-  return IGNORE_FOLDERS.some(ignore =>
-    dirPath.split(path.sep).includes(ignore)
-  );
-}
-
-function toTitle(name) {
+function cleanName(name) {
   return name
-    .replace('.md', '')
+    .replace(/\.md$/, '')
     .replace(/_/g, ' ')
-    .trim();
 }
 
+function buildSidebar(dir, base = '') {
+  const entries = fs.readdirSync(dir, { withFileTypes: true })
 
-function readDirRecursive(dir, baseUrl = '') {
-  const entries = fs.readdirSync(dir, { withFileTypes: true });
+  const dirs = entries
+    .filter(e => 
+      e.isDirectory() &&
+      e.name !== '.vitepress' &&
+      e.name !== 'graphics'
+    )
+    .sort((a, b) => a.name.localeCompare(b.name))
 
-  const items = [];
+  const files = entries
+    .filter(e => e.isFile() && e.name.endsWith('.md') && e.name !== 'index.md')
+    .sort((a, b) => a.name.localeCompare(b.name))
 
-  for (const entry of entries) {
-    if (entry.name.startsWith('.')) continue;
+  const items = []
 
-    const fullPath = path.join(dir, entry.name);
-    if (shouldIgnore(fullPath)) continue;
+  // Erst Unterordner vollständig erzeugen
+  for (const folder of dirs) {
+    const folderPath = path.join(dir, folder.name)
+    const childBase = `${base}/${folder.name}`
+    const childItems = buildSidebar(folderPath, childBase)
 
-    const urlPath = path.join(baseUrl, entry.name);
-
-    if (entry.isDirectory()) {
-
-      const children = readDirRecursive(fullPath, urlPath);
-      const indexPath = path.join(fullPath, 'index.md');
-      const hasIndex = fs.existsSync(indexPath);
-
-      if (children.length > 0 || hasIndex) {
-        const section = {
-          text: toTitle(entry.name),
-          collapsed: true
-        };
-
-        if (hasIndex) {
-          section.link = '/' + path
-            .join(baseUrl, entry.name)
-            .replace(/\\/g, '/');
-        }
-
-        if (children.length > 0) {
-          section.items = children;
-        }
-
-        items.push(section);
-      }
-    }
-
-    if (
-      entry.isFile() &&
-      entry.name.endsWith('.md') &&
-      entry.name !== 'index.md'
-    ) {
-      items.push({
-        text: toTitle(entry.name),
-        link: '/' + urlPath.replace('.md', '').replace(/\\/g, '/')
-      });
-    }
+    items.push({
+      text: cleanName(folder.name),
+      collapsed: true,
+      link: childBase,
+      items: childItems
+    })
   }
 
-  items.sort((a, b) => a.text.localeCompare(b.text));
-  return items;
+  // Danach einzelne MD-Dateien hinzufügen
+  for (const file of files) {
+    const name = file.name.replace(/\.md$/, '')
+
+    items.push({
+      text: cleanName(name),
+      link: `${base}/${name}`
+    })
+  }
+
+  return items
 }
 
-const sidebar = readDirRecursive(ROOT);
+const sidebar = buildSidebar(docsDir, '')
 
-// NUR sidebar-Array ausgeben
-console.log(JSON.stringify(sidebar, null, 2));
+const config = `import { defineConfig, loadEnv } from 'vite'
+
+export default defineConfig(({ mode }) => {
+  const env = loadEnv(mode, process.cwd(), '')
+
+  return {
+    base: env.BASE === undefined ? '/SchILD-NRW-3/' : env.BASE,
+    title: 'SchILD-NRW 3',
+    description: 'Erklärungen und Funktionsweisen zu Schulungen für SchILD3',
+    lastUpdated: true,
+
+    themeConfig: {
+      outline: {
+        label: 'Auf dieser Seite',
+      },
+
+      docFooter: {
+        next: 'Nächste Seite',
+        prev: 'Vorherige Seite',
+      },
+
+      lastUpdated: {
+        text: 'Diese Seite wurde zuletzt bearbeitet am',
+        formatOptions: {
+          dateStyle: 'full',
+          timeStyle: 'medium',
+        },
+      },
+
+      search: {
+        provider: 'local',
+      },
+
+      nav: [
+        {
+          text: 'Docker-Server',
+          link: 'https://192.168.101.120/',
+        },
+        {
+          text: 'Portainer',
+          link: 'https://192.168.101.120:9443/',
+        },
+      ],
+
+      sidebar: ${JSON.stringify(sidebar, null, 2)}
+    }
+  }
+})
+`
+
+fs.writeFileSync(
+  path.join(docsDir, '.vitepress', 'config.mjs'),
+  config,
+  'utf8'
+)
+
+console.log('config.mjs mit vollständiger Sidebar erzeugt.')
