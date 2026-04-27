@@ -1,6 +1,6 @@
 # Unterrichtsfächer (Schulbezogene Kataloge)
 
-### Die Übersichtsliste
+## Die Übersichtsliste
 
 ![SchILD_Kataloge_Schulbez_UFaecher_1.png](../../graphics/SchILD_Kataloge_Schulbez_UFaecher_1.png)
 
@@ -32,7 +32,7 @@ Sprachenfolge für Abschlusszeugnisse relevant.
 
 ---
 
-### Zusätzliche Unterrichtsveranstaltungen und andere Fächer
+## Zusätzliche Unterrichtsveranstaltungen und andere Fächer
 
 Es können hier auch Fächer angelegt werden, die kein
 Fach im klassischen Sinne sind, wie zum Beispiel
@@ -54,7 +54,7 @@ der Oberstufe angeboten.
 
 ---
 
-#### Filtern, Sortieren und Fächer global ersetzen
+## Filtern, Sortieren und Fächer global ersetzen
 
 ![SchILD_Kataloge_Schulbez_UFaecher_5.png](../../graphics/SchILD_Kataloge_Schulbez_UFaecher_5.png)
 
@@ -88,7 +88,7 @@ Beispiel nach einem Import aus Fremddaten gedacht.
 
 ----
 
-### Details zu den Fächern
+## Details zu den Fächern
 
 ![SchILD_Kataloge_Schulbez_UFaecher_2.png](../../graphics/SchILD_Kataloge_Schulbez_UFaecher_2.png)
 
@@ -113,7 +113,7 @@ statistikrelevant und müssen mit Sorgfalt befüllt werden.-   Bei "**ASD-Bezeic
     Sachfachsprache unter "**bilunguale Sachfachsprache** eingestellt
     werden.  
 
-#### Teilleistungen
+## Teilleistungen
 
 ![SchILD_Kataloge_Schulbez_UFaecher_3.png](../../graphics/SchILD_Kataloge_Schulbez_UFaecher_3.png)
 
@@ -134,7 +134,7 @@ Einstellungen in Details vorgenommen werden.
 
 ---
 
-### Sonstige Einstellungen
+## Sonstige Einstellungen
 
 ![SchILD_Kataloge_Schulbez_UFaecher_4.png](../../graphics/SchILD_Kataloge_Schulbez_UFaecher_4.png)
 
@@ -160,7 +160,7 @@ jeweils ein Leitfach angegeben werden.
 
 ----
 
-### Export nach Excel
+## Export nach Excel
 
 ![SchILD_Kataloge_Schulbez_UFaecher_8.png](../../graphics/SchILD_Kataloge_Schulbez_UFaecher_8.png)
 

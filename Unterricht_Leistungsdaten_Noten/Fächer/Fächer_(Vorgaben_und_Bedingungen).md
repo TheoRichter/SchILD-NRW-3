@@ -1,6 +1,6 @@
 # Fächer (Vorgaben und Bedingungen)
 
-## Angebotene FächerHier wird (als Vorlage oder auch individuell für jeden Jahrgang)
+## Angebotene Fächer Hier wird (als Vorlage oder auch individuell für jeden Jahrgang)
 festgelegt, in welchem Abschnitt ein Fach und ob es als Abiturfach (GK
 oder LK) angeboten wird.
 
