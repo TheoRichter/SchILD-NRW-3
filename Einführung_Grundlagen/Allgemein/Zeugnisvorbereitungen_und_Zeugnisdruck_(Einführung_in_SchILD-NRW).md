@@ -19,7 +19,7 @@ Informationen hierzu.Ebenso sind die verwendeten Floskeln zu setzen und eventuel
 WIKILINK: Abgeschlossene_Fächer_holen_(Gruppenprozesse_Noten,_Zeugnisvorbereitung)
 zu holen.
 
-### Floskeln
+## Floskeln
 
 ![Schild_Kataloge_Floskeln_01.png](../../graphics/Schild_Kataloge_Floskeln_01.png)
 
@@ -34,23 +34,19 @@ Mausklick eingefügt werden.Der Artikel
 WIKILINK: Floskeln_bearbeiten_(Schulbezogene_Kataloge)
 listet die zur Verwendung von Floskeln notwendigen Informationen auf.
 
-
-
 Die endgültig zu verwendenden Floskeln beschließt die
 Schulkonferenz.
 
+# Die Zeugnisphase in SchILD
 
-
-## Die Zeugnisphase in SchILD
-
-### Gegebenenfalls Abfrage an SchülerEs kann sich empfehlen, ab und zu eine Abfrage an die Schüler (deren
+## Gegebenenfalls Abfrage an SchülerEs kann sich empfehlen, ab und zu eine Abfrage an die Schüler (deren
 Erziehungsberechtigte) in Bezug auf ihre aktuellen Daten zu starten.Eine solche Abfrage muss nicht in jedem Jahr stattfinden. Es sollte eine
 Abfrage rechtzeitig in Abschlussjahrgängen vorgenommen werden, um
 eventuelle Namensänderungen oder Änderungen der Konfession zu erfassen.
 Weiterhin sollte geklärt werden, ob die Konfession auf das Zeugnis
 gedruckt werden soll.**Vorlaufzeit**: Monate bis Wochen vor dem Zeugnisdruck.
 
-### Überprüfung der angelegten Leistungsdaten
+## Überprüfung der angelegten Leistungsdaten
 
 ![SchILD_Zeugnisdruck_PrüfenLeistungsdaten.png](../../graphics/SchILD_Zeugnisdruck_PrüfenLeistungsdaten.png)
 
@@ -68,7 +64,7 @@ entsprechend konfiguriert werden.**Vorlaufzeit**: Einige Wochen zuvor, wenn rela
 jeden Fall muss die Kontrolle vor dem Beginn der konkreten
 Noteneingabe/dem Notenexport abgeschlossen sein.
 
-### NoteneintragungTragen Sie nun die Noten ein. Hierzu gibt es diverse Wege:-   Sammeln der Leistungsdaten und Eintragung direkt in SchILD durch
+## NoteneintragungTragen Sie nun die Noten ein. Hierzu gibt es diverse Wege:-   Sammeln der Leistungsdaten und Eintragung direkt in SchILD durch
     ausgewählte Personen
 -   Zugriff von Lehrkräften direkt auf SchILD über einen eigenen
     Benutzernamen
@@ -86,7 +82,7 @@ Leistungsdaten importiert wurden.**Vorlaufzeit**: Ca. zwei Wochen zur Noteneintr
 Werktage zur Kontrolle der Noteneingänge auf Vollständigkeit und
 eventuellem Hinterherlaufen und -telefonieren.
 
-### Teilleistungen, Projektkursarbeiten, ...Erfassen Sie auch rechtzeitig je nach Notwendigkeit
+## Teilleistungen, Projektkursarbeiten, ...Erfassen Sie auch rechtzeitig je nach Notwendigkeit
 [Teilleistungen](../../Unterricht_Leistungsdaten_Noten/Teilleistungen/Teilleistungen_einrichten_und_verwalten_(Tutorial).md),
 Lernbereichsnoten und Titel von Projektkursen und Themen von
 Projektkursarbeiten.Beachten Sie hierzu die entsprechenden Wikiartikel.*Lernbereichsnoten* werden im *Aktuellen Abschnitt* manuell oder über
@@ -109,7 +105,7 @@ sollten bis einige Tage vor der Nachbearbeitung der eingegebenen Daten
 vorliegen und können im Zuge der Konferenzvorbereitung eingepflegt
 werden.
 
-### ZeugnisbemerkungenGeben Sie *Außerunterrichtliches Engagement* und eventuelle
+## ZeugnisbemerkungenGeben Sie *Außerunterrichtliches Engagement* und eventuelle
 *Zeugnisbemerkungen* ein. Diese lassen sich teilweise auch z.B. über das
 Externe Notenmodul durch die Klassenleitungen erfassen.Einige Informationen liegen den Zeugnisbeauftragten nicht vor. Dies
 wären etwa Jahrgangssprecher oder wer in welcher Rolle in der
@@ -117,16 +113,16 @@ Schülervertretung oder wer als Streitschlichter oder Schulsanitäter usw.
 mitwirkt.Manche dieser Informationen können über AGen erfasst werden, andere
 müssen manuell zusammengetragen werden.**Vorlaufzeit**: Holen Sie rechtzeitig verteilte Informationen zusammen.
 
-### FehlstundenberechnungWurden Fehlstunden nicht als Gesamt-Fehlstunden erfasst, sondern müssen
+## FehlstundenberechnungWurden Fehlstunden nicht als Gesamt-Fehlstunden erfasst, sondern müssen
 aus *Tagesbezogenen* oder *Fachbezogenen* Fehlstunden gebildet werden,
 führen Sie den Gruppenprozess *Noten, Zeugnisvorbereit.* ➜
 **Fehlstundensummen autom. berechnen** aus.Über den Gruppenprozess *Fehlstunden-Summen manuell eingeben* können die
 Summen klassenweise leicht nachgetragen werden.
 
-### Eingabe von Konferenz- und ZeugnisdatumSetzen Sie per Gruppenprozess das Konferenz- und Zeugnisdatum für den
+## Eingabe von Konferenz- und ZeugnisdatumSetzen Sie per Gruppenprozess das Konferenz- und Zeugnisdatum für den
 aktuellen Abschnitt.**Vorlaufzeit**: Im Rahmen der Konferenzvorbereitung.
 
-### VersetzungsberechnungFühren Sie den Gruppenprozess *Lernabschnitte, Versetzung* ➜
+## VersetzungsberechnungFühren Sie den Gruppenprozess *Lernabschnitte, Versetzung* ➜
 **Versetzungs-/Abschlussberechnung** durch, um basierend auf den
 Leistungsdaten und dem in SchILD-NRW hinterlegten Algorithmus diese
 Felder zu berechnen und zu befüllen.Wurden Veränderungen an den Leistungsdaten vorgenommen, ist die Prüfung
@@ -134,7 +130,7 @@ erneut auszuführen. Diese kann über einen Gruppenprozess oder bei den
 individuellen Leistungsdaten des aktuellen Abschnitts (oben in der
 Kopfzeile des Fensters) angestoßen werden.
 
-### Berechnung des FHR usw.Liegen nun noch weitere Berechnungen, wie zum Beispiel für den
+## Berechnung des FHR usw.Liegen nun noch weitere Berechnungen, wie zum Beispiel für den
 *Schulischen Teil der Fachhochschulreife (FHR)* an, führen Sie diese wie
 in den entsprechenden Artikel beschrieben aus.Achten Sie darauf, dass bei veränderten Leistungsdaten die Daten für den
 FHR neu geholt und dieser, beziehungsweise sein Schnitt, neu berechnet
@@ -142,12 +138,12 @@ werden muss.Sofern ein Abitur anliegt, sind die entsprechenden Berechnungen und
 Eingabe der Prüfungsleistungen wie in den Artikeln zum Abitur
 beschrieben durchzuführen.
 
-### Sonstiges
+# Sonstiges
 
-#### ArbeitsgemeinschaftenVerarbeiten Sie nun Arbeitsgemeinschaften oder ähnlich. Diese können zum
+## ArbeitsgemeinschaftenVerarbeiten Sie nun Arbeitsgemeinschaften oder ähnlich. Diese können zum
 Beispiel über Kurse erfasst und auf einem Zeugnis ausgegeben werden.Alternativ lassen sich passende Bemerkungen über Floskeln einfügen.
 
-#### Schüler, die nicht automatisiert verarbeitet werdenKümmern Sie sich nun um Schüler, die nicht durch automatische Prozesse
+## Schüler, die nicht automatisiert verarbeitet werdenKümmern Sie sich nun um Schüler, die nicht durch automatische Prozesse
 zu Versetzung und Abschlussberechnungen erfasst werden.
 
 Dies sind möglicherweise einer Klasse zugeordnete *Flüchtlingskinder*
@@ -156,7 +152,7 @@ Zeugnissen individuelle Textzeugnisse oder andere Leistungsübersichten
 erhalten.Verarbeiten Sie auch eventuell vorliegende *Anträge* von
 Erziehungsberechtigten.
 
-#### Zuweisungen o.Ä.Werden zum Beispiel Zuweisungen zu einer Differenzierungsebene an einer
+## Zuweisungen o.Ä.Werden zum Beispiel Zuweisungen zu einer Differenzierungsebene an einer
 Gesamtschule vorgenommen, nehmen Sie diese soweit wie absehbar schon im
 Vorfeld der Konferenzen mit auf.
 
@@ -193,7 +189,7 @@ direkt einzugeben und anzuzeigen.
 
 ![SchILD_Zeugnisdruck_GPDruck.png](../../graphics/SchILD_Zeugnisdruck_GPDruck.png)
 
- Zum einen kann über die Gruppenprozess *Noten,
+Zum einen kann über die Gruppenprozess *Noten,
 Zeugnisvorbereitung* ➜ **Zugeordnete Zeugnisformulare drucken** gedruckt
 werden.Wurden Zeugnisformulare zugeordnet, kann der Druck hier komfortabel
 angestoßen werden. Wählen Sie erst die zu druckenden Zeugnisse aus und
@@ -214,18 +210,18 @@ Gruppenprozess abgeschlossen ist, bevor Sie einen neuen anstoßen.
 
 ![SchILD_Zeugnisdruck_DruckReportverwaltung.png](../../graphics/SchILD_Zeugnisdruck_DruckReportverwaltung.png)
 
- Weiterhin kann auch über die **Reportverwaltung** gedruckt
+Weiterhin kann auch über die **Reportverwaltung** gedruckt
 werden. Hierbei filtern Sie die zu druckende Schülergruppe im
 Schülercontainer und starten dann den Druck des gewünschten Reports.Auch hier stehen die oben besprochenen Wahlmöglichkeiten zu Druck und
 Archivierung zur Verfügung.Ist dies gewünscht, drucken beziehungsweise kopieren Sie an dieser
 Stelle eventuelle, den Vorgaben entsprechende Exemplare für eine
 physische Archivierung.  
 
-### Überweisungszeugnisse, Abgangs- und Abschlusszeugnisse
+## Überweisungszeugnisse, Abgangs- und Abschlusszeugnisse
 
 ![SchILD_Zeugnisdruck_VorherigerAbschnitt.png](../../graphics/SchILD_Zeugnisdruck_VorherigerAbschnitt.png)
 
- Verlässt ein Schüler mit einem ausgegebenen Zeugnis die
+Verlässt ein Schüler mit einem ausgegebenen Zeugnis die
 Schule, ist der Prozess wie oben durchzuführen. Jedoch sind darüber
 hinaus zuvor noch weitere Vorbereitungen zu treffen:-   Eintragung des **Sprachreferenzniveaus**: Stellen Sie sicher, dass
     die Sprachenfolge korrekt eingetragen ist, dann lässt sich das
@@ -257,8 +253,6 @@ in die zugehörigen Artikel in diesem Wiki. Sie finden sich unter der
 WIKILINK: SchILD-NRW_3#Tutorials*.
 
 ## Häufige Fehler beim Zeugnisdruck
-
-
 
 Nehmen Sie das Tutorial zu den *Häufigen Fehlern bei
 Zeugnisdruck* zur Kenntnis.
