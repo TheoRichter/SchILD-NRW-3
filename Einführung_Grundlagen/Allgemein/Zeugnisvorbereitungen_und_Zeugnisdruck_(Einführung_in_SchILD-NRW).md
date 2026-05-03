@@ -40,12 +40,9 @@ Schulkonferenz.
 
 # Die Zeugnisphase in SchILD
 
-<<<<<<< HEAD
 ## Gegebenenfalls Abfrage an Schüler
+
 Es kann sich empfehlen, ab und zu eine Abfrage an die Schüler (deren
-=======
-## Gegebenenfalls Abfrage an SchülerEs kann sich empfehlen, ab und zu eine Abfrage an die Schüler (deren
->>>>>>> e16ee7b7a99526abce794a921997f5599a0223e4
 Erziehungsberechtigte) in Bezug auf ihre aktuellen Daten zu starten.Eine solche Abfrage muss nicht in jedem Jahr stattfinden. Es sollte eine
 Abfrage rechtzeitig in Abschlussjahrgängen vorgenommen werden, um
 eventuelle Namensänderungen oder Änderungen der Konfession zu erfassen.
@@ -70,12 +67,9 @@ entsprechend konfiguriert werden.**Vorlaufzeit**: Einige Wochen zuvor, wenn rela
 jeden Fall muss die Kontrolle vor dem Beginn der konkreten
 Noteneingabe/dem Notenexport abgeschlossen sein.
 
-<<<<<<< HEAD
 ## Noteneintragung
+
 Tragen Sie nun die Noten ein. Hierzu gibt es diverse Wege:-   Sammeln der Leistungsdaten und Eintragung direkt in SchILD durch
-=======
-## NoteneintragungTragen Sie nun die Noten ein. Hierzu gibt es diverse Wege:-   Sammeln der Leistungsdaten und Eintragung direkt in SchILD durch
->>>>>>> e16ee7b7a99526abce794a921997f5599a0223e4
     ausgewählte Personen
 -   Zugriff von Lehrkräften direkt auf SchILD über einen eigenen
     Benutzernamen
@@ -93,12 +87,9 @@ Leistungsdaten importiert wurden.**Vorlaufzeit**: Ca. zwei Wochen zur Noteneintr
 Werktage zur Kontrolle der Noteneingänge auf Vollständigkeit und
 eventuellem Hinterherlaufen und -telefonieren.
 
-<<<<<<< HEAD
 ## Teilleistungen, Projektkursarbeiten, ...
+
 Erfassen Sie auch rechtzeitig je nach Notwendigkeit
-=======
-## Teilleistungen, Projektkursarbeiten, ...Erfassen Sie auch rechtzeitig je nach Notwendigkeit
->>>>>>> e16ee7b7a99526abce794a921997f5599a0223e4
 [Teilleistungen](../../Unterricht_Leistungsdaten_Noten/Teilleistungen/Teilleistungen_einrichten_und_verwalten_(Tutorial).md),
 Lernbereichsnoten und Titel von Projektkursen und Themen von
 Projektkursarbeiten.Beachten Sie hierzu die entsprechenden Wikiartikel.*Lernbereichsnoten* werden im *Aktuellen Abschnitt* manuell oder über
@@ -121,12 +112,9 @@ sollten bis einige Tage vor der Nachbearbeitung der eingegebenen Daten
 vorliegen und können im Zuge der Konferenzvorbereitung eingepflegt
 werden.
 
-<<<<<<< HEAD
 ## Zeugnisbemerkungen
+
 Geben Sie *Außerunterrichtliches Engagement* und eventuelle
-=======
-## ZeugnisbemerkungenGeben Sie *Außerunterrichtliches Engagement* und eventuelle
->>>>>>> e16ee7b7a99526abce794a921997f5599a0223e4
 *Zeugnisbemerkungen* ein. Diese lassen sich teilweise auch z.B. über das
 Externe Notenmodul durch die Klassenleitungen erfassen.Einige Informationen liegen den Zeugnisbeauftragten nicht vor. Dies
 wären etwa Jahrgangssprecher oder wer in welcher Rolle in der
@@ -134,30 +122,22 @@ Schülervertretung oder wer als Streitschlichter oder Schulsanitäter usw.
 mitwirkt.Manche dieser Informationen können über AGen erfasst werden, andere
 müssen manuell zusammengetragen werden.**Vorlaufzeit**: Holen Sie rechtzeitig verteilte Informationen zusammen.
 
-<<<<<<< HEAD
 ## Fehlstundenberechnung
+
 Wurden Fehlstunden nicht als Gesamt-Fehlstunden erfasst, sondern müssen
-=======
-## FehlstundenberechnungWurden Fehlstunden nicht als Gesamt-Fehlstunden erfasst, sondern müssen
->>>>>>> e16ee7b7a99526abce794a921997f5599a0223e4
 aus *Tagesbezogenen* oder *Fachbezogenen* Fehlstunden gebildet werden,
 führen Sie den Gruppenprozess *Noten, Zeugnisvorbereit.* ➜
 **Fehlstundensummen autom. berechnen** aus.Über den Gruppenprozess *Fehlstunden-Summen manuell eingeben* können die
 Summen klassenweise leicht nachgetragen werden.
 
-<<<<<<< HEAD
 ## Eingabe von Konferenz- und Zeugnisdatum
+
 Setzen Sie per Gruppenprozess das Konferenz- und Zeugnisdatum für den
 aktuellen Abschnitt.**Vorlaufzeit**: Im Rahmen der Konferenzvorbereitung.
 
 ## Versetzungsberechnung
-Führen Sie den Gruppenprozess *Lernabschnitte, Versetzung* ➜
-=======
-## Eingabe von Konferenz- und ZeugnisdatumSetzen Sie per Gruppenprozess das Konferenz- und Zeugnisdatum für den
-aktuellen Abschnitt.**Vorlaufzeit**: Im Rahmen der Konferenzvorbereitung.
 
-## VersetzungsberechnungFühren Sie den Gruppenprozess *Lernabschnitte, Versetzung* ➜
->>>>>>> e16ee7b7a99526abce794a921997f5599a0223e4
+Führen Sie den Gruppenprozess *Lernabschnitte, Versetzung* ➜
 **Versetzungs-/Abschlussberechnung** durch, um basierend auf den
 Leistungsdaten und dem in SchILD-NRW hinterlegten Algorithmus diese
 Felder zu berechnen und zu befüllen.Wurden Veränderungen an den Leistungsdaten vorgenommen, ist die Prüfung
@@ -165,12 +145,9 @@ erneut auszuführen. Diese kann über einen Gruppenprozess oder bei den
 individuellen Leistungsdaten des aktuellen Abschnitts (oben in der
 Kopfzeile des Fensters) angestoßen werden.
 
-<<<<<<< HEAD
 ## Berechnung des FHR usw.
+
 Liegen nun noch weitere Berechnungen, wie zum Beispiel für den
-=======
-## Berechnung des FHR usw.Liegen nun noch weitere Berechnungen, wie zum Beispiel für den
->>>>>>> e16ee7b7a99526abce794a921997f5599a0223e4
 *Schulischen Teil der Fachhochschulreife (FHR)* an, führen Sie diese wie
 in den entsprechenden Artikel beschrieben aus.Achten Sie darauf, dass bei veränderten Leistungsdaten die Daten für den
 FHR neu geholt und dieser, beziehungsweise sein Schnitt, neu berechnet
@@ -180,19 +157,14 @@ beschrieben durchzuführen.
 
 # Sonstiges
 
-<<<<<<< HEAD
 ## Arbeitsgemeinschaften
+
 Verarbeiten Sie nun Arbeitsgemeinschaften oder ähnlich. Diese können zum
 Beispiel über Kurse erfasst und auf einem Zeugnis ausgegeben werden.Alternativ lassen sich passende Bemerkungen über Floskeln einfügen.
 
 ## Schüler, die nicht automatisiert verarbeitet werden
-Kümmern Sie sich nun um Schüler, die nicht durch automatische Prozesse
-=======
-## ArbeitsgemeinschaftenVerarbeiten Sie nun Arbeitsgemeinschaften oder ähnlich. Diese können zum
-Beispiel über Kurse erfasst und auf einem Zeugnis ausgegeben werden.Alternativ lassen sich passende Bemerkungen über Floskeln einfügen.
 
-## Schüler, die nicht automatisiert verarbeitet werdenKümmern Sie sich nun um Schüler, die nicht durch automatische Prozesse
->>>>>>> e16ee7b7a99526abce794a921997f5599a0223e4
+Kümmern Sie sich nun um Schüler, die nicht durch automatische Prozesse
 zu Versetzung und Abschlussberechnungen erfasst werden.
 
 Dies sind möglicherweise einer Klasse zugeordnete *Flüchtlingskinder*
@@ -201,16 +173,14 @@ Zeugnissen individuelle Textzeugnisse oder andere Leistungsübersichten
 erhalten.Verarbeiten Sie auch eventuell vorliegende *Anträge* von
 Erziehungsberechtigten.
 
-<<<<<<< HEAD
 ## Zuweisungen o.Ä.
+
 Werden zum Beispiel Zuweisungen zu einer Differenzierungsebene an einer
-=======
-## Zuweisungen o.Ä.Werden zum Beispiel Zuweisungen zu einer Differenzierungsebene an einer
->>>>>>> e16ee7b7a99526abce794a921997f5599a0223e4
 Gesamtschule vorgenommen, nehmen Sie diese soweit wie absehbar schon im
 Vorfeld der Konferenzen mit auf.
 
 ## Vorbereitung der Zeugnisreports
+
 Auf der Webseite des
 [MSB fürSchulverwaltungssoftware](https://www.svws.nrw.de) finden sich aktuelle
 Zeugnisformulare, die für den aktuellen Abschnitt genutzt werden sollen.Unter **
