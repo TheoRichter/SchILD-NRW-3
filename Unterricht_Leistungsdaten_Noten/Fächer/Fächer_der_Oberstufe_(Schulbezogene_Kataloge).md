@@ -24,11 +24,11 @@ in denen sie angeboten werden.Einstellungen, die hier vorgenommen werden, werden
 Beratungstool LuPO berücksichtigt.  
 ----
 
-### Nicht mögliche Fächerkombinationen
+## Nicht mögliche Fächerkombinationen
 
 ![SchILD_Kataloge_Schulbez_FaecherDerGoST_2.png](../../graphics/SchILD_Kataloge_Schulbez_FaecherDerGoST_2.png)
 
- Es ist möglich, jeweils zwei Fächer entweder komplett, oder
+Es ist möglich, jeweils zwei Fächer entweder komplett, oder
 nur bezogen auf jeweilige *Kursarten* gegenseitig auszuschließen. Wird
 die Kursart frei gelassen, gilt der Ausschluss komplett für das jeweilig
 andere Fach.Hier im Beispiel wurde ausgeschlossen, dass "Deutsch im LK" zusammen mit
@@ -37,7 +37,7 @@ andere Fach.Hier im Beispiel wurde ausgeschlossen, dass "Deutsch im LK" zusammen
 
 ![SchILD_Kataloge_Schulbez_FaecherDerGoST_3.png](../../graphics/SchILD_Kataloge_Schulbez_FaecherDerGoST_3.png)
 
- Um Fächer anzuwählen, wird nach dem Klick auf das "**+**"
+Um Fächer anzuwählen, wird nach dem Klick auf das "**+**"
 ein Menü geöffnet, in dem zum einen der Zeitraum gewählt werden muss, in
 welchem der Ausschluss gilt und zum zweiten müssen *zwei* Fächer per
 Haken gewählt werden.Für den Zeitraum kann EF.1 bis Q2.2 oder nur die Q-Phase Q1.1 bis Q2.2
@@ -45,7 +45,7 @@ gewählt werden. Letzterer ist sinnvoll, um nicht mögliche LK-LK oder
 LK-GK Kombinationen für die Abiturfächer zu blockieren.Im Anschluss an die Fachwahl können die Kursarten 1 und 2 nach Wunsch
 eingetragen werden.  
 
-### Fächerprofile
+## Fächerprofile
 
 ![SchILD_Kataloge_Schulbez_FaecherDerGoST_4.png](../../graphics/SchILD_Kataloge_Schulbez_FaecherDerGoST_4.png)
 
