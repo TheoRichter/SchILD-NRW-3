@@ -1,6 +1,8 @@
 # Herkunftssprachlicher Unterricht (Tutorial)
 
-## Herkunftssprachlicher Unterricht**Zielgruppe:** Schülerinnen und Schülern mit internationaler
+## Herkunftssprachlicher Unterricht 
+
+**Zielgruppe:** Schülerinnen und Schülern mit internationaler
 Familiengeschichte, die ganz normal am Regelunterricht teilnehmen.**Teilnahmepflicht:** Die Anmeldung verpflichtet zur regelmäßigen
 Teilnahme. Eine Abmeldung ist nur zum Schuljahresende für das kommende
 Schuljahr möglich.**Sprachprüfung:** Schülerinnen und Schüler, die am
@@ -37,7 +39,9 @@ nicht MSAQ-E).-   Schülerinnen und Schüler können mit einer mindestens guten 
 
 ## Zeugnisse und Bescheinigungen
 
-### Zeugnis: Zeugnisse in der innerhalb der Primarstufe Klassen 3 und 4 und Sekundarstufe I
+## Zeugnis: 
+
+Zeugnisse in der innerhalb der Primarstufe Klassen 3 und 4 und Sekundarstufe I
 
 Die Schülerinnen und Schüler erhalten eine Bemerkung auf dem Zeugnis.
 Diese kann als Floskel unter *Kataloge* ➜ **"Floskeln" bearbeiten**
@@ -53,7 +57,7 @@ Dies gilt auch für Klasse 3, wenn die Schulkonferenz beschließt, im
 Zeugnis der Klasse 3 oder im Versetzungszeugnis der Klasse 3 auf Noten
 zu verzichten.In Klasse 4 wird eine Leistungsnote erteilt.
 
-### Zeugnis: Abschlusszeugnisse der Sekundarstufe I
+## Zeugnis: Abschlusszeugnisse der Sekundarstufe I
 
 Die Note wird im Abschlusszeugnis Ende der Sekundarstufe I im
 Prüfungsjahr, oder zeitverzögert in der Sekundarstufe II unter
@@ -69,21 +73,23 @@ Die Note im Fach HERKUNFTSPRACHE beruht auf einer Sprachenprüfung nach der Teil
 Die Herkunftssprache und die Anspruchshöhe (ESA, EESA und MSA) muss in
 der Floskel entsprechend eingetragen werden.
 
-### Zeugnis: Abiturzeugnis und Abgangszeugnisse der Sekundarstufe IIAuf dem Abiturzeugnis und den Abgangszeugnisse der Sekundarstufe II
+## Zeugnis: Abiturzeugnis und Abgangszeugnisse der Sekundarstufe II
+
+Auf dem Abiturzeugnis und den Abgangszeugnisse der Sekundarstufe II
 erfolgt keine Bescheinigung der Prüfungsnote unter Leistungen, sondern
 lediglich das erreichte GER-Niveau B1 unter "Fremdsprachen" auf Seite 4
 mit folgender Bemerkung:` `***`"
 
 Das für HERKUNFTSPRACHE ausgewiesene Niveau wurde durch eine Sprachprüfung nach der Teilnahme am Herkunftssprachlichen Unterricht erreicht.“"`***
 
-### Bescheinigung
+## Bescheinigung
 
 Die Teilnahme am Unterricht in der Herkunftsprache wird zusätzlich gemäß
 Anlage BASS 13-61 Nr. 2 bescheinigt.
 
 ## Einstellungen in Schild-NRW
 
-### Unterrichtsfächer
+## Unterrichtsfächer
 
 ![SchILD_Tutorials_HSU_FachAnlegenpng.png](../../graphics/SchILD_Tutorials_HSU_FachAnlegenpng.png)
 
@@ -107,7 +113,7 @@ werden.
 
   
 
-### Sprachenfolge und Sprachprüfungen
+## Sprachenfolge und Sprachprüfungen
 
 ![SchILD_Tutorials_HSU_Laufbahninfo.png](../../graphics/SchILD_Tutorials_HSU_Laufbahninfo.png)
 
@@ -122,7 +128,7 @@ werden.
 entspricht und tragen Sie weiterhin die Daten der Prüfung ein und setzen
 Sie den Vorgaben entsprechende Haken und das Referenzniveau.
 
-### Leistungsdaten für das Abschlusszeugnis der Sekundarstufe I
+## Leistungsdaten für das Abschlusszeugnis der Sekundarstufe I
 
 ![SchILD_Tutorials_HSU_Leistungsdaten.png](../../graphics/SchILD_Tutorials_HSU_Leistungsdaten.png)
 
@@ -137,6 +143,8 @@ Setzen Sie auch eine **Zeugnisbemerkung**:` `***`"
 
 Die Note im Fach HERKUNFTSPRACHE beruht auf einer Sprachenprüfung nach der Teilnahme am Herkunftssprachlichen Unterricht und wurde auf der Anspruchshöhe ANSPRUCHSHÖHE abgelegt."`***
 
-### Leistungsdaten für Abgangszeugnisse und das AbiturzeugnisZeugnisbemerkung:`  `***`"
+## Leistungsdaten für Abgangszeugnisse und das Abiturzeugnis
+
+Zeugnisbemerkung:`  `***`"
 
 Das für HERKUNFTSPRACHE ausgewiesene Niveau wurde durch eine Sprachprüfung nach der Teilnahme am Herkunftssprachlichen Unterricht erreicht."`***

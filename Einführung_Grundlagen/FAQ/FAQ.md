@@ -2,7 +2,9 @@
 
 ## Datenbank und Installation
 
-### Was ist ein Datenbank-Schema?Unter Datenbank-Schema versteht man eine vorstrukturierte, leere
+## Was ist ein Datenbank-Schema?
+
+Unter Datenbank-Schema versteht man eine vorstrukturierte, leere
 Datenbank. In der leeren Datenbank sind also schon alle Tabellen und
 deren Abhängigkeiten angelegt, jedoch noch keine Daten enthalten.In einer MariaDB können mehrere Schemata liegen, die dann einer
 einzelnen SVWS-Datenbank einer Schule entsprechen, auf die dann mit dem
@@ -12,7 +14,9 @@ dann anderen Schulen gehören oder gar nichts mit Schulen zu tun haben,
 etwa die kommunale Führerscheinstelle oder die Datenbank eines
 Unternehmens.
 
-### Was ist der Unterschied zwischen einem root-, Datenbank und SchILD-NRW 3-Benutzer?-   Ein *Root-Benutzer* ist ein Super-Administrator-Zugang auf den
+## Was ist der Unterschied zwischen einem root-, Datenbank und SchILD-NRW 3-Benutzer?
+
+-   Ein *Root-Benutzer* ist ein Super-Administrator-Zugang auf den
     MariaDB-Server. Er hat Zugriffsrechte auf alle Datenbanken, kann
     diese anlegen und löschen. Er kann beliebige weitere
     Datenbank-Benutzer anlegen. Geht das Root-Kennwort für die MariaDB
@@ -36,7 +40,9 @@ Unternehmens.
     Benutzeroberfläche von SchILD-NRW bereitgestellte
     Datenbankoperationen ausgeführt werden können.
 
-### Wieso wird in so viele unterschiedliche Ordner installiert?Um die Sicherheit des Betriebssystems zu gewährleisten, stattet Windows
+## Wieso wird in so viele unterschiedliche Ordner installiert?
+
+Um die Sicherheit des Betriebssystems zu gewährleisten, stattet Windows
 die unterschiedlichen Ordner mit unterschiedlichen Rechten aus. Der
 SVWS-Server und SchILD-NRW 3 fügen sich hier in diesem Sinne korrekt
 ein.Für die Benutzung des SVWS-Servers und SchILD-NRW werden vier

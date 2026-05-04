@@ -1,6 +1,6 @@
 # Erklärung zur Barrierefreiheit
 
-### Barrierefreiheit dieser Internetseite
+## Barrierefreiheit dieser Internetseite
 
 Das Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen
 ist bemüht, seinen Webauftritt barrierefrei zugänglich zu machen.
@@ -19,7 +19,7 @@ Internetauftritt
 [<https://schulverwaltungsinfos.nrw.de/svws/wiki>](https://schulverwaltungsinfos.nrw.de/svws/wiki)
 und wurde im Juni 2024 angepasst.
 
-### Stand der Vereinbarkeit mit den Anforderungen zur barrierefreien Informationstechnik
+## Stand der Vereinbarkeit mit den Anforderungen zur barrierefreien Informationstechnik
 
 Die Überwachungsstelle für Barrierefreiheit IT.NRW (ÜWAS) hat den
 Webauftritt im Mai 2024 automatisiert auf seine Barrierefreiheit
@@ -38,11 +38,13 @@ Die aufgeführten Inhalte sind nicht barrierefrei:-   Es fehlen Seiten mit Erlä
 -   PDF-Dokumente sind nicht ausreichend barrierefrei gestaltet
 -   XHTML-Syntax ist vereinzelt fehlerhaft
 
-### Erstellung dieser Erklärung
+## Erstellung dieser Erklärung
 
 Diese Erklärung wurde im Juni 2024 zu Düsseldorf angepasst.
 
-### Feedback und KontaktSind Ihnen Mängel beim barrierefreien Zugang zu Inhalten auf dieser
+## Feedback und Kontakt
+
+Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten auf dieser
 Seite aufgefallen? Oder haben Sie Fragen zum Thema Barrierefreiheit?
 Dann können Sie sich gerne bei uns melden. Bitte benutzen Sie dafür das
 vorgesehene Kontaktformular auf dieser Website:
@@ -55,7 +57,7 @@ Datenschutzhinweise.Sie können uns auch per Post oder telefonisch kontaktieren:
 Ministerium für Schule und Bildung des Landes Nordrhein-WestfalenVölklinger Straße 4940221 Düsseldorf<!-- -->  
 Telefon: (0211) 58 67 - 40
 
-### Überwachungsstelle für barrierefreie Informationstechnik des Landes Nordrhein-Westfalen
+## Überwachungsstelle für barrierefreie Informationstechnik des Landes Nordrhein-Westfalen
 
 Die Überwachungsstelle für barrierefreie Informationstechnik des Landes
 Nordrhein-Westfalen prüft regelmäßig, ob und inwiefern Internetseiten
@@ -67,7 +69,9 @@ Umsetzung der gesetzlichen Regelungen zu sorgen.Eine E-Mail an die Überwachungs
 <ombudsstelle-barrierefreie-it@mags.nrw.de> senden.Weitere Informationen zur Überwachungsstelle finden Sie hier:
 [www.mags.nrw/ueberwachungsstelle-barrierefreie-informationstechnik](https://www.mags.nrw/ueberwachungsstelle-barrierefreie-informationstechnik)
 
-### Schlichtungsverfahren/DurchsetzungsverfahrenSollten Sie auf Mitteilungen oder Anfragen zur barrierefreien
+## Schlichtungsverfahren/Durchsetzungsverfahren
+
+Sollten Sie auf Mitteilungen oder Anfragen zur barrierefreien
 Informationstechnik dieser Internetseite keine zufriedenstellende
 Antwort erhalten, können Sie die Ombudsstelle für barrierefreie
 Informationstechnik des Landes Nordrhein-Westfalen einschalten. Die

@@ -60,7 +60,9 @@ Parameter unten). Ist der Parameter gesetzt, wird bei jedem Aufruf der
 Reports zunächst abgefragt, ob eine Ansicht für eine Quartalskonferenz
 oder eine Zeugniskonferenz gewünscht ist.
 
-### Zeugniskonferenz: Quartals- und ZeugnisnotenIn dieser Zeugniskonferenzansicht werden Quartalsnoten und Zeugnisnoten
+## Zeugniskonferenz: Quartals- und Zeugnisnoten
+
+In dieser Zeugniskonferenzansicht werden Quartalsnoten und Zeugnisnoten
 angezeigt. Die Spaltenüberschrift der Beamerprojektion trägt die Titel
 QN und ZN für Quartalsnote und Zeugnisnote. Der Titel des Berichts weist
 zusätzlich darauf hin, dass es sich um eine Zeugniskonferenz handelt.Existiert eine Quartalsnote, wird diese in dunkelgrauer Schrift links
@@ -72,14 +74,18 @@ angezeigt. In diesem Fall wird davon ausgegangen, dass es sich um ein
 Fach ohne Quartalsnote handelt. Defizitäre Noten werden farbig
 hervorgehoben.
 
-### Zeugniskonferenz: nur ZeugnisnotenIn dieser Zeugniskonferenzansicht werden ausschließlich Zeugnisnoten
+## Zeugniskonferenz: nur Zeugnisnoten
+
+In dieser Zeugniskonferenzansicht werden ausschließlich Zeugnisnoten
 angezeigt. Die Spaltenüberschrift der Beamerprojektion trägt den Titel
 ZN für Zeugnisnote. Der Titel des Berichts weist ebenfalls auf die
 Zeugniskonferenz hin.Fehlende Zeugnisnoten werden durch eine farbig hervorgehobene leere
 Notenspalte kenntlich gemacht. Defizitäre Noten werden farbig
 hervorgehoben.
 
-### Quartalskonferenz: nur QuartalsnotenIn der Quartalskonferenzansicht werden ausschließlich Quartalsnoten in
+## Quartalskonferenz: nur Quartalsnoten
+
+In der Quartalskonferenzansicht werden ausschließlich Quartalsnoten in
 einer einzelnen Spalte angezeigt. Die Spaltenüberschrift trägt den Titel
 QN für Quartalsnote. Der Titel des Berichts weist auf die
 Quartalskonferenz hin. Fehlende Quartalsnoten und defizitäre
@@ -95,12 +101,14 @@ Parameter und wertet diese aus.
 
 ![LeistungsuebersichtParameter.png](../../graphics/LeistungsuebersichtParameter.png)
 
-### Parameter DieseKursartenUnterNoteAnzeigenMit dem Parameter DieseKursartenUnterNoteAnzeigen wird gesteuert, welche
+## Parameter DieseKursartenUnterNoteAnzeigen
+
+Mit dem Parameter DieseKursartenUnterNoteAnzeigen wird gesteuert, welche
 Kursarten unter der Note angezeigt werden. Die Standardeinstellung ist
 ***GKM,GKS,VTF,E,G***. Sie können hier beliebige Kursarten, durch Komma
 getrennt, eintragen. Verwenden Sie keine Leerzeichen.
 
-### Parameter UeberspringeFaecherMit
+## Parameter UeberspringeFaecherMit
 
 DiesenKursartenMit dem Parameter UeberspringeFaecherMit
 
@@ -110,16 +118,22 @@ Fächertabelle ausgegeben werden. Die Standardeinstellung ist
 ***AGGT,ZUV***. Sie können beliebige allgemeine Kursarten eintragen.
 Verwenden Sie keine Leerzeichen.
 
-### Parameter NurFaecherMitMarkerAufZeugnisMit dem Parameter NurFaecherMitMarkerAufZeugnis wird gesteuert, ob nur
+## Parameter NurFaecherMitMarkerAufZeugnis
+
+Mit dem Parameter NurFaecherMitMarkerAufZeugnis wird gesteuert, ob nur
 Fächer mit dem Marker ***Auf Zeugnis ausgegeben**'' gedruckt werden. Sie
 können dem Parameter die Werte True oder False zuweisen. Die
 Standardeinstellung ist***True**''.
 
-### Parameter NotenOhneTendenzAusgebenMit dem Parameter NotenOhneTendenzAusgeben wird gesteuert, ob Noten mit
+## Parameter NotenOhneTendenzAusgeben
+
+Mit dem Parameter NotenOhneTendenzAusgeben wird gesteuert, ob Noten mit
 oder ohne Tendenz ausgegeben werden. Sie können dem Parameter die Werte
 True oder False zuweisen. Die Standardeinstellung ist ***True***.
 
-### Parameter AbfrageKonferenzartÜber den Parameter AbfrageKonferenzart wird geregelt, ob beim Start nach
+## Parameter AbfrageKonferenzart
+
+Über den Parameter AbfrageKonferenzart wird geregelt, ob beim Start nach
 der Konferenzart gefragt werden soll. Ist der Parameter aktiviert,
 erscheint beim Aufruf des Reports ein Abfragefenster zur Auswahl der
 Konferenzart und der zugehörigen Ansicht. Zur Auswahl stehen drei

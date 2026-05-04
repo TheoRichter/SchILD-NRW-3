@@ -1,4 +1,6 @@
-# Lernplattformen (Schulbezogene Kataloge)Hier können die von der Schule verwendeten **Lernplattformen** verwaltet
+# Lernplattformen (Schulbezogene Kataloge)
+
+Hier können die von der Schule verwendeten **Lernplattformen** verwaltet
 werden. Diese Angaben erhalten Relevanz, wenn die Einwilligungen für
 diese Lernplattformen für die Schülerinnen und Schüler und die
 Lehrkräfte dokumentiert werden.
@@ -27,7 +29,9 @@ Dieser Schritt kann auch später mit denselben Optionen in Form eines
 Die Einträge in der Spalte **Sortierung** kann genutzt werden, um die
 Sortierreihenfolge zu ändern.  
 
-## Bearbeiten von LernplattformenDurch einen Doppelklick in das entsprechende Feld in der Spalte
+## Bearbeiten von Lernplattformen
+
+Durch einen Doppelklick in das entsprechende Feld in der Spalte
 "Bezeichnung" kann die Bezeichnung bereits angelegter Lernplattformen
 geändert werden.Ein Klick auf das **-** löscht die angelegte Lernplattform nach
 Bestätigung einer Dialogabfrage.

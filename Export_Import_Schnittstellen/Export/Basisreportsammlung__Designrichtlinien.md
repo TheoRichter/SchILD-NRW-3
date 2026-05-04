@@ -6,7 +6,9 @@ Dieser Artikel listet Vorschläge auf, die Reports übersichtlich, gut
 wartbar und möglichst fehlerfrei machen sollen. Die neue
 Basisreportsammlung wurde entsprechend dieser Leitlinien entwickelt.
 
-### Grundregeln1.  Nutzen Sie, wenn möglich, existierende Reports der
+## Grundregeln
+
+1.  Nutzen Sie, wenn möglich, existierende Reports der
     Basisreportsammlung. Erzeugen Sie nach Möglichkeit keine speziellen
     Einzelfall-Reports.
 2.  Nutzen Sie, wenn möglich, die Serienbriefe, für die Sie eigene Texte
@@ -16,9 +18,11 @@ Basisreportsammlung wurde entsprechend dieser Leitlinien entwickelt.
     der Reports aus der Basisreportsammlung an und übernehmen Sie so
     viel vom bestehenden Layout wie möglich.
 
-### Layout
+## Layout
 
-#### Allgemeine Gestaltung-   Achten Sie auf ein einheitliches Layout von neuen Reports. Basieren
+## Allgemeine Gestaltung
+
+-   Achten Sie auf ein einheitliches Layout von neuen Reports. Basieren
     Sie Ihre Reports, wenn möglich, auf der Basisreportsammlung.
 -   Im „offiziellen“ Bereich – etwa bei Briefen an Erziehungsberechtigte
     – kann überlegt werden, die Schriftgröße anzupassen, damit die
@@ -33,7 +37,9 @@ Basisreportsammlung wurde entsprechend dieser Leitlinien entwickelt.
     oder sogar dreispaltig. Beispiele hierfür wären aktuelle
     Stammblätter.
 
-#### Robustheit & Dynamik-   Das Layout muss robust gegenüber erwarteten und unerwarteten langen
+## Robustheit & Dynamik
+
+-   Das Layout muss robust gegenüber erwarteten und unerwarteten langen
     Einträgen sein. Ein Beispiel wäre, dass lange Namen abgeschnitten
     werden oder dass Felder in andere hineinragen. Planen Sie hier so,
     dass es möglichst keine Kollisionen gibt. Falls sich mögliche
@@ -43,7 +49,9 @@ Basisreportsammlung wurde entsprechend dieser Leitlinien entwickelt.
 -   Um Felder in der Höhe wachsen zu lassen, verwenden Sie Memofelder.
     Dadurch passt sich auch der Detailbereich dynamisch an.
 
-#### Detailbereich & Hintergründe-   Verwenden Sie keine dynamisch eingebundenen Subreports. Wenn solche
+## Detailbereich & Hintergründe
+
+-   Verwenden Sie keine dynamisch eingebundenen Subreports. Wenn solche
     Subreports verändert werden, kann im eigentlichen Report alles
     verschoben werden und Schriftarten sowie Layouts nicht mehr passen.
 -   Nutzen Sie keinen Code, um etwa alternierende Hintergründe zu
@@ -56,10 +64,12 @@ Basisreportsammlung wurde entsprechend dieser Leitlinien entwickelt.
 -   Ebenso kann der Detailbereich genutzt werden, um Rahmen zu erzeugen.
     Nutzen Sie hier bitte keine Formen oder Linien.
 
-#### Dateiname-   Legen Sie den Dateinamen des Reports über eine Systemvariable im Fuß
+## Dateiname
+
+-   Legen Sie den Dateinamen des Reports über eine Systemvariable im Fuß
     ab.
 
-### Technik
+## Technik
 
 Dieser Abschnitt beschreibt technische Aspekte der Reportstruktur und
 des Datenflusses, jedoch nicht den Einsatz von Code.-   Laden Sie keine Header und Footer nach; der Report soll für sich
@@ -84,7 +94,7 @@ des Datenflusses, jedoch nicht den Einsatz von Code.-   Laden Sie keine Header u
     Breite (Width) numerisch per Zahleneingabe händisch auf ganze Zahlen
     oder genaue Nachkommastellen setzen.
 
-### Code
+## Code
 
 Dieser Abschnitt behandelt ausschließlich den Einsatz von Code innerhalb
 von Reports.-   Vermeiden Sie Code, wo immer dies möglich ist. Sollte der

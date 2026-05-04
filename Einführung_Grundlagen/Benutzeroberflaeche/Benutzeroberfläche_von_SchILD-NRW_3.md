@@ -10,7 +10,9 @@ Verfügung.
 Diese Seite gibt Ihnen einen Überblick über den grundsätzlichen Aufbau
 der Oberfläche und hilft Ihnen, sich schnell zu orientieren.
 
-## Grundprinzip der BenutzeroberflächeSchILD-NRW 3 folgt einem einheitlichen Bedienkonzept:-   Aufgaben sind thematisch in **Karteireitern** zusammengefasst
+## Grundprinzip der Benutzeroberfläche
+
+SchILD-NRW 3 folgt einem einheitlichen Bedienkonzept:-   Aufgaben sind thematisch in **Karteireitern** zusammengefasst
 -   Jeder Karteireiter besitzt eine eigene **Ribbon-Struktur**
 -   Die verfügbaren Aktionen hängen von der **aktuellen Auswahl** ab
 
@@ -28,82 +30,91 @@ Die wichtigsten Bereiche der Benutzeroberfläche sind über Karteireiter
 erreichbar. Ein Klick auf einen Karteireiter wechselt den
 Arbeitsbereich.
 
-### VerwaltungZentrale Einstellungen der Schule und organisatorische Aufgaben.Typische Inhalte:-   Schuleinstellungen
+## Verwaltung
+
+Zentrale Einstellungen der Schule und organisatorische Aufgaben.Typische Inhalte:-   Schuleinstellungen
 -   Schuljahreswechsel
 -   Benutzer- und Rechteverwaltung
 -   Grundlegende Verwaltungsfunktionen→ 
 
 DEADLINK: Verwaltung - Verwaltung.md
 
-### LehrkräfteVerwaltung aller Lehrkräfte und ihrer zugehörigen Daten.Typische Inhalte:-   Stammdaten der Lehrkräfte
+## Lehrkräfte
+
+Verwaltung aller Lehrkräfte und ihrer zugehörigen Daten.Typische Inhalte:-   Stammdaten der Lehrkräfte
 -   Einsatz und Zuordnungen
 -   Lehrbefähigungen und Fächer→ 
 
 DEADLINK: Lehrkräfte - Lehrkräfte.md
 
-### SchülerZentraler Arbeitsbereich für die tägliche Arbeit im Schulsekretariat.Typische Inhalte:-   Schülerstammdaten
+## Schüler
+
+Zentraler Arbeitsbereich für die tägliche Arbeit im Schulsekretariat.Typische Inhalte:-   Schülerstammdaten
 -   Klassen, Jahrgänge und Bildungsgänge
 -   Leistungs- und Notendaten
 -   Abschlüsse und Versetzungen→ 
 
 DEADLINK: Schüler - Schüler.md
 
-### AuswahlWerkzeuge zum Suchen, Filtern und Zusammenstellen von Schüler- oder
+## Auswahl
+
+Werkzeuge zum Suchen, Filtern und Zusammenstellen von Schüler- oder
 Personengruppen.Typische Inhalte:-   Filter nach Klassen, Jahrgängen, Merkmalen
 -   Mehrfachauswahl von Datensätzen
 -   Vorbereitung von Gruppenprozessen→ 
 
 DEADLINK: Auswahl - Auswahl.md
 
-### GruppenprozesseSerienbearbeitung für mehrere ausgewählte Datensätze gleichzeitig.Typische Inhalte:-   Massenänderungen
+## Gruppenprozesse
+
+Serienbearbeitung für mehrere ausgewählte Datensätze gleichzeitig.Typische Inhalte:-   Massenänderungen
 -   Statuswechsel
 -   Serienfunktionen→ 
 
 DEADLINK: Gruppenprozesse - Gruppenprozesse.md
-
-
 
 Gruppenprozesse wirken immer auf die aktuell ausgewählte
 Menge. Prüfen Sie die Auswahl vor dem Start sorgfältig.
 
 
 
-### KatalogePflege der grundlegenden Daten, die in SchILD-NRW 3 verwendet werden.Typische Inhalte:-   Fächer
+## Kataloge
+
+Pflege der grundlegenden Daten, die in SchILD-NRW 3 verwendet werden.Typische Inhalte:-   Fächer
 -   Klassenarten
 -   Abschlüsse
 -   Bildungsgänge→ 
 
 DEADLINK: Kataloge - Kataloge.md
 
-
-
 Viele Eingabefelder und Funktionen stehen erst zur
 Verfügung, wenn die entsprechenden Kataloge korrekt gepflegt
 sind.
 
+## Reportverwaltung
 
-
-### ReportverwaltungErstellung und Ausgabe von Berichten und Formularen.Typische Inhalte:-   Zeugnisdruck
+Erstellung und Ausgabe von Berichten und Formularen.Typische Inhalte:-   Zeugnisdruck
 -   Serienbriefe
 -   Auswertungen→ 
 
 DEADLINK: Reportverwaltung - Reportverwaltung.md
 
-## Die Ribbon-LeisteUnterhalb der Karteireiter befindet sich die **Ribbon-Leiste**. Sie
+## Die Ribbon-Leiste
+
+Unterhalb der Karteireiter befindet sich die **Ribbon-Leiste**. Sie
 enthält Schaltflächen für alle Aktionen, die im aktuellen Karteireiter
 möglich sind.Merkmale der Ribbon-Leiste:-   Die Schaltflächen sind thematisch gruppiert
 -   Je nach Auswahl werden Schaltflächen aktiviert oder deaktiviert
 -   Die verfügbaren Funktionen ändern sich beim Wechsel des
     Karteireiters
 
-
-
 Wenn eine Schaltfläche grau dargestellt ist, fehlt meist
 eine passende Auswahl (z. B. kein Schüler markiert).
 
 
+## Zusammenspiel von Auswahl und Aktionen
 
-## Zusammenspiel von Auswahl und AktionenEin zentrales Konzept in SchILD-NRW 3 ist das Zusammenspiel von:-   **Auswahl** (z. B. ein oder mehrere Schüler)
+Ein zentrales Konzept in SchILD-NRW 3 ist das Zusammenspiel von:-   **Auswahl** (z. B. ein oder mehrere Schüler)
 -   **Karteireiter**
 -   **Ribbon-Schaltflächen**
 

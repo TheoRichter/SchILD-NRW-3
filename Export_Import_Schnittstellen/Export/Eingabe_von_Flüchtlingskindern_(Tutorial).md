@@ -4,7 +4,9 @@ Fehler zeigt.
 
 ## Individualdaten
 
-### Individualdaten ITragen Sie die Individualdaten wie gewohnt nach besten Wissen ein.
+## Individualdaten I
+
+Tragen Sie die Individualdaten wie gewohnt nach besten Wissen ein.
 
 ![SchILD_Tutorials_Flucht_1_Staat.png](../../graphics/SchILD_Tutorials_Flucht_1_Staat.png)
 
@@ -17,7 +19,7 @@ Fehler zeigt.
 -   **Statistik-Jahrgang**: Tragen Sie unter *Aktuelle Laufbahndaten*
     einen Jahrgang ein, der dem Alter des Schülers in etwa entspricht.  
 
-### Individualdaten II
+## Individualdaten II
 
 ![SchILD_Tutorials_Flucht_3_IndividualdatenII.png](../../graphics/SchILD_Tutorials_Flucht_3_IndividualdatenII.png)
 
@@ -51,7 +53,9 @@ Einträge vorgenommen werden:-   **Schulform**: leer
  Flüchtlingskinder können entweder einer hierfür angelegten
 Klasse zugeordnet werden oder auf Regelklassen verteilt werden.
 
-### Zuordnung zu einer eigenen KlasseEs ist möglich, neu zugewanderte Schülerinnen und Schüler ausschließlich
+## Zuordnung zu einer eigenen Klasse
+
+Es ist möglich, neu zugewanderte Schülerinnen und Schüler ausschließlich
 in eigenständigen Klassen in vollständig äußerer Differenzierung zu
 unterrichten. Die zugewanderten Schülerinnen und Schüler nehmen dann an
 keinem Unterricht der anderen Regelklassen teil, sondern bilden eine
@@ -75,7 +79,9 @@ unter den aktuellen Laufbahndaten auf dem Reiter *Individualdaten I*.
 Diese Klassenart darf nur für Flüchtlinge verwendet werden, welche nicht
 am Regelunterricht von Regelklassen teilnehmen.
 
-### Zuordnung zu den RegelklassenSollten die Flüchtlingskinder auf die *Regelklassen* der Schule verteilt
+## Zuordnung zu den Regelklassen
+
+Sollten die Flüchtlingskinder auf die *Regelklassen* der Schule verteilt
 sein und einzelne Deutschförderangebote erhalten, so bekommen die
 Schüler die **Klassenart** *"Regelklasse"*, so wie alle anderen Schüler
 auch.

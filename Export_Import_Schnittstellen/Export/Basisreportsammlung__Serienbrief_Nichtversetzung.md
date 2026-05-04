@@ -1,6 +1,8 @@
 # Basisreportsammlung: Serienbrief Nichtversetzung
 
-## Serienbrief NichtversetzungDer Serienbrief in SchILD-NRW 3 erzeugt Anschreiben an nichtversetzte
+## Serienbrief Nichtversetzung
+
+Der Serienbrief in SchILD-NRW 3 erzeugt Anschreiben an nichtversetzte
 Schülerinnen und Schüler. Zunächst werden über Filter I alle
 Schülerinnen und Schüler gefiltert, die nicht versetzt wurden. Der
 Serienbrief analysiert bei diesen Schülerinnen und Schülern die
@@ -36,7 +38,9 @@ Schülerin und jeder Schüler das korrekte Anschreiben erhält, analysiert
 der Serienbrief die Schulform, die Gliederung, den Jahrgang, das
 Versetzungskürzel, die Wiederholung sowie die Verweildauer.
 
-## Filtern der nichtversetzten Schülerinnen und SchülerRufen Sie *Filter I ➜ Lernabschnitt / Leistungsdaten* auf. Wählen Sie
+## Filtern der nichtversetzten Schülerinnen und Schüler
+
+Rufen Sie *Filter I ➜ Lernabschnitt / Leistungsdaten* auf. Wählen Sie
 dort die Versetzungsvermerke *Nichtversetzt* und *N.v., Nachprüfung
 möglich* aus. In manchen Fällen ist zusätzlich der Versetzungsvermerk
 *Abschluss* hinzuzunehmen.Es werden daraufhin alle Schülerinnen und Schüler gefiltert, die ein
@@ -87,7 +91,9 @@ werden. Der Code ist so strukturiert, dass individuelle Anpassungen
 leicht vorgenommen werden können. Dort können auch die Dateinamen der
 RTF-Dokumente definiert und Sonderfälle hinterlegt werden.
 
-## Weitere InformationenBei dem Serienbrief handelt es sich um einen erweiterten Serienbrief an
+## Weitere Informationen
+
+Bei dem Serienbrief handelt es sich um einen erweiterten Serienbrief an
 Erzieher. Damit der Serienbrief unterschiedliche RTF-Dokumente
 schülerindividuell einlesen kann, muss der Parameter *rtfLaden* den Wert
 *nein* haben. Dies entspricht der Voreinstellung. Andernfalls würde kein

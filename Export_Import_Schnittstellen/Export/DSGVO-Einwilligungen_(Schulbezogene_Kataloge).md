@@ -1,4 +1,6 @@
-# DSGVO-Einwilligungen (Schulbezogene Kataloge)DSGVO-Einwilligungen dienen dazu, Einwilligungen gemäß der
+# DSGVO-Einwilligungen (Schulbezogene Kataloge)
+
+DSGVO-Einwilligungen dienen dazu, Einwilligungen gemäß der
 Datenschutzgrundverordnung in die **Verarbeitung personenbezogener
 Daten** zu verwalten, die für Schülerinnen und Schüler oder von
 Lehrkräften erteilt wurden.Darunter fallen zusätzliche Verwendungen personenbezogener Daten, die

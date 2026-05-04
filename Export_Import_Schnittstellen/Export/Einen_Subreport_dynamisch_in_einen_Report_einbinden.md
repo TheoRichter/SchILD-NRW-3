@@ -1,4 +1,6 @@
-# Einen Subreport dynamisch in einen Report einbindenIn diesem vertiefenden Beispiel wird ein **Schulkopf** in einen
+# Einen Subreport dynamisch in einen Report einbinden
+
+In diesem vertiefenden Beispiel wird ein **Schulkopf** in einen
 bestehenden Report eingebunden. Hierzu wird ein **Subreport** verwendet,
 der sich im Ordner **Header_Footer** befindet.Ein **Subreport** ist ein eigener Report, der in einen anderen Report
 eingebunden wird. Dies ermöglicht es, wiederkehrende Elemente wie

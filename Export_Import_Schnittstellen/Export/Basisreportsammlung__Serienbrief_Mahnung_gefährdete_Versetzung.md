@@ -1,6 +1,8 @@
 # Basisreportsammlung: Serienbrief Mahnung gefährdete Versetzung
 
-## Der Serienbrief Mahnungen gefährdete VersetzungDer Serienbrief „Mahnung gefährdete Versetzung“ in SchILD-NRW 3 ist ein
+## Der Serienbrief Mahnungen gefährdete Versetzung
+
+Der Serienbrief „Mahnung gefährdete Versetzung“ in SchILD-NRW 3 ist ein
 Serienbrief mit erweiterten Funktionen und einem Rückantwortabschnitt.
 Der Mahnbrief wurde in enger Abstimmung mit dem MSB konzipiert.Folgende Vorgaben wurden vom MSB festgelegt:1.  Der Mahnbrief muss dem Muster aus der APO-SI entsprechen.
 2.  Ein dezidierter Abschluss muss bei einer Abschlussgefährdung nicht

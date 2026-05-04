@@ -1,6 +1,8 @@
 # Basisreportsammlung: Serienbriefe
 
-## Die SerienbriefeIm Serienbriefpaket werden mehrere Reports zur Verfügung gestellt, unter
+## Die Serienbriefe
+
+Im Serienbriefpaket werden mehrere Reports zur Verfügung gestellt, unter
 anderem ein Serienbrief an Erzieher, ein Serienbrief an Schülerinnen und
 Schüler sowie ein Serienbrief an Betriebe.
 
@@ -23,7 +25,9 @@ entfallen.
 
 ![Serienbrief_reportdesigneransicht.jpg](../../graphics/Serienbrief_reportdesigneransicht.jpg)
 
-## Grundidee des SerienbriefesDer Serienbriefreport besteht im Kern aus zwei Komponenten:1.  dem Briefkopf mit Absenderangaben, Logo, Adressfeld und Infoblock
+## Grundidee des Serienbriefes
+
+Der Serienbriefreport besteht im Kern aus zwei Komponenten:1.  dem Briefkopf mit Absenderangaben, Logo, Adressfeld und Infoblock
     und
 2.  dem Textteil.Der Briefkopf muss einmalig an die schulischen Bedürfnisse angepasst
 werden und wird dann in der Regel zukünftig nicht mehr geändert. Beim
@@ -45,11 +49,15 @@ Sie können aber auch an jedem anderen beliebigen Ort gespeichert werden,
 da vor dem eigentlichen Druck nach dem Speicherort des Brieftextes
 gefragt wird.
 
-## Standardablauf für den AusdruckNach dem einmaligen Einrichten des Briefkopfes sieht der Standardablauf
+## Standardablauf für den Ausdruck
+
+Nach dem einmaligen Einrichten des Briefkopfes sieht der Standardablauf
 für einen Ausdruck dann folgendermaßen aus (beide Varianten werden
 später ausführlicher erläutert).
 
-### Ablauf mit externem RTF-Dokument1.  Erstellen des reinen Brieftextes auf der Windows-Ebene in einem
+## Ablauf mit externem RTF-Dokument
+
+1.  Erstellen des reinen Brieftextes auf der Windows-Ebene in einem
     Textverarbeitungsprogramm. Fangen Sie in der ersten Zeile an zu
     schreiben. Seitenränder spielen keine Rolle. Sie können den Text
     formatieren. Bilder, Tabellen o. ä. können nicht hinzugefügt werden.
@@ -63,7 +71,9 @@ später ausführlicher erläutert).
     entsprechenden Brieftext im Format „.rtf“ aus.
 5.  Der Serienbrief wird erzeugt.
 
-### Ablauf ohne externes RTF-Dokument1.  In SchILD-NRW Aufruf des Report-Explorers und dort Bearbeiten des
+## Ablauf ohne externes RTF-Dokument
+
+1.  In SchILD-NRW Aufruf des Report-Explorers und dort Bearbeiten des
     Reports „Serienbrief Eltern DIN 5008 @Eltern.rtm“ über die rechte
     Maustaste.
 2.  Mit der rechten Maustaste den Brieftext bearbeiten. Schließen und
@@ -75,7 +85,9 @@ später ausführlicher erläutert).
     kein externer Brieftext geladen wird.
 6.  Der Serienbrief wird erzeugt.
 
-## Vorbereiten des BriefkopfesWählen Sie in SchILD „Druckausgabe – Report-Explorer aufrufen“.
+## Vorbereiten des Briefkopfes
+
+Wählen Sie in SchILD „Druckausgabe – Report-Explorer aufrufen“.
 Navigieren Sie im Report-Explorer zum gewünschten Serienbrief. Rufen Sie
 mit Rechtsklick das Kontextmenü auf und wählen Sie dort „Report
 bearbeiten“. In den Serienbriefen sehen Sie sofort das Brieflayout.Passen Sie nun zunächst den Infoblock an. Sie können nach einem
@@ -120,7 +132,9 @@ mehr, da der Programmcode die Originalbezeichnungen erwartet. Dies
 können Sie im Berichtsbaum des Reportdesigners erkennen und ggf.
 rückgängig machen.
 
-## Erstellen des TextteilsSchreiben Sie den gewünschten Serienbrief zunächst in einem
+## Erstellen des Textteils
+
+Schreiben Sie den gewünschten Serienbrief zunächst in einem
 Textverarbeitungsprogramm (Word, WordPad, LibreOffice etc.). Verfassen
 Sie den Textteil des Briefes so, wie Sie ihn normalerweise vor dem
 Hintergrund eines männlichen Schülers verfassen würden. Dies vereinfacht
@@ -149,7 +163,9 @@ Speichern Sie diesen Brief im Ordner
 Verwendung des Speicherformats „.rtf“. Der Brief heißt z. B. „Einladung
 Theater.rtf“.
 
-## Serienbrief druckenWählen Sie zunächst in SchILD-NRW die Schülermenge aus. Über den
+## Serienbrief drucken
+
+Wählen Sie zunächst in SchILD-NRW die Schülermenge aus. Über den
 Menüpunkt „Druckausgabe - Report-Explorer aufrufen“ gelangen Sie in die
 Ordneransicht des Report-Explorers. Navigieren Sie hier zu den
 Serienbrief-Reports. Wählen Sie z. B. „Serienbrief DIN 5008 @Eltern.rtm“
@@ -170,7 +186,9 @@ Klassenlehrer/Klassenlehrerin) wird der Brief nun korrekt ausgegeben:
 
 ![Serienbrief_platzhalterersetzung_weiblich.jpg](../../graphics/Serienbrief_platzhalterersetzung_weiblich.jpg)
 
-## Variante: Textteil direkt im Reportdesigner ändernSie können den Textteil auch direkt im Reportdesigner oder vor dem
+## Variante: Textteil direkt im Reportdesigner ändern
+
+Sie können den Textteil auch direkt im Reportdesigner oder vor dem
 Ausdruck eingeben. Um den Brieftext im Reportdesigner einzugeben,
 wechseln Sie in den Bearbeitungsmodus des Reports. Klicken Sie dann mit
 der rechten Maustaste auf den Brieftext und wählen Sie „Bearbeiten“. Sie
@@ -190,12 +208,16 @@ Gebrauch speichern. Schließen Sie das Textfenster über den Menüpunkt
 „Datei \> Ende“ und klicken Sie in der folgenden Abfrage „Änderungen
 übernehmen?“ auf „Ja“.
 
-## Übersicht aller PlatzhalterSie finden auf der Seite 
+## Übersicht aller Platzhalter
+
+Sie finden auf der Seite 
 
 WIKILINK: Basisreportsammlung:_Serienbriefe_Platzhalter
 alle Platzhalter, die in den Serienbriefen verwendet werden können.
 
-## Serien-E-Mail-VersandAnstatt die Serienbriefe zu drucken, können diese auch als
+## Serien-E-Mail-Versand
+
+Anstatt die Serienbriefe zu drucken, können diese auch als
 Serien-E-Mails versendet werden. Hierbei werden die Schüler-Serienbriefe
 an die E-Mail-Adresse der jeweiligen Schülerin bzw. des jeweiligen
 Schülers gesendet und die Eltern-Serienbriefe an alle hinterlegten
@@ -212,7 +234,9 @@ Wenn Sie die Serien-E-Mail-Ausgabe verwenden, werden Sie nach einem
 E-Mail-Text gefragt. Der eigentliche Serienbrief wird der E-Mail als
 PDF-Datei angefügt.
 
-## Parameter mit denen Sie das Verhalten des Serienbriefes steuern könnenSie können das Verhalten des Serienbriefes steuern, indem Sie eingebaute
+## Parameter mit denen Sie das Verhalten des Serienbriefes steuern können
+
+Sie können das Verhalten des Serienbriefes steuern, indem Sie eingebaute
 Schalter (Parameter) festlegen oder ändern. Auf diese Weise können Sie
 den Seriendruck an Ihre Prozesse anpassen und damit den Ausdruck
 beschleunigen. So können Sie mithilfe der Parameter Abfragen vor dem
@@ -229,7 +253,7 @@ Sie die Änderung mit der Eingabetaste abschließen.
 
 0
 
-### rtfLaden
+## rtfLaden
 
 Die Standardeinstellung des Parameters ist „ja“.Der Parameter ist grundlegend dafür verantwortlich, dass gesondert
 gespeicherte RTF-Textdateien geladen werden können. Wird der Parameter
@@ -237,7 +261,7 @@ auf „nein“ gesetzt, wird ausschließlich der im Report befindliche Text
 gedruckt. Hierdurch werden gleichzeitig alle Abfragen, die zum Laden
 eines externen RTF-Brieftextes benötigt werden, abgeschaltet.
 
-### rtfMitAbfrage
+## rtfMitAbfrage
 
 Die Standardeinstellung des Parameters ist „ja“.Der Parameter wird nur berücksichtigt, wenn rtfLaden ebenfalls den Wert
 „ja“ hat. Wenn der Parameter den Wert „ja“ hat, erscheint vor dem Druck
@@ -248,7 +272,9 @@ Schaltfläche „Ja“, öffnet sich ein Fenster, in dem Sie die externe
 RTF-Textdatei auswählen können. Klicken Sie auf „Nein“, wird der im
 Report befindliche Brieftext gedruckt.
 
-### rtfVolljaehrigeLaden (nur im Serienbrief an Erzieher)
+## rtfVolljaehrige
+
+Laden (nur im Serienbrief an Erzieher)
 
 Die Standardeinstellung des Parameters ist „nein“. Der Parameter wird
 nur berücksichtigt, wenn rtfLaden ebenfalls den Wert „ja“ hat. Der
@@ -265,7 +291,7 @@ Reiter „Erz. Berechtigte“. Die Erzieherart muss dabei das Wort
 stellen, sofern der Parameter „rtfVolljaehrigeLaden“ auf den Wert „ja“
 gesetzt wird.
 
-### rtfNachbearbeiten
+## rtfNachbearbeiten
 
 Die Standardeinstellung des Parameters ist „ja“.Wenn dieser Parameter den Wert „ja“ hat, erscheint vor dem Ausdruck ein
 RTF-Bearbeitungsfenster, in dem der Serienbrieftext gesichtet,

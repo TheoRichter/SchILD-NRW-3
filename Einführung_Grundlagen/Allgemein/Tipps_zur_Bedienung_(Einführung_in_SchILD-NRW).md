@@ -1,12 +1,16 @@
-# Tipps zur Bedienung (Einführung in SchILD-NRW)) In diesem Artikel finden sich Tipps zu den Bedienelementen
+# Tipps zur Bedienung (Einführung in SchILD-NRW)) 
+
+In diesem Artikel finden sich Tipps zu den Bedienelementen
 von SchILD-NRW.
 
 ## Nutzeroberfläche
 
-### Spaltenbreiten anpassenSchILD-NRW speichert die von Ihnen eingestellten Spaltenbreiten auf
+## Spaltenbreiten anpassen
+
+SchILD-NRW speichert die von Ihnen eingestellten Spaltenbreiten auf
 individueller Nutzerebene ab.
 
-### Statistikrelevante Felder hervorheben
+## Statistikrelevante Felder hervorheben
 
 ![SchILD_Verwaltung_Einstellungen_individualEinstellungen_FarbeStatistik.png](../../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_FarbeStatistik.png)
 
@@ -73,7 +77,7 @@ Nun sind alle Schüler im Schülercontainer ausgewählt worden.
 
 ## Reports: Schnellzugriff und Schulbescheinigungen, Stammblatt
 
-### Schnellzugriff nutzen
+## Schnellzugriff nutzen
 
 ![SchILD_Tipp_SchnellzugriffAktivieren.png](../../graphics/SchILD_Tipp_SchnellzugriffAktivieren.png)
 
@@ -92,7 +96,7 @@ im Schnellzugriff auftauchen sollen.Vergeben Sie auch eine Beschriftung für die
  Nach einem Neustart steht nun das frei bewegbare schwebende
 Fenster des Schnellzugriffs mit den gesetzten Reports zur Verfügung.  
 
-### Schulbescheinigungen und Stammblatt
+## Schulbescheinigungen und Stammblatt
 
 ![SchILD_Tipp_StammblattSetzen.png](../../graphics/SchILD_Tipp_StammblattSetzen.png)
 

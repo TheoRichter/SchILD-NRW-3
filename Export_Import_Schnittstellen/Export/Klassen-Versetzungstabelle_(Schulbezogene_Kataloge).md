@@ -15,7 +15,8 @@ automatisch übertragen werden. Die **Vorgänger-Klasse** sollte ebenfalls
 korrekt gesetzt werden, diese Information könnte für zum Beispiel
 Blockungsprogramme wichtig sein.Wird eine Klasse in der Tabelle links angewählt, kann diese in "Aktuell
 ausgewählte Klasse" bearbeitet werden. Hier in der Tabelle kann die
-"Sortierung" wie bei allen anderen Katalogen eingestellt werden.-   Die **Schulinterne Bezeichnung** kann wie auch die **Zusätzliche
+"Sortierung" wie bei allen anderen Katalogen eingestellt werden.
+-   Die **Schulinterne Bezeichnung** kann wie auch die **Zusätzliche
     Beschreibung** frei gewählt werden.
 -   Bei den mit "**\***" gekennzeichneten Feldern sind die Vorgaben der
     Statistik einzuhalten. Bei der **Statistik-Bez.** werden Klassen
@@ -47,11 +48,7 @@ ausgewählte Klasse" bearbeitet werden. Hier in der Tabelle kann die
     **Ankreuzkompetenzen** verwendet werden.
 -   Unter **Klassenleitung** können Lehrkräfte mittels der in SchILD
     üblicherweise verwendeten Liste hinzugefügt und entfernt werden.
-
-
--   Wurden Veränderungen bei einer Klasse durchgeführt, können dies
-
-e
+-   Wurden Veränderungen bei einer Klasse durchgeführt, können diese
     direkt über **Aktuelle Angaben in Schülerdaten übernehmen** bei den
     SuS dieser Klasse eingetragen werden.
 -   Sind einer Klasse noch Schüler zugeordnet, kann die Klasse nicht

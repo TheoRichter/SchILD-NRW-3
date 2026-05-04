@@ -3,7 +3,7 @@
 ## PlatzhalterHier finden Sie eine Übersicht aller zur Verfügung stehenden Platzhalter
 in den Serienbriefen aus der Basisreportsammlung
 
-### Vorhandene Platzhalter für Informationen zu Schülerinnen und Schülern
+## Vorhandene Platzhalter für Informationen zu Schülerinnen und Schülern
 | Platzhalter | weiblich | männlich | neutral |
 | --- | --- | --- | --- |
 | $Herr$˽ | Frau | Herr | {leer} |
@@ -56,7 +56,7 @@ in den Serienbriefen aus der Basisreportsammlung
 | $er$ | sie | er | es |
 | $Er$ | Sie | Er | Es |
 
-### Vorhandene Platzhalter für Informationen zu Erziehungsberechtigten
+## Vorhandene Platzhalter für Informationen zu Erziehungsberechtigten
 | Platzhalter | ein Erzieher | zwei Erzieher |
 | --- | --- | --- |
 | $Erzieher$ | Mutter | Eltern |
@@ -76,7 +76,7 @@ in den Serienbriefen aus der Basisreportsammlung
 | $n$ | n | {leer} |
 | $Namen der Eltern$ | Frau Dr. Elenor Richter | Frau Dr. Elenor Richter und Herr Friedrich Richter |
 
-### Vorhandene Platzhalter für Informationen zur Anrede von Erziehern|                       | ein Erzieher / Erwachsener    |                                                 |
+## Vorhandene Platzhalter für Informationen zur Anrede von Erziehern|                       | ein Erzieher / Erwachsener    |                                                 |
 |-----------------------|-------|-|
 | Platzhalter           | Anrede vorhanden              | Anrede nicht vorhanden                          |
 | $Formelle Anrede$     | Sehr geehrte Frau Dr. Richter | Sehr geehrte Erzieherin, sehr geehrter Erzieher |
@@ -84,7 +84,7 @@ in den Serienbriefen aus der Basisreportsammlung
 | $Persoenliche Anrede$ | Liebe Frau Dr. Richter        | Liebe Erzieherin, lieber Erzieher               |
 | $persoenliche Anrede$ | liebe Frau Dr. Richter        | liebe Erzieherin, lieber Erzieher               |
 
-### Vorhandene Platzhalter für Informationen zur Klassenleitung / Stufenleitung
+## Vorhandene Platzhalter für Informationen zur Klassenleitung / Stufenleitung
 | Platzhalter | weiblich | männlich | neutral |
 | --- | --- | --- | --- |
 | $Klassenlehrer$ | Klassenlehrerin Jahrgangsstufenleiterin Beratungslehrerin | Klassenlehrer Jahrgangsstufenleiter Beratungslehrer | Klassenleitung Jahrgangsstufenleitung Beratungslehrkraft |
@@ -106,7 +106,7 @@ in den Serienbriefen aus der Basisreportsammlung
 | $KLAmt$ | StR' | StR | StR |
 | $Herr KLName$ | Frau Dr. Schmidt | Herr Dr. Schmidt | Dr. Schmidt |
 
-### Vorhandene Platzhalter für Informationen zur stellvertretenden Klassenleitung / Stufenleitung
+## Vorhandene Platzhalter für Informationen zur stellvertretenden Klassenleitung / Stufenleitung
 | Platzhalter | weiblich | männlich | neutral |
 | --- | --- | --- | --- |
 | $SKlassenlehrer$ | stellvertretende Klassenlehrerin stellvertretende Jahrgangsstufenleiterin stellvertretende Beratungslehrerin | stellvertretender Klassenlehrer stellvertretender Jahrgangsstufenleiter stellvertretender Beratungslehrer | stellvertretende Klassenleitung stellvertretende Jahrgangsstufenleitung stellvertretende Beratungslehrkraft |
@@ -128,7 +128,7 @@ in den Serienbriefen aus der Basisreportsammlung
 | $SKLAmt$ | StR{leer} | StR | StR |
 | $Herr SKLName$ | Frau Dr. Schneider | Herr Dr. Schneider | Dr. Schneider |
 
-### Vorhandene Platzhalter für Informationen zur Schulleitung| Platzhalter     | weiblich         | männlich         | neutral      |
+## Vorhandene Platzhalter für Informationen zur Schulleitung| Platzhalter     | weiblich         | männlich         | neutral      |
 |-----|------|------|--|
 | $Schulleiter$   | Schulleiterin    | Schulleiter      | Schulleitung |
 | $SLAnrede$˽     | Frau             | Herr             | {leer}       |
@@ -139,7 +139,7 @@ in den Serienbriefen aus der Basisreportsammlung
 | $SLAmt$         | OStR{leer}       | OStR             | OStR{leer}   |
 | $Herr SLName$   | Frau Dr. Fischer | Herr Dr. Fischer | Dr. Fischer  |
 
-### Vorhandene Platzhalter für Informationen zur stellvertretenden Schulleitung| Platzhalter      | weiblich                       | männlich                      | neutral                       |
+## Vorhandene Platzhalter für Informationen zur stellvertretenden Schulleitung| Platzhalter      | weiblich                       | männlich                      | neutral                       |
 |------------------|--------|-------|-------|
 | $SSchulleiter$   | stellvertretende Schulleiterin | stellvertretender Schulleiter | stellvertretende Schulleitung |
 | $SSLAnrede$˽     | Frau                           | Herr                          | {leer}                        |
@@ -150,20 +150,20 @@ in den Serienbriefen aus der Basisreportsammlung
 | $SSLAmt$         | OStR{leer}                     | OStR                          | OStR                          |
 | $Herr SSLName$   | Frau Dr. Meier                 | Herr Dr. Meier                | Dr. Meier                     |
 
-### Vorhandene Platzhalter für Informationen zur Anrede von Betreuern in Betrieben (nur Serienbrief Betrieb)| Platzhalter                    | Anrede weiblich           | Anrede männlich            | Anrede neutral         | Anrede nicht vorhanden        |
+## Vorhandene Platzhalter für Informationen zur Anrede von Betreuern in Betrieben (nur Serienbrief Betrieb)| Platzhalter                    | Anrede weiblich           | Anrede männlich            | Anrede neutral         | Anrede nicht vorhanden        |
 |--------------------------------|---------------------------|----||-------|
 | $Formelle Anrede Betreuer$     | Sehr geehrte Frau Dr. Rau | Sehr geehrter Herr Dr. Rau | Hallo Dr. Jens Rau     | Liebe Damen und Herren        |
 | $formelle Anrede Betreuer$     | sehr geehrte Frau Dr. Rau | sehr geehrter Herr Dr. Rau | hallo Dr. Jens Rau     | liebe Damen und Herren        |
 | $Persoenliche Anrede Betreuer$ | Liebe Frau Dr. Rau        | Lieber Herr Dr. Rau        | Guten Tag Dr. Jens Rau | Sehr geehrte Damen und Herren |
 | $persoenliche Anrede Betreuer$ | liebe Frau Dr. Rau        | lieber Herr Dr. Rau        | Guten Tag Dr. Jens Rau | sehr geehrte Damen und Herren |
 
-### Vorhandene Platzhalter für Informationen zur Schule| Platzhalter Schule               | Ergebnis                                                                 |
+## Vorhandene Platzhalter für Informationen zur Schule| Platzhalter Schule               | Ergebnis                                                                 |
 |----------------------------------|--|
 | $Schule$                         | Einstein-Gymnasium                                                       |
 | $Schule, Anschrift$              | Einstein-Gymnasium, Einsteinstraße 15, 42549 Velbert                     |
 | $Schule, Anschrift, Schulnummer$ | Einstein-Gymnasium, Einsteinstraße 15, 42549 Velbert, Schulnummer 123456 |
 
-### Vorhandene Platzhalter für sonstige Zwecke
+## Vorhandene Platzhalter für sonstige Zwecke
 | Platzhalter | Ereignis |
 | --- | --- |
 | $Seitenwechsel$ | Erzwingt einen Seitenumbruch |
@@ -174,10 +174,10 @@ in den Serienbriefen aus der Basisreportsammlung
 | $Eingabe\|Datum Langform\|Titel$ | Wenn dieser Platzhalter eingesetzt wird, so erscheint beim Aufruf<br>des Reports ein Datums-Auswahlfenster, welches den eingetragenen Titel<br>trägt. Das ausgewählte Datum wird in der Form Sonntag, 04. März 2021<br>gedruckt. Es können beliebig viele Platzhalter verwendet werden. Für jeden<br>unterschiedlichen Platzhalter erfolgt eine eigene Abfrage. |
 | $Briefdatum$ | Der Platzhalter wird mit den Werten ersetzt, die im Datumsfeld<br>des Briefkopfes eingetragen werden. Dieses Datumsfeld wird normalerweise<br>automatisch vom Serienbrief befüllt. Aber auch wenn dort manuell Texte<br>in der Form 'Ort, den Datum', 'Ort, der Datum', 'Ort, Datum' oder<br>'Datum' eingetragen werden, gelingt die Extraktion des<br>Briefdatums. |
 
-### Vorhandene Platzhalter für weitere Ersetzungen in Abhängigkeit des Geschlechts
+## Vorhandene Platzhalter für weitere Ersetzungen in Abhängigkeit des Geschlechts
 | Durch Verwendung von &männliche Form%weibliche Form&<br>können Sie jederzeit eigene Bezeichnungen in Abhängigkeit des<br>Geschlechts im Text ersetzen lassen. Diese Form der Ersetzung<br>berücksichtigt jedoch nicht das dritte Geschlecht. Beispiele: &Klassensprecher%Klassensprecherin& &Klassenbuchführer%Klassenbuchführerin& &der Junge%das Mädchen& |
 | --- |
 
-### Vorhandene Platzhalter aus der Serienbrieffunktion des Reportdesigners
+## Vorhandene Platzhalter aus der Serienbrieffunktion des Reportdesigners
 | Der Reportdesigner enthält von Haus aus eine Serienbrieffunktion,<br>welche weitere Platzhalter innerhalb von RTF-Texten bereithält und somit<br>die oben definierten Platzhalter beliebig erweitert. Hierbei sollte<br>jedoch berücksichtigt werden, dass lediglich auf diejenigen Daten<br>zugegriffen werden kann, die von der Hauptdatenquelle „Schueler“ bzw.<br>„Erzieher“ erreicht werden können. Dies können auch die obersten<br>Einträge von Untertabellen sein, oder die Einträge von Tabellen, die mit<br>den Hauptpipelines in einer 1:1 Beziehung stehen. Der Reportdesigner liefert eine komfortable Möglichkeit, diese<br>Platzhalter einzufügen. Klicken Sie hierzu mit der rechten Maustaste auf<br>den Brieftext und wählen im Kontextmenü „Bearbeiten“. Sie gelangen in<br>den RichText‑Editor, welcher auf der rechten Seite die Platzhalter für<br>die Serienbrief (Mail Merge)-Funktion bereithält. Wählen Sie hier eine<br>geeignete Pipeline und das gewünschte Feld. Im Bereich „Display Format“<br>können Sie zudem das Aussehen des einzufügenden Textes manipulieren. Ein<br>Doppelklick auf das gewünschte Feld fügt den Platzhalter an der Position<br>des Cursors im RTF-Text ein. Im gezeigten Beispiel wird das Alter eines<br>Schulkindes durch den Platzhalter Alter eingefügt. Sie können so gestaltete RTF-Texte auch in eine externe RTF-Datei<br>abspeichern und beim Aufruf des Serienbriefs laden. |
 | --- |

@@ -8,7 +8,7 @@ Reihenfolge sie stehen, kann im Karteireiter *Kataloge* eingestellt
 werden.  
 ==Gemeinsamkeiten aller Kataloge==
 
-### Einfügen und Löschen von Einträgen
+## Einfügen und Löschen von Einträgen
 
 ![Schild_Kataloge_Allgemein_neuerDatensatz.png](../../graphics/Schild_Kataloge_Allgemein_neuerDatensatz.png)
 
@@ -17,7 +17,7 @@ der aktuell ausgewählten Position eingefügt werden.Der Eintrag wird durch eine
 Klick in eine andere Zeile der Tabelle übernommen.Durch einen Klick auf das **-** kann der aktuell ausgewählte Datensatz,
 in einem Katalog ist das eine *Tabellenzeile*, gelöscht werden.
 
-### Suchen
+## Suchen
 
 ![Schild_Kataloge_Allgemein_Suchen.png](../../graphics/Schild_Kataloge_Allgemein_Suchen.png)
 
@@ -27,7 +27,7 @@ entweder mit der Return-Taste oder durch einen Klick auf das
 Filtersymbol am rechten Ende des Eingabefeldes bestätigt.Zur Aufhebung des Suchfilters kann dann das **X** rechts neben dem
 Suchfeld angeklickt werden.
 
-### Sortierung
+## Sortierung
 
 ![Schild_Kataloge_Allgemein_SortierungSichtbar.png](../../graphics/Schild_Kataloge_Allgemein_SortierungSichtbar.png)
 
@@ -58,7 +58,7 @@ behalten, verstecken Sie aber im Tagesbetrieb. Die Klasse 5f wird gerade
 nicht benötigt, behalten Sie diese aber noch in der Versetzungstabelle
 und schalten Sie sie nur auf *unsichtbar*.
 
-### Excel-Export
+## Excel-Export
 
 Die Kataloge können im Excel-Format exportiert werden, um außerhalb von
 SchILD-NRW verwendet zu werden.

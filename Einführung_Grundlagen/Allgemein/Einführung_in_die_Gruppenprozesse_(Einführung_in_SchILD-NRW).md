@@ -41,7 +41,7 @@ der *Individualdaten* zur Verfügung gestellt werden. Eine Veränderung
 hier wird für die gesamte Schülergruppe im *Container* durchgeführt.Im Gruppenprozess *Individualdaten ändern* sind auch noch weitere Felder
 über die zusätzlichen Reiter zu erreichen.  
 
-### Beispiel: Abändern des Feldes Status
+## Beispiel: Abändern des Feldes Status
 
 Die Schule wurde ins neue Schuljahr hochgeschult. Die Schülerinnen und
 Schüler der 05A wurden zu diesem Schuljahr neu aufgenommen und haben

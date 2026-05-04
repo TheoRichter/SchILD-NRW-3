@@ -1,6 +1,8 @@
 # Fehlzeiten (Aktuelles Halbjahr / Aktueller Abschnitt
 
-## Fehlzeiten tagesbezogen verwaltenIm Reiter *Fehlzeiten* können beliebige Fehlzeiten, die Option hier ist
+## Fehlzeiten tagesbezogen verwalten
+
+Im Reiter *Fehlzeiten* können beliebige Fehlzeiten, die Option hier ist
 *"tagesbezogen"*, erfasst werden. Die Erfassung erfolgt aufgrund der
 entsprechenden Daten auch konkreten Stunden, Fächern und Lehrkräften
 zugeordnet.
@@ -34,7 +36,9 @@ einstellen.Jeder der beiden Einträge lässt zwischen folgenden Arten wählen:- 
     Fehlzeiten durch etwa eine Klassenleitung in dem Modul eingetragen
     werden.  
 
-## Auswerten von FehlzeitenIn den *Allgemeinen Angaben* lässt sich auch das Feld "**Max.Fehlstd.**"
+## Auswerten von Fehlzeiten
+
+In den *Allgemeinen Angaben* lässt sich auch das Feld "**Max.Fehlstd.**"
 mit einem Wert für maximale Fehlstunden befüllen. Überschreiten die
 **Fehlstunden** den hier gesetzten Wert, wird er fett gedruckt.
 
@@ -48,7 +52,9 @@ entsprechend weiter zu nutzen. Der Filter I erlaubt auch eine Angabe von
 positiven ("Überschreitung") oder negativen Werten ("nahe dran"), um auf
 eine *Abweichung vom Grenzwert* zu filtern.  
 
-### Datenquellen im ReportbaukastenAuf Fehlzeiten kann im Reportbaukasten mit den entsprechenden
+## Datenquellen im Reportbaukasten
+
+Auf Fehlzeiten kann im Reportbaukasten mit den entsprechenden
 Datenquellen zugegriffen werden.-   *SchuelerFehlzeiten*: Diese *schüler*bezogene Datenquelle gibt für
     den Schüler die im jeweiligen Lernabschnitt angefallenen Fehlzeiten
     aus. Der Report muss hierzu also ein Element der Datenquelle

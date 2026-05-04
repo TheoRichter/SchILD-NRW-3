@@ -4,7 +4,9 @@ Die Basisreportsammlung für SchILD-NRW 3 wurde vollständig überarbeitet.
 Die Reports haben ein einheitliches Erscheinungsbild und sind vielseitig
 einsetzbar.
 
-## Enthaltene ReportsIn der Basisreportsammlung finden Sie unter anderem:-   **Aufnahmebögen** zur Neuaufnahme von Schülern.
+## Enthaltene Reports
+
+In der Basisreportsammlung finden Sie unter anderem:-   **Aufnahmebögen** zur Neuaufnahme von Schülern.
 -   Frei konfigurierbare **Briefetiketten** zum Ausdruck auf Aufkleber.
 -   Informationsreports zur eigenen Schule, ein **Stammblatt** und eine
     **Schulbescheinigung**.

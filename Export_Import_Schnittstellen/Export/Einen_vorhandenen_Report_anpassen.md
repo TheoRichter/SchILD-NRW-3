@@ -1,4 +1,6 @@
-# Einen vorhandenen Report anpassenReports müssen nicht immer komplett neu erstellt werden. Auf der
+# Einen vorhandenen Report anpassen
+
+Reports müssen nicht immer komplett neu erstellt werden. Auf der
 Webseite **Schulverwaltungssoftware des MSB** stehen bereits
 umfangreiche Reportsammlungen zur Verfügung. Oft ist es sinnvoll,
 zunächst zu prüfen, ob ein benötigter Report bereits existiert.
@@ -17,7 +19,7 @@ dargestellt aussehen.Es sollen folgende Veränderungen vorgenommen werden:-   Sc
 -   **Konfession** soll nicht erscheinen
 -   dafür soll das **Alter** ausgegeben werden  
 
-### Schriftgröße und Schriftart anpassen
+## Schriftgröße und Schriftart anpassen
 
 ![SchILD_Report_NeuUndVeraendern_9.png](../../graphics/SchILD_Report_NeuUndVeraendern_9.png)
 

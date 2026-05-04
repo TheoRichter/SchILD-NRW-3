@@ -21,7 +21,9 @@ Aktualisierungsmöglichkeiten zur Verfügung. Zusätzliche Jahrgänge bei
 jahrgangsübergreifenden Kursen (Spalte "Mehrere Jahrgänge") können auf
 Knopfdruck ermittelt werden.  
 
-## Die KurstabelleIn der Kursübersicht stehen folgende Spalten zur Verfügung:-   **Jahrgang**: Welchem Jahrgang ist der Kurs zugeordnet?
+## Die Kurstabelle
+
+In der Kursübersicht stehen folgende Spalten zur Verfügung:-   **Jahrgang**: Welchem Jahrgang ist der Kurs zugeordnet?
 
 ![SchILD_Kataloge_Kurse_2.png](../../graphics/SchILD_Kataloge_Kurse_2.png)
 
@@ -79,15 +81,15 @@ n
 ![SchILD_Kataloge_Kurse_5.png](../../graphics/SchILD_Kataloge_Kurse_5.png)
 
 -   **Fortschreibungsart** Die Fortschreibungsart bestimmt, wie bei der
-    Versetzung mit dem Kurs umgegangen wird.
-    -   **keine**: Der Kurs wird bei der Versetzung in den neuen
+        Versetzung mit dem Kurs umgegangen wird.
+-   **keine**: Der Kurs wird bei der Versetzung in den neuen
         Abschnitt gelöscht!
-    -   **Nur Definition, Jg. beibehalten**: Alle Schüler werden aus dem
+-   **Nur Definition, Jg. beibehalten**: Alle Schüler werden aus dem
         Kurs gelöscht, *der Kurs bleibt in seinem Jahrgang bestehen*.
-    -   **Nur Definition, Jg. hochschreiben**: Alle Schüler werden aus
+-   **Nur Definition, Jg. hochschreiben**: Alle Schüler werden aus
         dem Kurs gelöscht, *der Kurs wird einen Jahrgang
         hochgeschrieben*.
-    -   **Komplett**: Der Kurs wird mit allen Schülern in den nächsten
+-   **Komplett**: Der Kurs wird mit allen Schülern in den nächsten
         Abschnitt geführt. Beim Schuljahreswechsel wird der Jahrgang
         erhöht.
 
@@ -98,9 +100,10 @@ Abschnittswechsel berücksichtigt wird!
 
   
 
-\* **Sortierung**: Hier können Sortiernummern für die Kurse gegeben
-werden. Links oben im Fenster kann bei den Filtern über das
-Drop-Down-Menü entsprechend sortiert werden.-   **Schienen**': Hier wird nach Import aus Kurs42 - oder anderen
+-   **Sortierung**: Hier können Sortiernummern für die Kurse gegeben
+    werden. Links oben im Fenster kann bei den Filtern über das
+    Drop-Down-Menü entsprechend sortiert werden.
+-   **Schienen**': Hier wird nach Import aus Kurs42 - oder anderen
     Programmen zur Blockung oder Kursplanung - eine Schienennummer
     angezeigt. Die Schienennummer kann auch manuell eingegeben werden.  
 
@@ -147,21 +150,17 @@ Versetzung die Fächer mit in den neuen Abschnitt zu
 
 
 
--   **Kurse einfügen (in gleichen Abschnitt)**: Nach dieser Funktio
-
-n
+-   **Kurse einfügen (in gleichen Abschnitt)**: Nach dieser Funktion
     muss einmal der Button *"Kurse neu laden"* genutzt werden.
 
 
 
-Es liegt dann eine exakte Kopie des Kurses vor,
-"**Kursbez.**" usw. sollten anschließend geändert werden.
+-   Es liegt dann eine exakte Kopie des Kurses vor,
+    "**Kursbez.**" usw. sollten anschließend geändert werden.
 
 
 
--   **Weitere Lehrkräfte zuweisen**: Wenn Teamteaching aktiviert ist
-
-.
+-   **Weitere Lehrkräfte zuweisen**: Wenn Teamteaching aktiviert ist.
     Setzen Sie hierzu unter "Verwaltung" ➜ "Einstellungen" ➜
     "Allgemeines" ➜ "Team Teaching ermöglichen" den Haken. Anschließend
     können hier weitere Lehrkräfte zugewiesen werden, die auch
@@ -174,9 +173,7 @@ Kurs einmal gespeichert wurde.
 
 
 
--   **Jahrgänge zuweisen**: Hier können nachträglich Eintragungen i
-
-n
+-   **Jahrgänge zuweisen**: Hier können nachträglich Eintragungen in
     "Mehrere Jahrgänge" gemacht werden.
 -   **Fortschreibungsart ändern**: Hier kann gleichzeitig für alle
     markierten Kurse die Fortschreibungsart umgestellt werden.

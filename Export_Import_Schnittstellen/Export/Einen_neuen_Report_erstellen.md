@@ -1,4 +1,6 @@
-# Einen neuen Report erstellenUm die grundlegende Struktur eines Reports und des Reporteditors in
+# Einen neuen Report erstellen
+
+Um die grundlegende Struktur eines Reports und des Reporteditors in
 **SchILD-NRW 3** kennenzulernen, wird ein neuer, leerer Report erstellt.
 
 ![SchILD_Report_NeuUndVeraendern_1.png](../../graphics/SchILD_Report_NeuUndVeraendern_1.png)
@@ -46,7 +48,9 @@ verschoben werden.Labels können mit beliebigem Text gefüllt werden, hier z. B.
 und Vorname“. Dies erfolgt entweder per Doppelklick auf das Label oder
 über die Werkzeugleiste.
 
-## Konfiguration von Elementen über die WerkzeugleisteIn Lila wurde ein Datenbankfeld (**DBText**) platziert. Dazu wird in der
+## Konfiguration von Elementen über die Werkzeugleiste
+
+In Lila wurde ein Datenbankfeld (**DBText**) platziert. Dazu wird in der
 Werkzeugleiste **DBText** gewählt und im Report abgelegt. Wird das Feld
 aktiviert, kann oben eine passende **Datenquelle** ausgewählt werden.Im Beispiel wird die Datenquelle **Schueler** verwendet. Diese enthält
 u. a. Stammdaten wie Name, Geburtsdatum, Klasse, Jahrgang und

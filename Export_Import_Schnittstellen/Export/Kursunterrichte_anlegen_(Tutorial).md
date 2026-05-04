@@ -20,8 +20,9 @@ Knopfdruck ermittelt werden.
 
 ![Schild_Kataloge_Neuen_Kurs_anlegen.png](../../graphics/Schild_Kataloge_Neuen_Kurs_anlegen.png)
 
- Neue Kurse werden über das Pluszeichen im oberen Bereich
-angelegt:-   **Kurs-Bez.:** Die Kursbezeichnung kann frei gewählt werden: Zu
+ Neue Kurse werden über das Pluszeichen im oberen Bereich angelegt:
+ 
+-   **Kurs-Bez.:** Die Kursbezeichnung kann frei gewählt werden: Zu
     beachten ist dabei, dass diese im jeweiligen Abschnitt eindeutig
     sein muss.
 -   **Fach:** Hier stehen alle Fächer zur Verfügung, die unter Kataloge

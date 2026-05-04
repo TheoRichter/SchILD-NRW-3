@@ -1,4 +1,6 @@
-# Das JSON-Dateiformat (Tutorial)Der SVWS-Server und SVWS-Client und damit auch Teile von SchILD-NRW
+# Das JSON-Dateiformat (Tutorial)
+
+Der SVWS-Server und SVWS-Client und damit auch Teile von SchILD-NRW
 nutzen die *JavaScript Object Notation*, kurz JSON, für Im- und
 Exportdateien. Zum Beispiel werden die Notendateien für das Externe
 Notenmodul im JSON-Format gespeichert.

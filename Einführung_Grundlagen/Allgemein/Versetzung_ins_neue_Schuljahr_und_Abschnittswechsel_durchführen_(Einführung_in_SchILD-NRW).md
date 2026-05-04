@@ -1,4 +1,6 @@
-# Versetzung ins neue Schuljahr und Abschnittswechsel durchführen (Einführung in SchILD-NRW)Der Schuljahres- oder Halbjahreswechsel kann in SchILD-NRW auf
+# Versetzung ins neue Schuljahr und Abschnittswechsel durchführen (Einführung in SchILD-NRW)
+
+Der Schuljahres- oder Halbjahreswechsel kann in SchILD-NRW auf
 verschiedene Arten durchgeführt werden. Entscheidend sind oft die
 Schulform und die Arbeitsweise an der jeweiligen Schule.Grundsätzlich gilt, dass der Weg über *Schulverwaltung ➜ Schule*
 bearbeiten gewählt werden kann.
@@ -8,7 +10,9 @@ versetzen ist nur notwendig, wenn es an der Schule Jahrgänge oder
 Klassen gibt, die zu verschiedenen Zeitpunkten oder von verschiedenen
 Abteilungsleitern versetzt werden müssen.
 
-## Abschnittswechsel ohne Versetzung (Halbjahreswechsel)Findet ein Abschnittswechsel vom 1. ins 2. Halbjahr statt, wird keine
+## Abschnittswechsel ohne Versetzung (Halbjahreswechsel)
+
+Findet ein Abschnittswechsel vom 1. ins 2. Halbjahr statt, wird keine
 Versetzung durchgeführt.Bei diesem Abschnittswechseln geht es lediglich darum, die Schule in den
 neuen Abschnitt zu übertragen, neue Lernabschnitte anzulegen und Fächer
 und Kurse nach Bedarf mitnehmen bzw. im neuen Lernabschnitt passend neu
@@ -52,7 +56,9 @@ gewünscht gesetzt ist.
 
   
 
-## Abschnittswechsel mit Versetzung, Abschlüssen, Ausschulungen (Schuljahreswechsel)Am Ende des Schuljahres muss der Abschnittswechsel mit eventueller
+## Abschnittswechsel mit Versetzung, Abschlüssen, Ausschulungen (Schuljahreswechsel)
+
+Am Ende des Schuljahres muss der Abschnittswechsel mit eventueller
 Versetzung bzw. Ausschulung - mit Abschluss oder als Abgänger, wenn die
 Schule verlassen wird - durchgeführt werden.
 
@@ -94,7 +100,9 @@ ohne dass bislang Änderungen an der Datenbank vorgenommen wurden über
 **Abbrechen**.Es öffnet sich ein Fenster, das mit **Ok** bestätigt wird.SchILD meldet nach Abschluss des Schuljahreswechsels eben dieses mit
 einem Fenster, nach der Bestätigung schließt sich das Programm.  
 
-### Sich anschließende ArbeitenSofern vor der Versetzung die *Versetzungstabelle* nicht angepasst
+## Sich anschließende Arbeiten
+
+Sofern vor der Versetzung die *Versetzungstabelle* nicht angepasst
 wurde, wären nun noch die neuen Klassenleitungsteams über
 Gruppenprozesse einzustellen.
 

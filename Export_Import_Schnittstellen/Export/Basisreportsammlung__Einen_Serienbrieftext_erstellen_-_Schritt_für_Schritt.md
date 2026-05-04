@@ -26,7 +26,7 @@ Bezug auf Adressblöcke, Falzmarken und die allgemeine Seitenstruktur.Ein Serien
 
 ## Der Brieftext
 
-### Einen Brieftext laden
+## Einen Brieftext laden
 
 ![SchILD_Reports_Serienbriefe_Starten.png](../../graphics/SchILD_Reports_Serienbriefe_Starten.png)
 
@@ -56,7 +56,7 @@ erkennen. Im Beispiel ist ein Platzhaltertext enthalten.In dieser Beispieldatenb
 *Schullogo* gesetzt. In einem realen Serienbrief erscheint hier das Logo
 Ihrer Schule.  
 
-### Einen Brieftext selbst erstellen und speichern
+## Einen Brieftext selbst erstellen und speichern
 
 ![SchILD_Reports_Serienbriefe_BrieftextEingeben.png](../../graphics/SchILD_Reports_Serienbriefe_BrieftextEingeben.png)
 
@@ -104,7 +104,7 @@ Geschlechts gewählt. So wird *$Herr$* zu *Herr* oder *Frau* und
 -   **Platzhalter**
 -   **Sonderfunktionen**
 
-### Zugriff auf weitere Datenbankfelder
+## Zugriff auf weitere Datenbankfelder
 
 ![SchILD_Reports_Serienbriefe_Bearbeiten_MailMerge.png](../../graphics/SchILD_Reports_Serienbriefe_Bearbeiten_MailMerge.png)
 

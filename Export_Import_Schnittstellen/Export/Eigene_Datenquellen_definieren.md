@@ -1,4 +1,5 @@
-# Eigene Datenquellen definierenÜber den Menüpunkt "Daten" können eigene Datenquellen definiert werden,
+# Eigene Datenquellen definieren
+Über den Menüpunkt "Daten" können eigene Datenquellen definiert werden,
 die dann für den aktuellen Report zur Verfügung stehen. Die Definition
 einer eigenen Datenquelle erfolgt über SQL-Befehle, mit denen
 beispielsweise einzelne Felder aus einer Tabelle selektiert, mehrere

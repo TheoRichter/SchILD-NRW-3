@@ -1,15 +1,11 @@
-# Beispiele für Tipps und HinweiseUnter Spezialseiten-\> Seitenlisten -\> Kategorien -\> Vorlage kannst du
+# Beispiele für Tipps und Hinweise
+
+Unter Spezialseiten-\> Seitenlisten -\> Kategorien -\> Vorlage kannst du
 alle definierten Vorlagen einsehen. Hier einige Beispiele:
 
-### BeispieleSyntax:
+## BeispieleSyntax:
 
-### HinweiseSyntax:
-
-
-
-Dies ist ein Hinweistext
-
-
+## HinweiseSyntax:
 
 
 
@@ -17,7 +13,13 @@ Dies ist ein Hinweistext
 
 
 
-### Roter RahmenSyntax:
+
+
+Dies ist ein Hinweistext
+
+
+
+## Roter RahmenSyntax:
 
 WIKILINK: Vorgaben_für_Wiki-Autoren</br> 
 

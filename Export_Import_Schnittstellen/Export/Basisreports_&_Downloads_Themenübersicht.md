@@ -2,7 +2,9 @@
 
 WIKILINK: Reportdesigner_-_Schnelleinstieg
 
-## 📦Basisreports & DownloadsMit der Installation von SchILD-NRW 3 wird eine Basisreportsammlung
+## 📦Basisreports & Downloads
+
+Mit der Installation von SchILD-NRW 3 wird eine Basisreportsammlung
 einmalig im SVWS-Arbeitsverzeichnis hinterlegt. Sie enthält Reports für
 typische Bedarfe in der Schule, folgt einer konsequenten
 Designrichtlinie und hat gleichen Aufbau. Die Sammlung ist ein guter
@@ -15,7 +17,7 @@ jedoch stetig weiter. Sie können dort jederzeit die neueste Sammlung
 herunterladen, um Ihre Reports in SchILD-NRW 3 zu ergänzen und auf den
 aktuellen Stand zu bringen.
 
-### Grundlegende Informationen-   
+## Grundlegende Informationen-   
 
 WIKILINK: Basisreportsammlung:_Herunterladen_und_aktualisieren  
 Download und Aktualisierung der Reportsammlung-   
@@ -26,7 +28,7 @@ Was ist enthalten und wie wird sie genutzt-
 WIKILINK: Basisreportsammlung:_Designrichtlinien  
 Hinweise für eigenes Layout
 
-### Serienbriefe drucken-   
+## Serienbriefe drucken-   
 
 WIKILINK: Basisreportsammlung:_Serienbriefe  
 Die bessere Alternative zu Office-Serienbriefen-   
@@ -43,7 +45,7 @@ Versenden Sie Mahnbriefe einfach wie nie-
 WIKILINK: Basisreportsammlung:_Serienbrief_Nichtversetzung  
 Informieren Sie Erziehungsberechtigte
 
-### Leistungsübersichten & Bescheinigungen-   
+## Leistungsübersichten & Bescheinigungen-   
 
 WIKILINK: Basisreportsammlung:_Leistungsübersicht_Jg._05_bis_EF  
 Für Konferenz mit Beamerprojektion-   
@@ -54,12 +56,12 @@ Für Konferenz mit Beamerprojektion-
 WIKILINK: Basisreportsammlung:_Bescheinigungen_des_Bilingualen_Bildungsgangs  
 Auf englisch und französisch
 
-### Aufnahmebögen als PDF- und ODT-Dateien-   
+## Aufnahmebögen als PDF- und ODT-Dateien-   
 
 WIKILINK: Basisreportsammlung:_Aufnahmebögen  
 Gebrauchsfertig und anpassbar
 
-### Alte Versionsgeschichte-  
+## Alte Versionsgeschichte-  
 
 DEADLINK: **Versionsgeschichte** - Basisreportsammlung:_Versionsgeschichte.md
 

@@ -24,7 +24,7 @@ korrekten Bezeichnungen und Stundenzahlen Ihrer Schule enthalten oder
 dass der Report ohne Abfragen direkt gedruckt wird.Anpassungen der Parameter werden mit dem `Speichern` des Reports
 dauerhaft übernommen.
 
-### Parameter Manuell
+## Parameter Manuell
 
 Dieser Parameter wird verwendet, wenn Sie den Report in den Textteilen
 vollständig manuell anpassen und die Platzhalter nicht nutzen möchten.
@@ -34,7 +34,9 @@ die Namen der Schülerinnen und Schüler dynamisch eingesetzt. Alle
 anderen Platzhalter ersetzen Sie durch feste Einträge. Die
 Standardeinstellung dieses Parameters ist***False**''.
 
-### Parameter AbfragenMit diesem Parameter steuern Sie, ob beim Start des Reports Abfragen zum
+## Parameter Abfragen
+
+Mit diesem Parameter steuern Sie, ob beim Start des Reports Abfragen zum
 Sprachenfach, zu den Sachfächern 1 bis 4 und in der SII zusätzlich zum
 AbiSachfach erfolgen sollen. Die Standardeinstellung ist ***True***. In
 dieser Einstellung erscheinen mehrere Abfragefenster zu den Fächern
@@ -44,7 +46,7 @@ müssen.Wird der Parameter auf ***False*** gesetzt, erfolgen keine Abfragen. In
 diesem Fall verwendet der Report unmittelbar die in den Parametern
 gespeicherten `Values`.
 
-### Parameter Sprachenfach
+## Parameter Sprachenfach
 
 Dieser Parameter enthält Angaben zur bilingualen Unterrichtssprache
 sowie zu den in der Fremdsprache unterrichteten Wochenstunden von Klasse
@@ -55,7 +57,7 @@ Jahrgangsstufe 5,Stundenzahl Jahrgangsstufe 6,Stundenzahl Jahrgangsstufe
 *"Englisch,English,4,4,4,4,4,4"* für vierstündigen Englischunterricht
 von Jahrgangsstufe 5 bis 10.
 
-### Parameter Sachfach_1 bis Sachfach_4
+## Parameter Sachfach_1 bis Sachfach_4
 
 Diese Parameter enthalten Angaben zu bilingual unterrichteten
 Sachfächern sowie zu den jeweiligen Wochenstundenzahlen von Klasse 5 bis
@@ -71,7 +73,7 @@ Parametereigenschaft `Value` kann nicht direkt gelöscht, sondern nur
 Parametereigenschaft `SearchExpression` möglich, indem Sie dort den Text
 markieren, mit `Entf` löschen und mit `Enter` bestätigen.
 
-### Parameter AbiSachfach (nur SII)
+## Parameter AbiSachfach (nur SII)
 
 Dieser Parameter legt fest, welches der belegten bilingualen Sachfächer
 als drittes oder viertes Abiturfach gewählt wurde. Hinterlegen Sie hier

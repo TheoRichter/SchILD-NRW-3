@@ -1,4 +1,6 @@
-# Eingabe der GeR-Niveaus (Tutorial)Auf der
+# Eingabe der GeR-Niveaus (Tutorial)
+
+Auf der
 [Webseite des Gemeinsamen EuropäischenReferenzrahmens](https://www.europaeischer-referenzrahmen.de) finden Sie
 Informationen zu den Niveaus. In SchILD-NRW werden die Fremdsprachen
 erfasst und die Niveaus werden dann aus der Lerndauer und den
@@ -11,7 +13,7 @@ Das GeR-Niveau wird nicht für die Sprachen Lateinisch, Hebräisch und
 Altgriechisch vergeben, sondern nur für die modernen europäischen
 Fremdsprachen.Es gibt zwei Möglichkeiten der Erfassung des GeR:
 
-### Individuelle Erfassung der Referenzniveaus
+## Individuelle Erfassung der Referenzniveaus
 
 ![SchILD_Tutorials_GeR_1.png](../../graphics/SchILD_Tutorials_GeR_1.png)
 
@@ -36,7 +38,7 @@ Dies wird etwa benutzt, wenn die Sprachenfolgen für einen Jahrgang schon
 automatisch berechnet wurden und dann im Nachgang bei einzelnen Schülern
 Fehler korrigiert werden.    
 
-### Gruppenweise Erfassung der Referenzniveaus
+## Gruppenweise Erfassung der Referenzniveaus
 
 ![SchILD_Tutorials_GeR_3_Gruppenprozess.png](../../graphics/SchILD_Tutorials_GeR_3_Gruppenprozess.png)
 

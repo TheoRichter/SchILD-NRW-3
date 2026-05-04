@@ -13,7 +13,9 @@ Erzieherinnen und Erzieher und Betriebe und ist für alle Schulformen in
 NRW geeignet.Beziehen Sie [SchILD-NRW 3](https://svws.nrw.de) kostenfrei über die
 Webseite des MSB für Schulverwaltungssoftware.  
 
-### Ausgewählte Features zur Übersicht-   Verwalten Sie alle Leistungsdaten Ihrer Schülerschaft. Dies betrifft
+## Ausgewählte Features zur Übersicht
+
+-   Verwalten Sie alle Leistungsdaten Ihrer Schülerschaft. Dies betrifft
     Noten, Teilleistungen, Quartalsnoten, Fehlzeiten usw.
 -   Organisieren Sie den konfigurierbaren Unterricht in frei
     einstellbaren Klassen und Kursen von der Grundschule bis zu Abitur

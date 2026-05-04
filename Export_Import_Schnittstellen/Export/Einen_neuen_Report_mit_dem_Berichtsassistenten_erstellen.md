@@ -1,4 +1,6 @@
-# Einen neuen Report mit dem Berichtsassistenten erstellenIn den bisherigen Beispielen wurden Reports und ihre Bestandteile
+# Einen neuen Report mit dem Berichtsassistenten erstellen
+
+In den bisherigen Beispielen wurden Reports und ihre Bestandteile
 manuell erstellt. Der **Berichtsassistent** in **SchILD-NRW 3**
 automatisiert große Teile dieses Prozesses: Er kann Datenfelder
 auswählen, gruppieren, sortieren und erste Formatierungen vornehmen.
@@ -101,80 +103,80 @@ Datenbankname ist jedoch unschön. Daher wird der sichtbare Titel auf
 
 ![SchILD_Report_Berichtsassistent_2.png](../../graphics/SchILD_Report_Berichtsassistent_2.png)
 
-1Um handschriftliche Ergänzungen zu ermöglichen, werden Trennlinien
+1. Um handschriftliche Ergänzungen zu ermöglichen, werden Trennlinien
 gesetzt.Ein Rechtsklick und die Funktion **Breite der Stammkomponente** setzen
 die Linie automatisch auf die Breite des Detailbereichs.Im Beispiel wurden zusätzlich:-   beide Felder zum Alter linksbündig gestellt
 -   alle Schriften modernisiert
 
 ![SchILD_Report_Berichtsassistent_2.png](../../graphics/SchILD_Report_Berichtsassistent_2.png)
 
-2Der Report erscheint nun im Editormodus gut strukturiert.
+2. Der Report erscheint nun im Editormodus gut strukturiert.
 
 ![SchILD_Report_Berichtsassistent_2.png](../../graphics/SchILD_Report_Berichtsassistent_2.png)
 
-3In der Vorschau ergibt sich ein funktionales Ergebnis.
+3. In der Vorschau ergibt sich ein funktionales Ergebnis.
 
-## Weitergehende Anpassungen – Seitenwechsel, Systemvariablen und ZählerFolgende Erweiterungen werden ergänzt:-   automatischer Seitenwechsel je Klasse
+## Weitergehende Anpassungen – Seitenwechsel, Systemvariablen und Zähler
+
+Folgende Erweiterungen werden ergänzt:-   automatischer Seitenwechsel je Klasse
 -   Zurücksetzen der Seitenzahlen bei Gruppenwechsel
 -   Nutzung von Systemvariablen
 -   Zeilenzähler im Detailbereich
 
-### Gruppen für Seitenwechsel
+## Gruppen für Seitenwechsel
 
 ![SchILD_Report_Berichtsassistent_2.png](../../graphics/SchILD_Report_Berichtsassistent_2.png)
 
-4Da der Report bereits nach **Klasse** gruppiert, wird diese Gruppe für
+4. Da der Report bereits nach **Klasse** gruppiert, wird diese Gruppe für
 Seitenwechsel genutzt. Dies erfolgt über **Bericht → Gruppen…**.
 
 ![SchILD_Report_Berichtsassistent_2.png](../../graphics/SchILD_Report_Berichtsassistent_2.png)
 
-5Unter **Bei Gruppenwechsel** können u. a. gewählt werden:-   **Neue Seite beginnen**
+5. Unter **Bei Gruppenwechsel** können u. a. gewählt werden:-   **Neue Seite beginnen**
 -   **Seitennummerierung zurücksetzen**
 
-### Systemvariablen
+## Systemvariablen
 
 ![SchILD_Report_Berichtsassistent_2.png](../../graphics/SchILD_Report_Berichtsassistent_2.png)
 
-6Eine **Systemvariable** wurde bereits vom Assistenten gesetzt: das
+6. Eine **Systemvariable** wurde bereits vom Assistenten gesetzt: das
 **Druckdatum** im Fuß. Eine weitere sinnvolle Variable ist der
 **Dokumenten-Name**, mit dem der Dateiname des Reports ausgegeben wird.Systemvariablen werden wie andere Felder platziert und dann im Dropdown
 gewählt. Zur Verfügung stehen u. a.:-   Druckdatum (mit/ohne Zeit)
 -   Seitenzahlen
 -   Dokumenten-Name
 
-### Zeilennummerierung per Zähler
+## Zeilennummerierung per Zähler
 
 ![SchILD_Report_Berichtsassistent_2.png](../../graphics/SchILD_Report_Berichtsassistent_2.png)
 
-7Um Zeilen zu nummerieren, wird Platz geschaffen und ein **DBCalc**-Feld
+7. Um Zeilen zu nummerieren, wird Platz geschaffen und ein **DBCalc**-Feld
 gesetzt. **DBCalc** dient für datenbankbasierte Berechnungen.
 
 ![SchILD_Report_Berichtsassistent_2.png](../../graphics/SchILD_Report_Berichtsassistent_2.png)
 
-8Per Rechtsklick wird **Laufender Zähler** ausgewählt.
+8. Per Rechtsklick wird **Laufender Zähler** ausgewählt.
 
 ![SchILD_Report_Berichtsassistent_2.png](../../graphics/SchILD_Report_Berichtsassistent_2.png)
 
-9Wie bei den Seitenzahlen wird der Zähler bei **Klasse** zurückgesetzt.
+9. Wie bei den Seitenzahlen wird der Zähler bei **Klasse** zurückgesetzt.
 
 ![SchILD_Report_Berichtsassistent_3.png](../../graphics/SchILD_Report_Berichtsassistent_3.png)
 
-0
+10.
 
 ![SchILD_Report_Berichtsassistent_3.png](../../graphics/SchILD_Report_Berichtsassistent_3.png)
 
-1Über **Anzeigeformat** wird das Ausgabeformat definiert.
+11. Über **Anzeigeformat** wird das Ausgabeformat definiert.
 
 ![SchILD_Report_Berichtsassistent_3.png](../../graphics/SchILD_Report_Berichtsassistent_3.png)
 
-2Für die Ausgabe „5.“ wird z. B. **#'.** gewählt. **\#** steht für die
+12. Für die Ausgabe „5.“ wird z. B. **#'.** gewählt. **\#** steht für die
 laufende Zahl.
 
 ![SchILD_Report_Berichtsassistent_3.png](../../graphics/SchILD_Report_Berichtsassistent_3.png)
 
-3
-
-Das Ergebnis ist eine nach Klassen getrennte Liste mit
+13. Das Ergebnis ist eine nach Klassen getrennte Liste mit
 Zeilennummerierung. Welche Klassen oder Gruppen verarbeitet werden, wird
 zuvor in SchILD-NRW 3 über den Container ausgewählt.Je nach Bedarf können weitere Anpassungen erfolgen (z. B. größere
 Zeilenhöhe).

@@ -1,4 +1,6 @@
-# Klausurplanung# KlausurplanungWichtige Voraussetzung: Für die zu planenden Jahrgangstufen muss jeweils
+# Klausurplanung# Klausurplanung
+
+Wichtige Voraussetzung: Für die zu planenden Jahrgangstufen muss jeweils
 eine Blockung vorliegen.Aufruf Bereich **
 
 DEADLINK: Oberstufe - SVWS-Client#Oberstufe.md
@@ -15,7 +17,9 @@ mit **Standard-Vorlagen anlegen** Basiseinstellungen geladen werden.
 Diese können dann individuell auch getrennt nach 1. oder 2. Quartal
 angepasst werden.  # Halbjahres-/Abschnittsplanung
 
-## Vorlagen zuweisenAuswahl im linken Bereich (Oberstufe) der zu planenden Jahrgangsstufe
+## Vorlagen zuweisen
+
+Auswahl im linken Bereich (Oberstufe) der zu planenden Jahrgangsstufe
 und des zu planenden Abschnitts, z.B: *Abitur 2027 (EF), EF.1*.  
 Bereich **Klausurplanung** wählen, dann den Unterbereich **Vorlagen**.  
 Im rechten Bereich **Vorlage importieren**.  
@@ -25,7 +29,9 @@ Sollten diese Änderungen nicht individuell nur für diesen konkreten
 Abschnitt gelten, sondern dauerhafte Änderungen zur Vorlage sein, so
 sollte die Vorlage angepasst werden.  
 
-### Termine blockenWechsel vom Unterbereich "Vorlagen" zum Unterbereich **Schienen**.  
+### Termine blocken
+
+Wechsel vom Unterbereich "Vorlagen" zum Unterbereich **Schienen**.  
 Quartal auswählen (1., 2. oder beide.)  
 Es können Termine händisch gesetzt werden (*Termin hinzufügen*) oder auf
 Basis der Blockung berechnet werden (*Automatisch blocken*).  
@@ -38,7 +44,9 @@ werden, z.B.:
 4.  Lehrkraft mit gleichem Fach und Kursart immer an einem Termin
 5.  ...
 
-#### Hinweise:Es kann \*\*mehrmals hintereinander\*\* mit verschiedenen Einstellungen
+## Hinweise:
+
+Es kann \*\*mehrmals hintereinander\*\* mit verschiedenen Einstellungen
 automatisch geblockt werden, die \*\*bisherigen Ergebnisse werden nicht
 zurückgesetzt\*\* sondern um die neuen Ergebnisse ergänzt.  
 Bereits berücksichtigte Kurse werden nicht erneut geblockt.  
