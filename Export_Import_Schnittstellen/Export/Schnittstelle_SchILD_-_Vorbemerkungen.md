@@ -2,7 +2,7 @@
 
 Dieses Dokument beschreibt die Text-Importschnittstelle für SchILD-NRW.
 
-### Hinweise
+## Hinweise
 
 ![SchILD_Datenaustausch_ErzeugbareSchnittstellendateien.png](../../graphics/SchILD_Datenaustausch_ErzeugbareSchnittstellendateien.png)
 
@@ -24,7 +24,8 @@ erläutert ist.      InternBez|StatistikBez|SonstigeBez|Jahrgang|Folgeklasse|Kla
     06A|06A|06A|06|07A|GÜNT|1|RK|***||2022|1
     06B|06B|06B|06|07B|WEID|1|RK|***||2022|1
 
-### Für alle Textdateien gelten folgende Bedingungen-   SchILD-NRW erwartet, dass die Schnittstellendateien genau die in der
+## Für alle Textdateien gelten folgende Bedingungen
+-   SchILD-NRW erwartet, dass die Schnittstellendateien genau die in der
     **Schnittstellenbeschreibung** angegebenen Dateinamen haben.
     Beispielsweise wird *Sbasis.dat* an Stelle von
     *SchuelerBasisdaten.dat* nicht erkannt.
@@ -45,7 +46,9 @@ erläutert ist.      InternBez|StatistikBez|SonstigeBez|Jahrgang|Folgeklasse|Kla
     werden, d.h. jede Zeile muss exakt die Anzahl der erwarteten
     Trennzeichen enthalten
 
-### Umgang mit leeren FeldernBei den einzelnen Spalten ist angegeben, **ob diese leer sein dürfen**.
+## Umgang mit leeren Feldern
+
+Bei den einzelnen Spalten ist angegeben, **ob diese leer sein dürfen**.
 Dabei treten folgende Zustände auf:-   *Nein*: Spalte darf nicht leer sein, d.h. muss einen (gültigen) Wert
     enthalten. Ein Eintrag wird aus datentechnischen Gründen benötigt.
 -   *(Ja)*: Spalte darf aus datentechnischen Gründen leer sein, für die
@@ -54,7 +57,9 @@ Dabei treten folgende Zustände auf:-   *Nein*: Spalte darf nicht leer sein, d.h
     muss er später in SchILD-NRW nachgepflegt werden.
 -   *Ja*: Spalte darf leer sein
 
-### DatentypenBei den einzelnen Spalten ist jeweils **der erwartete Datentyp**
+## Datentypen
+
+Bei den einzelnen Spalten ist jeweils **der erwartete Datentyp**
 angegeben:-   *Text(n)*: Text mit einer maximalen Länge von n Zeichen (Beispiel:
     Text(20) bedeutet, dass der Spalteninhalt maximal 20 Zeichen
     umfassen darf)
@@ -63,7 +68,9 @@ angegeben:-   *Text(n)*: Text mit einer maximalen Länge von n Zeichen (Beispiel
     als dezimales Trennzeichen verwendet werden. Zum Beispiel 1,141592
     oder 2.997.
 
-### Partielle bzw. additive ImporteEs ist nicht unbedingt notwendig, dass alle der nachfolgend
+## Partielle bzw. additive Importe
+
+Es ist nicht unbedingt notwendig, dass alle der nachfolgend
 beschriebenen Dateien in einem Zug importiert werden, d.h. es ist auch
 möglich, einzelne Dateien nachträglich zu importieren. Voraussetzung
 dafür ist aber, dass „übergeordnete“ Informationen, auf die in der

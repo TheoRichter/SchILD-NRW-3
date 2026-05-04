@@ -13,8 +13,9 @@ Object Pascal. Dadurch können Reports um dynamisches Verhalten erweitert
 werden – von einfachen Sichtbarkeitsabfragen bis hin zu komplexen
 Berechnungen, Datenmanipulationen oder Benutzerinteraktionen.
 
-### Programmierung, eigene Datenquellen, Funktionen-  
-[Programmierung in Reports](Programmierung_in_Reports.md)  
+## Programmierung, eigene Datenquellen, Funktionen
+
+-  [Programmierung in Reports](Programmierung_in_Reports.md)  
 Lernen Sie, wie man Reports durch Programmierung noch individueller
 anpassen kann-   
 
@@ -23,7 +24,7 @@ Definieren Sie eigene Datenquellen und Datenfelder, um eigene Ideen
 umzusetzen-   [RAP-Funktionen im Reportdesigner](RAP-Funktionen.md)  
 Nutzen Sie vorprogrammierte Funktionen
 
-### Subreports dynamisch nachladen-   
+## Subreports dynamisch nachladen-   
 
 WIKILINK: Einen_Subreport_dynamisch_in_einen_Report_einbinden  
 Ein Report im Report? Aber klar

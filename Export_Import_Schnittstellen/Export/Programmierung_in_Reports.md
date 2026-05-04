@@ -1,6 +1,8 @@
 # Programmierung in Reports
 
-## Programmierung in ReportsDer Reporteditor in **SchILD-NRW 3** unterstützt die Programmiersprache
+## Programmierung in Reports
+
+Der Reporteditor in **SchILD-NRW 3** unterstützt die Programmiersprache
 **Object Pascal**. Dadurch können Reports um dynamisches Verhalten
 erweitert werden – von einfachen Sichtbarkeitsabfragen bis hin zu
 komplexen Berechnungen, Datenmanipulationen oder Benutzerinteraktionen.
@@ -17,14 +19,15 @@ durchklicken. Unten links zeigt der Bereich **Eigenschaften von X** die
 Attribute eines Feldes, u. a. Name, Typ, Formatierungen oder
 Sichtbarkeitsstatus.Hier wird sichtbar, dass das Feld mit dem Geburtsdatum **DBText2** ist.  
 
-### Das Hauptfenster für Berechnungen
+## Das Hauptfenster für Berechnungen
 
 ![SchILD_Reports_Programmieren_2.png](../../graphics/SchILD_Reports_Programmieren_2.png)
 
 Der Modus **Berechnungen** wird über die Moduszeile aktiviert (neben
 **Entwurf** und **Vorschau**).
 
-Die Programmierumgebung gliedert sich in mehrere Bereiche:-   **Ereignisse** (Events)` Ereignisse sind Funktionspunkte, an denen Code ausgeführt werden kann, z. B. `**`OnGetText`**` oder `**`OnPrint`**`.`-   **Variablen**` Anzeige der im Report verfügbaren Variablen und Konstanten.`-   **Subreports**` Bei komplexen Reports kann unten durch Subreports navigiert werden.`-   **Daten / Elemente / Sprache**` 
+Die Programmierumgebung gliedert sich in mehrere Bereiche:
+-   **Ereignisse** (Events)` Ereignisse sind Funktionspunkte, an denen Code ausgeführt werden kann, z. B.`**`OnGetText`**` oder `**`OnPrint`**`.`-   **Variablen**` Anzeige der im Report verfügbaren Variablen und Konstanten.`-   **Subreports**` Bei komplexen Reports kann unten durch Subreports navigiert werden.`-   **Daten / Elemente / Sprache**` 
 
 Diese Ansicht steuert, welche Eigenschaften oder Funktionen angezeigt werden:`  
 ` * `**`Daten`**` – Variablen eines Elements, inkl. Typen`  
@@ -33,7 +36,7 @@ Diese Ansicht steuert, welche Eigenschaften oder Funktionen angezeigt we
 Ereignisse vom Feld verarbeitet werden können. Für **DBText2** wären
 hier besonders **OnGetText** und **OnPrint** relevant.  
 
-### Die Programmierung
+## Die Programmierung
 
 ![SchILD_Reports_Programmieren_3.png](../../graphics/SchILD_Reports_Programmieren_3.png)
 

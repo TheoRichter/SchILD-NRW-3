@@ -3,7 +3,8 @@
 ## Neuere Versionsgeschichte nur noch in GitHubMit dem Release von SchILD-NRW 3 werden sowohl die Installationsdateien
 als auch die Versionsgeschichte ausschließlich im [Release-Bereich aufGitHub](https://github.com/SVWS-NRW/Schild-NRW-3/releases) gepflegt.
 
-## v3.1.20 vom 31.10.2025 - RELEASE-   Release Version
+## v3.1.20 vom 31.10.2025 - RELEASE
+-   Release Version
 -   Neues Login-Fenster
 -   Schnittstellenimport: Wenn bei den Basisdaten keine Klasse
     eingetragen war, wurde die betreffende Person beim Import weiterer
@@ -26,7 +27,8 @@ Die Report Basissammlung wurde mit Version 1.0.0 aktualisiert. Bei einem
 Update werden diese aber nicht ausgetauscht. Nur bei einer
 Neuinstallation! Diese können aber manuell hier heruntergeladen werden:<https://github.com/SVWS-NRW/Schild-NRW-3-Reports/releases>
 
-## v3.1.18 vom 26.09.2025-   Anpassungen an die Version 1.0.12 des SVWS-Servers
+## v3.1.18 vom 26.09.2025
+-   Anpassungen an die Version 1.0.12 des SVWS-Servers
 -   Filterung auf Sonderpädagogen umgesetzt
 -   Verwaltung der Lehrer-Lehrbefähigungen komplett auf SVWS-Server-API
     umgestellt.
@@ -125,7 +127,8 @@ Kurs_Jahrgang_Fach_Kursart_Kursleitung_Datum_KursID.pdf'''''Beispiel: L-1_10_L7_
 -   Lauffähig mit dem SVWS-Server 1.0.12.
 -   Datenbankrevision 47
 
-## v3.1.17 vom 29.08.2025-   Filterung auf Sonderpädagoge umgesetzt
+## v3.1.17 vom 29.08.2025
+-   Filterung auf Sonderpädagoge umgesetzt
 -   Verwaltung der Lehrer-Lehrbefähigungen komplett auf SVWS-Server-API
     umgestellt.
 -   Bei der Abschlussberechnung an der Gesamtschule können jetzt auch
@@ -170,7 +173,8 @@ Kurs_Jahrgang_Fach_Kursart_Kursleitung_Datum_KursID.pdf'''''Beispiel: L-1_10_L7_
     zu aktivieren, muss die Eingabetaste gedrückt werden.
 -   Version SVWS-Server 1.0.11
 
-## v3.1.15 vom 27.07.2025-   Anpassungen an die Version 1.0.10 des SVWS-Servers
+## v3.1.15 vom 27.07.2025
+-   Anpassungen an die Version 1.0.10 des SVWS-Servers
 -   Versetzungsberechnung nun auch für vergangene Abschnitte möglich
 -   Versetzungsalgorithmen: Falls bei einem Fach keine Fachgruppe vom
     SVWS-Server geliefert wird, wird diese aus den Einstellungen beim
@@ -218,7 +222,8 @@ Kurs_Jahrgang_Fach_Kursart_Kursleitung_Datum_KursID.pdf'''''Beispiel: L-1_10_L7_
     unten ein Schüler in der Liste steht. Es wird aber nach einer
     besseren Lösung gesucht.
 
-## v3.1.14 vom 24.06.2025-   Suche nach Erziehernamen verlor Focus, behoben
+## v3.1.14 vom 24.06.2025
+-   Suche nach Erziehernamen verlor Focus, behoben
 -   Rechteprüfung bei Teilleistungen angepasst
 -   Datum bei Sprachprüfung nicht eingebbar, korrigiert
 -   Fehler bei Abiturzulassung korrigiert (Prüfung auf Anzahl
@@ -264,7 +269,8 @@ Kurs_Jahrgang_Fach_Kursart_Kursleitung_Datum_KursID.pdf'''''Beispiel: L-1_10_L7_
     als Hauptdatenquelle in einem Serienbrief an Betriebe genutzt werden
     kann (mit DQ Schueler als UnterDQ)
 
-## v3.1.13 vom 03.03.2025-   EP-Jahre bei GS-Versetzung angepasst
+## v3.1.13 vom 03.03.2025
+-   EP-Jahre bei GS-Versetzung angepasst
 -   Fehler bei Filter auf "Status" bei SchILD3-Filterverfahren
     korrigiert
 -   Zwei Fehler bei Versetzungen korrigiert
@@ -281,7 +287,8 @@ Kurs_Jahrgang_Fach_Kursart_Kursleitung_Datum_KursID.pdf'''''Beispiel: L-1_10_L7_
 -   Neue Felder in Datenquelle "SchildUmgebung" für verschiedene Formate
     von Schuljahr/Abschnitt
 
-## v3.1.12 vom 03.03.2025-   BAN-Export ergänzt
+## v3.1.12 vom 03.03.2025
+-   BAN-Export ergänzt
 -   ENM-Export: JSON-Dateien werden nach Verschlüsselung gelöscht
 -   Actions und Gruppenprozesse an Benutzerrechte angepasst (noch
     ausstehend: "BK-Abschluss/ZP10")
@@ -340,32 +347,39 @@ Kurs_Jahrgang_Fach_Kursart_Kursleitung_Datum_KursID.pdf'''''Beispiel: L-1_10_L7_
 -   Mahnung bei Schnittstellenexport und -import berücksichtigt
 -   Lauffähig mit dem SVWS-Server 1.0.7 und 1.0.8.
 
-## v3.1.11 vom 16.03.2025-   Bugfixes
+## v3.1.11 vom 16.03.2025
+-   Bugfixes
 -   Lauffähig mit SVWS-Server 1.0.4.
 
-## v3.1.8 vom 07.02.2025-   Farben wieder einstellbar
+## v3.1.8 vom 07.02.2025
+-   Farben wieder einstellbar
 -   Bugfixes
 -   Jahrgänge 01 und 02 in der Schulform GS eingeführt (neue Statistik)
 -   Lauffähig mit SVWS-Server 1.0.4.
 
-## v 3.1.7 vom 27.01.2025-   Behebt noch einen Bug bei der Hochschulung, wenn Fächer mitgenommen
+## v 3.1.7 vom 27.01.2025
+-   Behebt noch einen Bug bei der Hochschulung, wenn Fächer mitgenommen
     werden.
 
-## v3.1.6 vom 24.01.2025-   Bugfixes bei der Hochschulung
+## v3.1.6 vom 24.01.2025
+-   Bugfixes bei der Hochschulung
 -   Bugfixing Auswahl
 -   Lauffähig mit SVWS-Server 1.0.2 und 1.0.3.
 
-## v3.1.4 vom 17.01.2025-   Beim Speichern von Textfeldern werden Leerzeichen am Anfang und Ende
+## v3.1.4 vom 17.01.2025
+-   Beim Speichern von Textfeldern werden Leerzeichen am Anfang und Ende
     des Textes entfernt. Felder mit leerem Inhalt werden als NULL
     gespeichert
 -   Diverse Issues aus Github bearbeitet
 -   Lauffähig mit dem SVWS-Server 1.0.2
 
-## v3.1.3 vom 10.12.2024-   Über den folgenden Eintrag in der Datei ADMIN.INI kann nun der Proxy
+## v3.1.3 vom 10.12.2024
+-   Über den folgenden Eintrag in der Datei ADMIN.INI kann nun der Proxy
     eingetragen werden:  
 \[Proxy\]Server=Port=
 
-## v3.1.2 vom 09.12.2024-   Die Benutzerverwaltung erfolgt nun auch über die API des
+## v3.1.2 vom 09.12.2024
+-   Die Benutzerverwaltung erfolgt nun auch über die API des
     SVWS-Servers.
 -   Bugs wurden behoben
 -   Die Versionskontrolle zwischen SVWS-Server und Schild-NRW3 ist nun
@@ -374,6 +388,7 @@ Kurs_Jahrgang_Fach_Kursart_Kursleitung_Datum_KursID.pdf'''''Beispiel: L-1_10_L7_
 -   die aktuellen Reports aus der Basis-Sammlung wurden eingebunden.
 -   Lauffähig mit SVWS-Server 1.0.2
 
-## Version 3.1.0 vom 18.10.2024 - Erstveröffentlichung-   Eine öffentliche Beta-Version steht zum Download auf der Homepage
+## Version 3.1.0 vom 18.10.2024 - Erstveröffentlichung
+-   Eine öffentliche Beta-Version steht zum Download auf der Homepage
     zur Verfügung:  
 <https://www.svws.nrw.de/download/schild-nrw3>

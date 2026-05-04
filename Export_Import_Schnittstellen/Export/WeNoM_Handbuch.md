@@ -2,9 +2,9 @@
 
 ## Handbuch zum Webnotenmanager (WeNoM)
 
-### Bedienungsanleitung für Lehrkräfte
+## Bedienungsanleitung für Lehrkräfte
 
-### Anleitung Administration-  
+## Anleitung Administration-  
 
 DEADLINK: Installation - Installation.md
 

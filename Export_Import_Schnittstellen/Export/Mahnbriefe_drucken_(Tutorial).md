@@ -13,7 +13,9 @@ wurden aufeinander abgestimmt.
 Die Reports für die Mahnungen finden Sie in der
 ***Basisreportsammlung***.
 
-## Mahnhäkchen setzenIm ersten Schulhalbjahr werden Mahnhäkchen schülerindividuell bei zu
+## Mahnhäkchen setzen
+
+Im ersten Schulhalbjahr werden Mahnhäkchen schülerindividuell bei zu
 mahnenden Epochalfächern gesetzt. Dies kann auf dem Reiter *Schüler ➜
 Akt. Halbjahr ➜* ***Leistungsdaten***manuell vorgenommen werden. Dies
 kann auch mit Hilfe von Notendateien und dem*Externen Notenmodul*oder
@@ -34,7 +36,9 @@ hinterlegt als Mahndatum das Datum der Zeugnisausgabe.Im späteren Verlauf des z
 und Weise markiert werden, wie im ersten Halbjahr. Diese Mahnhäkchen
 haben noch kein Mahndatum.
 
-## Der Gruppenprozess Mahnungsdruck einleitenStreng genommen ist der Gruppenprozess primär ein Filter, welcher auf
+## Der Gruppenprozess Mahnungsdruck einleiten
+
+Streng genommen ist der Gruppenprozess primär ein Filter, welcher auf
 die zu mahnende Schülergruppe filtert. Der eigentliche Gruppenprozess
 ist das Setzen des Mahndatums.
 
@@ -46,7 +50,9 @@ einleiten***.* Es öffnet sich ein weiteres Fenster mit ausführlicher
 Beschreibung, um die zu mahnenden Schüler zu filtern und auf Wunsch
 sofort ein Mahndatum zu setzen.
 
-#### Schüler filtern, um Mahnbriefe zu druckenWenn Sie die Schaltfläche ***Schüler filtern, um Mahnbriefe zu
+## Schüler filtern, um Mahnbriefe zu drucken
+
+Wenn Sie die Schaltfläche ***Schüler filtern, um Mahnbriefe zu
 drucken**'' aktivieren und dann den Filter auslösen, so werden
 im***ersten Halbjahr**'' alle minderjährigen Schülerinnen und Schüler
 gefiltert, bei denen ein gemahntes Fach gefunden wird.Im ***zweiten Schulhalbjahr*** werden alle minderjährigen Schülerinnen
@@ -62,7 +68,9 @@ Reportverwaltung den ***Serienbrief Mahnung gefährdete Versetzung
 @Erzieher.rtm ausdrucken.*** Hinweise zur Funktionsweise des
 Serienbriefs finden Sie weiter unten.
 
-#### Schüler filtern, um Mahnlisten zu druckenSie können die zu filternde Schülergruppe einschränken, indem Sie die
+## Schüler filtern, um Mahnlisten zu drucken
+
+Sie können die zu filternde Schülergruppe einschränken, indem Sie die
 Schaltfläche ***Nur Mahnungen berücksichtigen, bei denen das Mahndatum
 noch nicht gesetzt ist***. Es wird nicht empfohlen, dieses Häkchen zu
 setzen, da es die ordnungsgemäße Funktion der Serienbriefe und
@@ -83,7 +91,7 @@ listen alle gemahnten Fächer mit Mahndatum auf. Sie enthalten somit alle
 Fächer, welche bereits auf dem Zeugnis des ersten Halbjahres defizitär
 waren, als auch die neu gemahnten Fächer.
 
-#### Mahndatum hinterlegen
+## Mahndatum hinterlegen
 
 ![SchILD_Tutorials_Mahndatum_MahndatumÄndern.png](../../graphics/SchILD_Tutorials_Mahndatum_MahndatumÄndern.png)
 
@@ -118,7 +126,7 @@ Mahndatum zu setzen.
 
 ## Serienbrief Mahnung gefährdete Versetzung
 
-#### Der Report
+## Der Report
 
 Das Mahnschreiben *Serienbrief Mahnung gefährdete Versetzung
 @Eltern.rtf* befindet sich in der Basis-Reportsammlung, welche bei der
@@ -126,7 +134,9 @@ Installation von SchILD-NRW 3 mitgeliefert wird.Eine eventuell aktualisierte Ver
 herunterladen.Der Report kann an Grundschulen, weiterführenden Schulen und
 Berufskollegs genutzt werden.
 
-#### Vorgaben Schulgesetz und Ausbildungs- und PrüfungsordnungPrinzipiell sind die Mahnbriefe Serienbriefe mit erweiterten Funktionen
+## Vorgaben Schulgesetz und Ausbildungs- und Prüfungsordnung
+
+Prinzipiell sind die Mahnbriefe Serienbriefe mit erweiterten Funktionen
 und Rückantwortabschnitt an die Erziehungsberechtigten.
 
 Das Aussehen des Mahnschreibens wird in der APO-S I definiert. Dort
@@ -134,7 +144,8 @@ findet sich auch der Hinweis, dass das Schreiben gemäß Anlage *"zu
 verwenden"* ist. Dies bedeutet, dass keine eigenen Texte zu verwenden
 sind und dass die Anlage nicht abgeändert werden darf. Die Mahnbriefe
 wurde in enger Rücksprache mit dem MSB konzipiert und können in den
-Jahrgangsstufen 3 bis EF verwendet werden.Folgende Vorgaben wurden vom MSB gemacht:1.  der Mahnbrief hat dem Muster aus der APO-SI zu entsprechen
+Jahrgangsstufen 3 bis EF verwendet werden.Folgende Vorgaben wurden vom MSB gemacht:
+1.  der Mahnbrief hat dem Muster aus der APO-SI zu entsprechen
 2.  ein dezidierter Abschluss muss bei einer Abschlussgefährdung nicht
     ausgesprochen werden
 3.  es unterschreibt immer die Klassenleitung
@@ -144,13 +155,17 @@ Jahrgangsstufen 3 bis EF verwendet werden.Folgende Vorgaben wurden vom MSB gemac
     darauf hin, dass es vorab Defizite gab.
 6.  Der Mahnbrief wird nur an minderjährige Schulkinder versendet.
 
-#### Ausdruck im ersten SchulhalbjahrIm ersten Schulhalbjahr werden alle gemahnten Fächer im Serienbrief
+## Ausdruck im ersten Schulhalbjahr
+
+Im ersten Schulhalbjahr werden alle gemahnten Fächer im Serienbrief
 aufgelistet. Anhand der Schulform, des Jahrgangs, der Prüfung auf
 Wiederholer und Verweildauer überprüft der Serienbrief zudem, ob ein
 Hinweis auf gefährdete Versetzung, gefährdeten Abschluss oder
 Schulformwechsel gegeben werden muss.
 
-#### Ausdruck im zweiten SchulhalbjahrIm zweiten Schulhalbjahr analysiert der Serienbrief das Mahndatum der
+## Ausdruck im zweiten Schulhalbjahr
+
+Im zweiten Schulhalbjahr analysiert der Serienbrief das Mahndatum der
 gemahnten Fächer. Wird ein gemahntes Fach gefunden, welches aus einem
 Defizit des ersten Halbjahres stammt, so erscheint im Serienbrief das
 Wort -auch-. Dieses weist darauf hin, dass neben den aufgeführten

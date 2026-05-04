@@ -36,12 +36,12 @@ auswählen. Einen neuen Report können Sie mit dem Reportdesigner
 erstellen, indem Sie auf dem Karteireiter Reportverwaltung die
 Schaltfläche***Neu**'' betätigen.
 
-### Wie funktioniert ein Report?-   
+## Wie funktioniert ein Report?  
 
 WIKILINK: Was_leistet_ein_Report_in_SchILD-NRW_3?  
 Verstehen Sie, was ein Report ist und wie er funktioniert
 
-### Reports erstellen & anpassen-   
+## Reports erstellen & anpassen  
 
 WIKILINK: Einen_neuen_Report_erstellen  
 Erstellen Sie einen ersten Report mit dem Reportdesigner-   

@@ -15,7 +15,7 @@ eigentlichen Statistikprogramm einzulesen.
 
 ### Supportangebote
 
-#### Downloadseite zu ASDPC
+## Downloadseite zu ASDPC
 
 ![SchILD_Tutorials_Statistik_Supportangebote.png](../../graphics/SchILD_Tutorials_Statistik_Supportangebote.png)
 
@@ -36,7 +36,9 @@ Diese Seite ist eine zentrale Anlaufstelle für die Verwendung von ASDPC.Kontakt
 von IT.NRW.Weiterhin finden sich hier auch die Updates und die Updateanleitung für
 ASDPC.
 
-#### Weitere Supportangebote zur inhaltlichen ArbeitBei inhaltlichen Problemen wenden sie sich an die Supportangebote der
+## Weitere Supportangebote zur inhaltlichen Arbeit
+
+Bei inhaltlichen Problemen wenden sie sich an die Supportangebote der
 Fachberatung.Zur Selbsthilfe zur Verwendung von SchILD-NRW dieses **Wiki** zur
 Verfügung.Zu SchILD-NRW und der jährlichen Statistik finden sich weiterhin
 passende Bereiche im **Forum**, die für ASDPC relevanten Unterforen
@@ -49,7 +51,7 @@ Fachberater (m/w/d). Sie finden die Kontaktdaten über die
 Schulverwaltungssoftware des Ministeriums.Bauen Sie längerfristig Kompetenz durch den Besuch eventuell angebotener
 **Statistikschulungen Ihrer Bezirksregierung** auf.
 
-### Hilfen in ASDPC
+## Hilfen in ASDPC
 
 ![SchILD_Tutorials_Statistik_ASDPC_Hilfe.png](../../graphics/SchILD_Tutorials_Statistik_ASDPC_Hilfe.png)
 
@@ -87,7 +89,7 @@ von ASDPC verwendet wird.
 
 
 
-### Statistikrelevante Felder in SchILD-NRW
+## Statistikrelevante Felder in SchILD-NRW
 
 ![SchILD_Verwaltung_Einstellungen_individualEinstellungen_FarbeStatistik.png](../../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_FarbeStatistik.png)
 
@@ -121,7 +123,7 @@ Statistik beauftragten Person koordinieren.
 
 
 
-### Haupt- und weitere Förderschwerpunkte
+## Haupt- und weitere Förderschwerpunkte
 
 ![SchILD_Tutorials_Statistik_Organisationsform_usw.png](../../graphics/SchILD_Tutorials_Statistik_Organisationsform_usw.png)
 
@@ -139,7 +141,9 @@ zu Kenntnis.
 
 ### Schulformspezifische Aspekte
 
-#### Grundschulen: OGS und andere BetreuungsformenFür die Grundschulen sind die **Organisationsform** *"offener Ganztag"*
+## Grundschulen: OGS und andere Betreuungsformen
+
+Für die Grundschulen sind die **Organisationsform** *"offener Ganztag"*
 in den aktuellen Lernabschnitt unter *"Akt. Halbjahr"* einzutragen.Besondere Merkmale, wie etwa die *Schule von acht bis eins* oder
 *Dreizehn plus* werden als **Merkmale** unter *Verwaltung ➜ Schule ➜
 Weitere Angaben* einmalig angelegt und dann in den *Individualdaten II*
@@ -160,7 +164,9 @@ Konsultieren Sie hierzu das Tutorial zu
 
 WIKILINK: Eintragung_der_Schüler_im_offenen_Ganztag_(Tutorial).
 
-#### Grund- und Förderschulen: Klassenversetzungstabelle bei jahrgangsgemischten LerngruppenWird in der Schuleingangsphase oder auch in höheren Jahrgängen
+## Grund- und Förderschulen: Klassenversetzungstabelle bei jahrgangsgemischten Lerngruppen
+
+Wird in der Schuleingangsphase oder auch in höheren Jahrgängen
 *jahrgangsgemischt* unterrichtet, sind bei den entsprechenden Klassen
 der jeweilige **Jahrgang** auf *JU* zu setzen.Entsprechend werden in der Regel auch Klassenbezeichnungen gesetzt, der
 Jahrgangsmischung Rechnung tragen, d.h. die Klassen werden keine
@@ -168,7 +174,7 @@ Jahrgangsbezeichnung ("1a", "6.2" oder vergleichbar) enthalten.Beachten Sie hier
 
 WIKILINK: Versetzungstabelle_bei_jahrgangsgemischten_Klassen_(Tutorial).
 
-### Abschlussjahrgänge: Abschluss/Abgänger
+## Abschlussjahrgänge: Abschluss/Abgänger
 
 ![SchILD_Tutorials_Statistik_Abschluss.png](../../graphics/SchILD_Tutorials_Statistik_Abschluss.png)
 
@@ -239,7 +245,9 @@ hier im Wiki zur Orientierung.
 
 ## Übergabe der Daten an ASDPC
 
-### Gesamtprüfung der Daten & Abarbeiten von StatistikfehlernFühren Sie über *Verwaltung ➜ Statistik für IT.NRW* die **Gesamtprüfung
+## Gesamtprüfung der Daten & Abarbeiten von Statistikfehlern
+
+Führen Sie über *Verwaltung ➜ Statistik für IT.NRW* die **Gesamtprüfung
 der Daten** aus.Lösen Sie die Statistikfehler auf und wiederholen Sie die
 Statistikprüfung, bis ein zumindest ausreichender Status erreicht wurde.Hier sind die Artikel zur Statistik im 
 
@@ -251,7 +259,7 @@ zur Kenntnis, hier wird auch die Bearbeitung der gefundenen
 Statistikfehler innerhalb von SchILD-NRW über die *Auswahl* der *Schüler
 mit Statikstfehlern* erläutert.
 
-### Export der txt-DateienSchlussendlich werden die zu exportierenden Daten über *Verwaltung
+## Export der txt-DateienSchlussendlich werden die zu exportierenden Daten über *Verwaltung
 Statistik für IT.NRW* **Daten exportieren** ausgewählt.Es können vier unterschiedliche Dateien erzeugt werden, die je nach
 Schulform und Arbeitsweise sehr hilfreich sind oder nicht benötigt
 werden könnten.-   Die Schülerdaten werden in die *SIM.txt* geschrieben.

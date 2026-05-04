@@ -13,20 +13,22 @@ BASS 13-61 Nr. 1**.**Zielgruppe:**-   Die Sekundarstufe I der deutschen Schule w
 
 Das Ergebnis ist vollumfänglich versetzungs- und abschlussrelevant.
 
-## Anstelle der 1. Fremdsprache EnglischSoll eine Amtssprache Englisch ersetzen, so nehmen die Schülerinnen und
+## Anstelle der 1. Fremdsprache Englisch
+
+Soll eine Amtssprache Englisch ersetzen, so nehmen die Schülerinnen und
 Schüler im Rahmen der Möglichkeiten am Regelunterricht oder an einem den
 Regelunterricht ergänzenden Unterricht im Fach Englisch teil.
 
 Die Teilnahme am Englischunterricht wird auf den Zeugnissen der
 Sekundarstufe I unter Bemerkungen dokumentiert.
 
-### Zeugnisbemerkungen
+## Zeugnisbemerkungen
 
-#### Zeugnisse innerhalb der SI bei ergänzender Teilnahme am Englischunterricht
+## Zeugnisse innerhalb der SI bei ergänzender Teilnahme am Englischunterricht
 
 Das Fach Englisch kann auf dem Zeugnis aufgenommen werden.Als Note wird dann *"Teilgenommen"* eingetragen.Als Zeugnisbemerkung wird zum Beispiel folgendes eingetragen:` `***`"$Vorname$ hat am Unterricht im Fach Englisch teilgenommen."`***
 
-#### Abschlusszeugnis oder Versetzungszeugnis Ende der SI im Prüfungsjahr
+## Abschlusszeugnis oder Versetzungszeugnis Ende der SI im Prüfungsjahr
 
 Die Prüfungsnote wird von der Schule, der Einrichtung der Weiterbildung
 beziehungsweise der besonderen Einrichtung des Schulwesens anstelle
@@ -35,14 +37,14 @@ Versetzungszeugnis übertragen.In der Spalte Bemerkungen ist aufzunehmen:` `***
 
 Die Note in SPRACHE wurde aufgrund der Sprachprüfung gemäß RdErl. d. KM v. 10.03.1992 (BASS 13-61 Nr. 1) erteilt."`***
 
-#### Abschlusszeugnis und Abgangszeugnis Ende der Sekundarstufe I
+## Abschlusszeugnis und Abgangszeugnis Ende der Sekundarstufe I
 
 Das GER-Referenzniveau wird unter den Fremdsprachennachweisen mit
 erreichten Niveau aufgenommen.In der Spalte Bemerkungen ist aufzunehmen:` `***`"
 
 Das für SPRACHE ausgewiesene Niveau wurde durch eine Sprachprüfung auf dem Anspruchsniveau des Mittleren Schulabschlusses (Fachoberschulreife) in Klasse 10 erreicht."`***
 
-#### Abschlusszeugnis oder Versetzungszeugnis Ende der EF im Prüfungsjahr (je nach Laufbahn)
+## Abschlusszeugnis oder Versetzungszeugnis Ende der EF im Prüfungsjahr (je nach Laufbahn)
 
 Die Prüfungsnote wird von der Schule, der Einrichtung der Weiterbildung
 bzw. der besonderen Einrichtung des Schulwesens anstelle der 2. oder 3.
@@ -51,14 +53,14 @@ Versetzungszeugnis übertragen.In der Spalte Bemerkungen ist aufzunehmen:` `***
 
 Die Note in SPRACHE wurde aufgrund der Sprachprüfung gemäß RdErl. d. KM v. 10.03.1992 (BASS 13-61 Nr. 1) erteilt."`***
 
-#### Abiturzeugnis
+## Abiturzeugnis
 
 Das GER-Referenzniveau wird unter Fremdsprachen auf Seite 4 des
 Abiturzeugnisses mit dem Niveau B1 aufgenommen.In der Spalte Bemerkungen ist aufzunehmen:` `***`"
 
 Das für SPRACHE ausgewiesene Niveau wurde durch eine Sprachprüfung in Klasse 10 erreicht."`***
 
-### PrüfungsbescheinigungSchülerinnen und Schüler, die sich der Sprachprüfung unterzogen haben,
+## PrüfungsbescheinigungSchülerinnen und Schüler, die sich der Sprachprüfung unterzogen haben,
 erhalten eine Bescheinigung nach dem Muster der Anlage 1 BASS 13-61
 Nr. 1. Dort ist dokumentiert, an welche Stelle die geprüfte Sprache
 tritt.-   Die Prüfungsnote **"ausreichend" (Niveau EESA)** führt zur
@@ -70,7 +72,7 @@ tritt.-   Die Prüfungsnote **"ausreichend" (Niveau EESA)** führt zur
     Teilnahme am Unterricht im Fach Englisch als fortgeführte
     Fremdsprache in der gymnasialen Oberstufe.
 
-### ZP10Am Ende der Sekundarstufe I ermöglicht die Schule diesen Schülerinnen
+## ZP10Am Ende der Sekundarstufe I ermöglicht die Schule diesen Schülerinnen
 und Schülern, gegebenenfalls durch Nutzen von Prüfungsunterlagen
 benachbarter Schulen anderer Schulformen, an der Zentralen Prüfung
 Englisch zum Mittleren Schulabschluss (Fachoberschulreife) oder zum
@@ -82,7 +84,7 @@ Besuch der gymnasialen Oberstufe einbezogen.
 
 ## Anstelle der 2./3. Fremdsprache
 
-### Zeugnis: Abschlusszeugnis oder Versetzungszeugnis Ende der SI
+## Zeugnis: Abschlusszeugnis oder Versetzungszeugnis Ende der SI
 
 Die Prüfungsnote wird von der Schule, der Einrichtung der Weiterbildung
 bzw. der besonderen Einrichtung des Schulwesens anstelle der 2. oder 3.
@@ -91,7 +93,7 @@ Fremdsprache in das Abschlusszeugnis bzw. in das Versetzungszeugnis
 
 Die Note in _________ wurde aufgrund der Sprachprüfung gemäß RdErl. d. KM v. 10.03.1992 (BASS 13-61 Nr. 1) erteilt."`***
 
-### Zeugnis: Abschlusszeugnis und Abgangszeugnis Ende der Sekundarstufe I
+## Zeugnis: Abschlusszeugnis und Abgangszeugnis Ende der Sekundarstufe I
 
 Die GER-Referenzniveau wird unter den Fremdsprachennachweisen mit
 erreichten Niveau aufgenommen. In der Spalte Bemerkungen ist
@@ -99,7 +101,7 @@ aufzunehmen:`  `***`"
 
 Das für SPRACHE ausgewiesene Niveau wurde durch eine Sprachprüfung auf dem Anspruchsniveau des Mittleren Schulabschlusses (Fachoberschulreife) in Klasse 10 erreicht."`***
 
-### Zeugnis: Abiturzeugnis
+## Zeugnis: Abiturzeugnis
 
 Die GER-Referenzniveau wird unter Fremdsprachen auf Seite 4 des
 Abiturzeugnisses mit dem Neviau B1 aufgenommen. In der Spalte
@@ -107,7 +109,7 @@ Bemerkungen ist aufzunehmen:`  `***`"
 
 Das für SPRACHE ausgewiesene Niveau wurde durch eine Sprachprüfung in Klasse 10 erreicht."`***
 
-### PrüfungsbescheinigungSchülerinnen und Schüler, die sich der Sprachprüfung unterzogen haben,
+## PrüfungsbescheinigungSchülerinnen und Schüler, die sich der Sprachprüfung unterzogen haben,
 erhalten eine *Bescheinigung nach dem Muster der Anlage 1 BASS 13-61 Nr.
 1*.Dort ist dokumentiert, an welche Stelle die geprüfte Sprache tritt.-   Die Prüfungsnote **"ausreichend" (Niveau EESA)** führt zur
     Bescheinigung des Referenzniveaus **A2/B1** unter "Bemerkungen"
@@ -141,7 +143,7 @@ Fällen entbehrlich:-   Für Schülerinnen und Schüler, die aus der Klasse 9 od
     der vorgenannten Abschlüsse die in diesem Unterricht zuletzt
     erteilte Note übernommen
 
-### Abschlusszeugnis ESA und EESA Ende der SI
+## Abschlusszeugnis ESA und EESA Ende der SI
 
 Die Noten werden in diesen entbehrlichen Fällen von der Schule anstelle
 von Englisch in das Abschlusszeugnis übertragen. In die Spalte
@@ -151,7 +153,7 @@ Die Note in _________ wurde aufgrund einer Leistung erteilt, die im Herkunftslan
 
 ## Einstellungen in SchILD-NRW
 
-### Unterrichtsfächer
+## Unterrichtsfächer
 
 ![SchILD_Tutorials_Sprachprüfungen_FachAnlegen.png](../../graphics/SchILD_Tutorials_Sprachprüfungen_FachAnlegen.png)
 
@@ -182,7 +184,7 @@ werden.
 
   
 
-### SprachenfolgeTragen Sie das Fach in die Sprachenfolge auf dem Reiter *Schüler* ➜
+## SprachenfolgeTragen Sie das Fach in die Sprachenfolge auf dem Reiter *Schüler* ➜
 **Laufbahninfo** unter **Sprachprüfungen - Feststellungsprüfungen** ein.Fügen Sie die Prüfung mit einem **+** hinzu und wählen Sie
 *Herkunftssprache anstelle einer Pflichtsprache - SPRACHE* aus.Dann ist anzuwählen, welche der nach der APO vorgesehenen Fremdsprachen
 ersetzt wird, also die *1.* oder *2. Pflichtfremdsprache* oder die
@@ -202,7 +204,7 @@ Spanisch, Deutsch). Ansonsten bleibt das Feld frei.
 
   
 
-### Leistungsdaten für Abschluss- und Versetzungszeugnis
+## Leistungsdaten für Abschluss- und Versetzungszeugnis
 
 ![SchILD_Schüler_FSP_Leistungsdaten_FachHinzufügen.png](../../graphics/SchILD_Schüler_FSP_Leistungsdaten_FachHinzufügen.png)
 

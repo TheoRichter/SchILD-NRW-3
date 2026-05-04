@@ -1,8 +1,11 @@
-# SchnittstellenbeschreibungDer folgende Artikel beschreibt die einzelnen Dateien der Schnittstelle
+# Schnittstellenbeschreibung
+
+Der folgende Artikel beschreibt die einzelnen Dateien der Schnittstelle
 Schild-NRW und wie diese zum Import vorliegen müssen beziehungsweise wie
 sie nach dem Export aussehen.Lesen Sie bitte die Vorbemerkungen.
 
-## Adressen.datDaten aus dem Tabellenblatt "Weitere Adressen".| Spalte | Beschreibung               | Header-Text  | Datentyp | Darf leer sein? | Bemerkung |
+## Adressen.dat
+Daten aus dem Tabellenblatt "Weitere Adressen".| Spalte | Beschreibung               | Header-Text  | Datentyp | Darf leer sein? | Bemerkung |
 |--------|----|--|----------|-----|-----------|
 | 1      | Adress-Art                 | Adress-Art   | Text     | J               |           |
 | 2      | Name1                      | Name1        | Text     | J               |           |
@@ -21,7 +24,8 @@ sie nach dem Export aussehen.Lesen Sie bitte die Vorbemerkungen.
 Bemerkungen SchILD-ID Externe ID  
 Ausbildungsbetrieb Herr Peter SchmidtFridolinweg 5 42111 Wuppertal 012345-678p.schmidt@firma.de Metallverarbeitung123 125 }}
 
-## Ansprechpartner.datAnsprechpartner aus dem Tabellenblatt "Weitere Adressen".| Spalte | Beschreibung      | Header-Text       | Datentyp | Darf leer sein? | Bemerkung           |
+## Ansprechpartner.dat
+Ansprechpartner aus dem Tabellenblatt "Weitere Adressen".| Spalte | Beschreibung      | Header-Text       | Datentyp | Darf leer sein? | Bemerkung           |
 |--------|-------|-------|----------|-----|---------|
 | 1      | Nachname          | Name              | Text     | J               |                     |
 | 2      | Vorname           | Vorname           | Text     | J               |                     |
@@ -35,7 +39,8 @@ Ausbildungsbetrieb Herr Peter SchmidtFridolinweg 5 42111 Wuppertal 012345-678p.s
 externe Adress-ID  
 Ann Klaudia Frau Dr. 01234-56789 k.ann@firma.de Aquise 128 12 }}
 
-## Faecher.datBeschreibung: Diese Datei enthält die Unterrichtsfächer. Es brauchen nur
+## Faecher.dat
+Beschreibung: Diese Datei enthält die Unterrichtsfächer. Es brauchen nur
 solche Fächer aufgeführt werden, die auch in den Leistungsdaten der
 Schüler auftauchen, es schadet aber nicht, wenn die Datei weitere Fächer
 enthält, die nicht belegt sind.| Spalte | Beschreibung                               | Header-Text         | Datentyp  | Darf leer sein? | Bemerkung                                                                                              |
@@ -56,7 +61,8 @@ L5 L5 Latein Latein Latein (ab Kl. 5) D 3 13 1
 L7 L7 L7 Latein Latein (ab Kl. 7) D 4 11 1  
 M M Mathematik Mathematik Mathematik D 5 6 1}}
 
-## Jahrgaenge.datBeschreibung: Diese Datei enthält die an der Schule vorkommenden
+## Jahrgaenge.dat
+Beschreibung: Diese Datei enthält die an der Schule vorkommenden
 Jahrgänge. Die einzelnen Jahrgänge müssen in der "natürlichen"
 (chronologischen) Reihenfolge in der Datei vorliegen.| Spalte | Beschreibung                 | Header-Text  | Datentyp | Darf leer sein? | Bemerkung                                                                                                     |
 |--------|------------------------------|--------------|----------|-----------------|---------------------------------------|
@@ -67,7 +73,8 @@ E1 E1-   -     E3 E3-   -     03 03-   -     05 05-   -     06 06 GY9
 08 08 GY8  
 Q1 Q1 GY8}}
 
-## Klassen.datBeschreibung: Diese Datei enthält die an der Schule vorkommenden
+## Klassen.dat
+Beschreibung: Diese Datei enthält die an der Schule vorkommenden
 Klassen. Die einzelnen Klassen müssen in der "natürlichen"
 (chronologischen) Reihenfolge in der Datei vorliegen.| Spalte | Beschreibung                    | Header-Text   | Datentyp | Darf leer sein? | Bemerkung                                                                                                                                             |
 |--------|---------------------------------|---------------|----------|-----------------|-------------------------------------------------------------------------------|
@@ -87,7 +94,8 @@ Klassenart Gliederung Fachklasse
 `07C`07C 07C 07 08C BO 1 RK GY9  
 `Q1`Q1 Q1 Q1 Q2 DF 1 RK GY8}}
 
-## Kurse.datBemerkung: Diese Datei enthält Angaben zu Kurs- oder Klassen
+## Kurse.dat
+Bemerkung: Diese Datei enthält Angaben zu Kurs- oder Klassen
 -Unterricht. Die Datei Kurse.dat ist die Erweiterung einer älteren
 Version. In der erweiterten Datei können insbesondere auch mehrere
 Lehrkräfte eingetragen werden, so dass bei Verwendung dieses Formates
@@ -161,7 +169,8 @@ GZ-G1 2020 2 Q2 GZ ZK 3 3 TZ
 PKE-G1 2020 2 Q1 PK-E VTF 3 3 GO  
 `AG-Turnen`2020 2 05 AG-SP AGGT 2 2 PA J }}
 
-## KurseLehrkraefte.datBeschreibung: Diese Datei enthält zusätzliche Informationen zu Kursen,
+## KurseLehrkraefte.dat
+Beschreibung: Diese Datei enthält zusätzliche Informationen zu Kursen,
 falls diese von mehreren Lehrkräften gehalten werden.| Spalte | Beschreibung    | Header-Text | Datentyp | Darf leer sein? | Bemerkung                                                                                               |
 |--------|-----------------|-------------|----------|-----------------|---------------------------------|
 | 1      | Kursbezeichnung | KursBez     | Text(20) | Nein            | Eintrag muss in Kombination mit Jahr, Abschnitt und Jahrgang auf einen Eintrag aus Kurse.dat verweisen. |
@@ -173,7 +182,8 @@ falls diese von mehreren Lehrkräften gehalten werden.| Spalte | Beschreibung   
 F_12_LK 2005 2 Schmitz 2 12  
 E_13_LK 2005 2 Moore 1 13}}
 
-## Lehrkraefte.datBeschreibung: Diese Datei enthält die Lehrer-Grunddaten (Kürzel, Name,
+## Lehrkraefte.dat
+Beschreibung: Diese Datei enthält die Lehrer-Grunddaten (Kürzel, Name,
 Adresse usw.). Alternativ können die Lehrer-Daten aber auch über eine
 von ASD-PC erzeugte Datei mit Abteilungsdaten importiert werden (bei der
 Lehrerverwaltung von SchILD-NRW über den Button "Daten importieren aus
@@ -211,7 +221,8 @@ Teststraße 7 01234-76543 0173-9876543 jmueller@web.de L V-   26 Vertret J muejo
 MUE2 MÜ2 Herr StR. Müller Albrecht m 6.8.1960 000 54352 Testdorf
 Mustergasse 2 01243-345123amueller@gmx.de U T-   13J 123456 mueal@schule.de }}
 
-## LehrkraefteLehraemter.datBeschreibung: Diese Datei enthält Daten zu den Lehrämtern der
+## LehrkraefteLehraemter.dat
+Beschreibung: Diese Datei enthält Daten zu den Lehrämtern der
 Lehrkräfte. Zu jedem Lehramt können mehrere Lehrbefähigungen (mit
 Anerkennungen) und Fachrichtungen (mit Anerkennungen) übergeben werden.
 Diese sind dann innerhalb eines durch "\|" getrennten Blockes durch "-"
@@ -243,7 +254,8 @@ MÜ SDS müller@sds.de hfz6$+uu
 ZO SDS zorbert@sds.de hfj65ufZ  
 }}
 
-## LehrkraefteSonderzeiten.datBeschreibung: Diese Datei enthält Sonderzeiten (Mehrleistung,
+## LehrkraefteSonderzeiten.dat
+Beschreibung: Diese Datei enthält Sonderzeiten (Mehrleistung,
 Minderleistung, Anrechnung) mit Gründen für die einzelne Lehrkräfte.
 | Spalte | Beschreibung | Header-Text | Datentyp | Darf leer sein? | Bemerkung |
 | --- | --- | --- | --- | --- | --- |
@@ -256,7 +268,8 @@ MÜ1 MEHRLEISTUNG 100 3
 MÜ1 ANRECHNUNG 510 2  
 MÜ2 MINDERLEISTUNG 260 2 }}
 
-## SchuelerAbiFaecher.dat| Spalte | Beschreibung       | Header-Text        | Datentyp | Darf leer sein? | Bemerkung |
+## SchuelerAbiFaecher.dat
+| Spalte | Beschreibung       | Header-Text        | Datentyp | Darf leer sein? | Bemerkung |
 |--------|--------|--------|----------|-----|-----------|
 | 1      | Nachname           | Nachname           | Text     |                 |           |
 | 2      | Vorname            | Vorname            | Text     |                 |           |
@@ -298,7 +311,8 @@ MÜ2 MINDERLEISTUNG 260 2 }}
 | 38     | P_FA               | P_FA               |          |                 |           |
 | 39     | R_FA               | R_FA               |          |                 |           |
 
-## SchuelerAbitur.datBeschreibung: Enthält Angaben zu Abiturdaten der Schüler.**Hinweis:** Die Abiturfächer werden über die entsprechenden Einträge
+## SchuelerAbitur.dat
+Beschreibung: Enthält Angaben zu Abiturdaten der Schüler.**Hinweis:** Die Abiturfächer werden über die entsprechenden Einträge
 bei SchuelerLeistungsdaten.dat ermittelt.| Spalte | Beschreibung              | Header-Text       | Datentyp | Darf leer sein? | Bemerkung                                                                                                                                                                                                            |
 |--------|---------------------------|-------------------|----------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | 1      | Nachname des Schülers     | Nachname          | Text(50) | Nein            | Muss in Verbindung mit Vorname und Geburtsdatum auf einen Eintrag aus SchuelerBasisdaten.dat verweisen. Falls notwendig, mit Klasse ergänzen (mit #-Zeichen getrennt - siehe Beschreibung zu SchuelerBasisdaten.dat) |
@@ -341,7 +355,8 @@ bei SchuelerLeistungsdaten.dat ermittelt.| Spalte | Beschreibung              | 
 Abenden Jennifer 09.11.1988 J J 1,8 2006 2 Abendroth Marko 04.05.1987 J
 J 2,4 2006 2 }}
 
-## SchuelerAdressen.datBeschreibung: Enthält weitere Adressen (z.B. von Ausbildungsbetrieben)
+## SchuelerAdressen.dat
+Beschreibung: Enthält weitere Adressen (z.B. von Ausbildungsbetrieben)
 der Schüler| Spalte | Beschreibung              | Header-Text        | Datentyp | Darf leer sein? | Bemerkung                                                                                                                                                                                                                                                                                                     |
 |--------|---------------------------|--------------------|----------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1      | Nachname des Schülers     | Nachname           | Text(50) | Ja (s.u.)       | Muss in Verbindung mit Vorname und Geburtsdatum auf einen Eintrag aus SchuelerBasisdaten.dat verweisen.                                                                                                                                                                                                       |
@@ -394,7 +409,8 @@ Müller Hans 10.03.1971 2013 2
 Hans ist stets bemüht!  
 </V> }}
 
-## SchuelerBasisdaten.datBeschreibung: Enthält die Basis-Stammdaten der Schüler, insbesondere
+## SchuelerBasisdaten.dat
+Beschreibung: Enthält die Basis-Stammdaten der Schüler, insbesondere
 solche, die für die Statistik relevant sind.Wenn die in den DateienSchuelerZusatzdaten.dat  
 SchuelerLernabschnittsdaten.dat  
 SchuelerLeistungsdaten.dat  
@@ -491,7 +507,8 @@ zweimal, trotzdem wird beim Import nur ein Datensatz angelegt.Daniela 17.11.1995
 zweimal, aber mit unterschiedlichen Klassenbezeichnungen nach dem
 Nachnamen. Daher werden zwei Datensätze angelegt.
 
-## SchuelerBisherigeSchulen.datBeschreibung: Enthält weitere Schulen, die bisher besucht wurden(zusätzlich zu der in den Basisdaten enthaltenen letzten Schule).
+## SchuelerBisherigeSchulen.dat
+Beschreibung: Enthält weitere Schulen, die bisher besucht wurden(zusätzlich zu der in den Basisdaten enthaltenen letzten Schule).
 | Spalte | Beschreibung | Header-Text | Datentyp | Darf leer sein? | Bemerkung |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Nachname des Schülers | Nachname | Text(50) | Nein | Muss in Verbindung mit Vorname und Geburtsdatum auf einen Eintrag<br>aus SchuelerBasisdaten.dat verweisen. Falls notwendig, mit Klasse<br>ergänzen (mit #-Zeichen getrennt - siehe Beschreibung zu<br>SchuelerBasisdaten.dat) |
@@ -509,7 +526,8 @@ Nachnamen. Daher werden zwei Datensätze angelegt.
 | 13 | Jahrgang von | Jahrgang von | Text(2) | Ja | Jahrgang, den der Schüler bei Eintritt in die Schule besucht<br>hat |
 | 14 | Jahrgang bis | Jahrgang bis | Text(2) | Ja | Jahrgang, in dem der Schüler die Schule verlassen hat |
 
-## SchuelerErzieher.datBeschreibung: Enthält Angaben zu den Erziehern der Schüler. Pro
+## SchuelerErzieher.dat
+Beschreibung: Enthält Angaben zu den Erziehern der Schüler. Pro
 Datensatz können die Namen von 1 (bei allein erziehendem Elternteil)
 oder 2 Personen (i.d.R. Mutter und Vater) eingegeben werden. Falls zu
 einem Schüler mehrere Datensätze existieren, sollen diese in der
@@ -542,7 +560,8 @@ Abel Jennifer 09.11.1990 Mutter FrauAbel AndreaKresseweg 188 33145 Warnburg Oste
 `Abendroth`Marko 04.05.1987 Eltern Frau Dr. Abendroth Almuth HerrAbendroth Anton Basilikumweg 105 33145 Warburg Westerstede
 m.abendroth@t-online.de J a.abendroth@t-online.de }}
 
-## SchuelerFachBemerkungen.datBeschreibung: Mit dieser Datei können die fachbezogenen Bemerkungen zum
+## SchuelerFachBemerkungen.dat
+Beschreibung: Mit dieser Datei können die fachbezogenen Bemerkungen zum
 jeweiligen Lernabschnitt exportiert/importiert werden. Der Aufbau
 gleicht dabei den Vermerken, ist jedoch an das Schuljahr und den
 Abschnitt gekoppelt.| Spalte | Beschreibung                 | Header-Text  | Datentyp | Darf leer sein? | Bemerkung                                                                                                                                                                                                            |
@@ -559,7 +578,8 @@ Müller Hans 10.03.1971 2013 2 D
 Alles super auf dem Zeugnis!  
 </V> }}
 
-## SchuelerFehlstunden.dat| Spalte | Beschreibung             | Header-Text  | Datentyp | Darf leer sein? | Bemerkung                          |
+## SchuelerFehlstunden.dat
+| Spalte | Beschreibung             | Header-Text  | Datentyp | Darf leer sein? | Bemerkung                          |
 |--------|--------------|--|----------|-----||
 | 1      | Nachname                 | Name         | Text     | N               |                                    |
 | 2      | Vorname                  | Vorname      | Text     | N               |                                    |
@@ -577,7 +597,8 @@ Alles super auf dem Zeugnis!
 Fehlstd. Entschuldigt Lehrkraft  
 Ann Klaudia 28.09.2001 10a 2016 2 16.12.2016 AL 1 2 2 N AN}}
 
-## SchuelerGSDaten.datBeschreibung: Enthält die Daten der Herkunftsgrundschule, welche zur
+## SchuelerGSDaten.dat
+Beschreibung: Enthält die Daten der Herkunftsgrundschule, welche zur
 Aufnahmeentscheidung herangezogen werden.| Spalte | Beschreibung                | Header-Text                 | Datentyp | Darf leer sein? | Bemerkung                                                                                                                                                                                                                                                                                                                                               |
 |--------|-----------------------------|-----------------------------|----------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1      | Nachname des Schülers       | Nachname                    | Text(50) | Nein            | Muss in Verbindung mit Vorname und Geburtsdatum auf einen Eintrag aus SchuelerBasisdaten.dat verweisen. Falls notwendig, mit Klasse ergänzen (mit #-Zeichen getrennt - siehe Beschreibung zu SchuelerBasisdaten.dat). Außerdem muss ein entsprechender Eintrag (in Verbindung mit Jahr und Abschnitt) in SchuelerLernabschnitsdaten.dat vorhanden sein. |
@@ -607,7 +628,8 @@ Klasse Geschwisterkind
 Becker Jule Lene 06.06.2004 2 2 2 2 2 2 2 2 2 2 2 2 2 Frau Herm\-  
 Bludau Leo Emilio 18.08.2004 1 2 1 2 1 2 1 2 1 2 1,33 1,5 1,43 Frau Herm\- }}
 
-## SchuelerLeistungsdaten.datBeschreibung: Enthält die Leistungsdaten (Fächer und Noten) eines
+## SchuelerLeistungsdaten.dat
+Beschreibung: Enthält die Leistungsdaten (Fächer und Noten) eines
 Lernabschnittes (=Halbjahr oder Quartal) der Schüler.
 | Spalte | Beschreibung | Header-Text | Datentyp | Darf leer sein? | Bemerkung |
 | --- | --- | --- | --- | --- | --- |
@@ -644,7 +666,8 @@ Herse Tobias 08.04.1995 2005 2 GZ WI ZK GZ-G1 1-30 0
 Herse Tobias 08.04.1995 2005 2 PKE WE PJK PJK-G1 1-30 0  
 Herse Tobias 08.04.1995 2005 2 VKM QU VTF VKM-G1 E320 0 }}
 
-## SchuelerLELS.datBeschreibung: Mit dieser Datei können die Bemerkungen zum
+## SchuelerLELS.dat
+Beschreibung: Mit dieser Datei können die Bemerkungen zum
 außerunterrichtlichen Engagement des jeweiligen Lernabschnitts
 exportiert/importiert werden. Der Aufbau gleicht dabei den Vermerken,
 ist jedoch an das Schuljahr und den Abschnitt gekoppelt.| Spalte | Beschreibung              | Header-Text  | Datentyp | Darf leer sein? | Bemerkung                                                                                                                                                                                                            |
@@ -660,7 +683,8 @@ Müller Hans 10.03.1971 2013 2
 Hans wurde zum Schulsanitäter ausgebildet!  
 </V> }}
 
-## SchuelerLernabschnittsdaten.datBeschreibung: Enthält die Daten für einen Lernabschnitt (=Halbjahr oder
+## SchuelerLernabschnittsdaten.dat
+Beschreibung: Enthält die Daten für einen Lernabschnitt (=Halbjahr oder
 Quartal) eines Schülers.| Spalte | Beschreibung                 | Header-Text                 | Datentyp | Darf leer sein? | Bemerkung                                                                                                                                                                                                            |
 |--------|------------------------------|-----------------------------|----------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | 1      | Nachname des Schülers        | Nachname                    | Text(50) | Nein            | Muss in Verbindung mit Vorname und Geburtsdatum auf einen Eintrag aus SchuelerBasisdaten.dat verweisen. Falls notwendig, mit Klasse ergänzen (mit #-Zeichen getrennt - siehe Beschreibung zu SchuelerBasisdaten.dat) |
@@ -698,7 +722,8 @@ Schwerstbehinderung Wertung Wiederholung Klassenlehrer Versetzung
 Abschluss Schwerpunkt  
 Alford Daniel 03.12.1994 2005 2 05 05C-   -   1 RKN J N Müller V 0 Bader Heike 25.02.1995 2005 2 05 05D-   -   1 RKN J N Müller V 0}}
 
-## SchuelerLernplattformen.datBeschreibung: Diese Datei enthält Benutzernamen und Initialkennwörter zu
+## SchuelerLernplattformen.dat
+Beschreibung: Diese Datei enthält Benutzernamen und Initialkennwörter zu
 Lernplattformen der Schülerinnen und Schüler.| Spalte | Beschreibung              | Header-Text     | Datentyp | Darf leer sein? | Bemerkung                                                                                        |
 |--------|---------------------------|-----------------|----------|-----------------|--------------------------|
 | 1      | Nachname des Schülers     | Nachname        | Text     | Nein            | Nachname der Schülerin oder des Schülers                                                         |
@@ -722,7 +747,8 @@ BUS-Projekt, Offene Ganztagsschule usw.)| Spalte | Beschreibung              | H
 Kortmann Marina 26.04.1996 13+  
 Krannowski Mariana 21.07.1996 GANZTAG }}
 
-## SchuelerSprachenfolgen.datBeschreibung: Enthält Angaben zu Sprachenfolgen der Schüler.| Spalte | Beschreibung              | Header-Text   | Datentyp | Darf leer sein? | Bemerkung                                                                                                                                                                                                            |
+## SchuelerSprachenfolgen.dat
+Beschreibung: Enthält Angaben zu Sprachenfolgen der Schüler.| Spalte | Beschreibung              | Header-Text   | Datentyp | Darf leer sein? | Bemerkung                                                                                                                                                                                                            |
 |--------|---------------------------|---------------|----------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | 1      | Nachname des Schülers     | Nachname      | Text(50) | Nein            | Muss in Verbindung mit Vorname und Geburtsdatum auf einen Eintrag aus SchuelerBasisdaten.dat verweisen. Falls notwendig, mit Klasse ergänzen (mit #-Zeichen getrennt - siehe Beschreibung zu SchuelerBasisdaten.dat) |
 | 2      | Vorname des Schülers      | Vorname       | Text(30) | Nein            |                                                                                                                                                                                                                      |
@@ -743,7 +769,8 @@ Abel Jennifer 09.11.1990 L7 2 07 1
 `Abendroth`Marko 04.05.1987 E 1 05 1A2/B2  
 Abendroth Marko 04.05.1987 F7 2 07 1B2 }}
 
-## SchuelerTeilleistungen.datBeschreibung: Enthält die Teilleistungsdaten (Teilleistung und Noten)
+## SchuelerTeilleistungen.dat
+Beschreibung: Enthält die Teilleistungsdaten (Teilleistung und Noten)
 eines Lernabschnittes (=Halbjahr oder Quartal) der Schüler.| Spalte | Beschreibung              | Header-Text  | Datentyp | Darf leer sein? | Bemerkung                                                                                                                                                                                                                                                                                                                                               |
 |--------|---------------------------|--------------|----------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1      | Nachname des Schülers     | Nachname     | Text(50) | Nein            | Muss in Verbindung mit Vorname und Geburtsdatum auf einen Eintrag aus SchuelerBasisdaten.dat verweisen. Falls notwendig, mit Klasse ergänzen (mit #-Zeichen getrennt - siehe Beschreibung zu SchuelerBasisdaten.dat). Außerdem muss ein entsprechender Eintrag (in Verbindung mit Jahr und Abschnitt) in SchuelerLernabschnitsdaten.dat vorhanden sein. |
@@ -760,7 +787,8 @@ eines Lernabschnittes (=Halbjahr oder Quartal) der Schüler.| Spalte | Beschreib
 Bemerkung Lehrkraft  
 Schmidt Sarah 01.04.2003 2020 1 E 20.10.2020 1. Klausur 3-WA }}
 
-## SchuelerTelefonnummern.datBeschreibung: Enthält zusätzliche Telefonnummern der Schüler bzw. der
+## SchuelerTelefonnummern.dat
+Beschreibung: Enthält zusätzliche Telefonnummern der Schüler bzw. der
 Erzieher.| Spalte | Beschreibung              | Header-Text  | Datentyp | Darf leer sein? | Bemerkung                                                                                                                                                                                                            |
 |--------|---------------------------|--------------|----------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | 1      | Nachname des Schülers     | Nachname     | Text(50) | Nein            | Muss in Verbindung mit Vorname und Geburtsdatum auf einen Eintrag aus SchuelerBasisdaten.dat verweisen. Falls notwendig, mit Klasse ergänzen (mit #-Zeichen getrennt - siehe Beschreibung zu SchuelerBasisdaten.dat) |
@@ -772,7 +800,8 @@ Abel Jennifer 09.11.1990 01234-775303 Eltern
 Achterberg David 01.04.1992 01234-182861 Eltern  
 Addens Sophie 05.12.1991 01234-561482 Eltern }}
 
-## SchuelerVermerke.datBeschreibung: Enthält Vermerke (z.B. Bemerkungen) zu den Schülern,
+## SchuelerVermerke.dat
+Beschreibung: Enthält Vermerke (z.B. Bemerkungen) zu den Schülern,
 optional mit Datum. Zu jedem Vermerk kann ein beliebig langer
 Bemerkungstext hinzugefügt werden. Aus diesem Grunde ist der Dateiaufbau
 auch etwas anders als bei den übrigen Dateien: Auf eine Zeile, die zum
@@ -794,7 +823,8 @@ Kortmann Marina 26.04.1996 Tadel 01.02.2007
 Marina ist mehrfach dem Unterricht ferngeblieben  
 </V> }}
 
-## SchuelerZeugnisBemerkungen.datBeschreibung: Mit dieser Datei können die Zeugnisbemerkungen zum
+## SchuelerZeugnisBemerkungen.dat
+Beschreibung: Mit dieser Datei können die Zeugnisbemerkungen zum
 jeweiligen Lernabschnitt exportiert/importiert werden. Der Aufbau
 gleicht dabei den Vermerken, ist jedoch an das Schuljahr und den
 Abschnitt gekoppelt.| Spalte | Beschreibung              | Header-Text  | Datentyp | Darf leer sein? | Bemerkung                                                                                                                                                                                                            |
@@ -810,7 +840,8 @@ Müller Hans 10.03.1971 2013 2
 Alles super auf dem Zeugnis!  
 </V> }}
 
-## SchuelerZusatzdaten.datBeschreibung: Enthält zusätzliche Stammdaten der Schüler, die nicht
+## SchuelerZusatzdaten.dat
+Beschreibung: Enthält zusätzliche Stammdaten der Schüler, die nicht
 statistik-relevant sind.| Spalte | Beschreibung                                               | Header-Text         | Datentyp  | Darf leer sein? | Bemerkung                                                                                                                                                                                                            |
 |--------|------------------------------------------------------------|---------------------|-----------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | 1      | Nachname des Schülers                                      | Nachname            | Text(50)  | Nein            | Muss in Verbindung mit Vorname und Geburtsdatum auf einen Eintrag aus SchuelerBasisdaten.dat verweisen. Falls notwendig, mit Klasse ergänzen (mit #-Zeichen getrennt - siehe Beschreibung zu SchuelerBasisdaten.dat) |
@@ -846,12 +877,14 @@ Fahrschülerart Haltestelle Einschulungsart Entlassdatum Entlassjahrgang
 Datum Schulwechsel Bemerkungen  
 Fatirmay Jasemin 26.01.1995Gütersloh Roisdorf 01234-803324 JFatirmay@w123.de 163temporär - Ausdaueranforderung Schulbus Ottostraße}}
 
-## SchuleMerkmale.datBeschreibung: Enthält spezielle Merkmale der Schule (z.B. ob Offene
+## SchuleMerkmale.dat
+Beschreibung: Enthält spezielle Merkmale der Schule (z.B. ob Offene
 Ganztagsschule angeboten wird usw.)| Spalte | Beschreibung | Header-Text | Datentyp | Darf leer sein? | Bemerkung                                                                                           |
 |--------|--------------|-------------|----------|-----------------|-----------------------------|
 | 1      | Merkmal      | Merkmal     | Text(10) | Nein            | Kürzel des Merkmales, als Statistik-Kürzel aus Statkue.mdb, Tabelle "AllgMerkmale", Feld "Kurztext" |
 
-## AnhangAllgemeine Kursarten: Die in Kurse.dat vorkommenden Einträge für die
+## Anhang
+Allgemeine Kursarten: Die in Kurse.dat vorkommenden Einträge für die
 "allgemeine Kursart" entsprechen in den meisten Fällen den
 "individuellen Kursarten" (aus Statkue.mdb, Tabelle "ZulKuArt"). Z.B.:
 | schülerspezifische Kursart | zugehörige allgemeine Kursart |

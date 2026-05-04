@@ -1,6 +1,8 @@
 # Was leistet ein Report in SchILD-NRW 3?
 
-## Was leistet ein Report in SchILD-NRW 3?Ein **Report** in **SchILD-NRW 3** ist eine Vorlage, die beschreibt, wie
+## Was leistet ein Report in SchILD-NRW 3?
+
+Ein **Report** in **SchILD-NRW 3** ist eine Vorlage, die beschreibt, wie
 Daten aus der Datenbank zu einem Dokument zusammengesetzt und ausgegeben
 werden sollen.Ein Report enthält daher sowohl-   **Datenfelder** (z. B. Vorname, Nachname, Geburtsdatum)als auch-   **Formatierungsanweisungen** (z. B. Reihenfolge, Zeilenumbrüche,
     Schriftstile)Zum Beispiel könnte ein Report folgende Anweisung enthalten:        [VORNAME] [NACHNAME], [GEB_DATUM]
@@ -11,9 +13,11 @@ jeden ausgewählten Schüler mit den tatsächlichen Daten gefüllt.Sind beispiel
 ausgewählt, würde das Ergebnis wie folgt aussehen:        Simon Müller, 09.08.2019
         Lisa Heinz, 23.07.2019
 
-## Beispiel: KlassenlisteAls Beispiel soll eine Klassenliste analysiert werden.
+## Beispiel: Klassenliste
 
-### Der Report „Klassenliste“
+Als Beispiel soll eine Klassenliste analysiert werden.
+
+## Der Report „Klassenliste“
 
 ![SchILD_Reports_Grundlagen_1.png](../../graphics/SchILD_Reports_Grundlagen_1.png)
 
@@ -32,7 +36,7 @@ konkretes **Datenfeld** gewählt werden, hier im Beispiel
 -   das aktuelle Schuljahr
 -   den aktuellen Abschnitt (oben rechts)  
 
-### Klassenliste drucken
+## Klassenliste drucken
 
 ![SchILD_Reports_Grundlagen_2.png](../../graphics/SchILD_Reports_Grundlagen_2.png)
 

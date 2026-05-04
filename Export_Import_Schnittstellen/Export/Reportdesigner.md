@@ -26,7 +26,9 @@ auswählen. Einen neuen Report können Sie mit dem Reportdesigner
 erstellen, indem Sie auf dem Karteireiter Reportverwaltung die
 Schaltfläche***Neu**'' betätigen.
 
-## Die BasisreportsammlungenMit der Installation von SchILD-NRW 3 wird eine Basisreportsammlung
+## Die Basisreportsammlungen
+
+Mit der Installation von SchILD-NRW 3 wird eine Basisreportsammlung
 einmalig im SVWS-Arbeitsverzeichnis hinterlegt. Diese enthält Reports
 für typische Bedarfe in Schule. Diese Reports folgen einer konsequenten
 Designrichtlinie, haben einen gleichen Aufbau und sind ein guter
@@ -77,7 +79,7 @@ WIKILINK: Basisreportsammlung:_Aufnahmebögen
 
 DEADLINK: Versionsgeschichte - Basisreportsammlung:_Versionsgeschichte.md
 
-## Einführung in den Reportdesigner-   
+## Einführung in den Reportdesigner   
 
 WIKILINK: Was_leistet_ein_Report_in_SchILD-NRW_3?
 -   
@@ -102,7 +104,9 @@ WIKILINK: Eigene_Datenquellen_definieren
 
 WIKILINK: Basisreportsammlung:_Designrichtlinien
 
-## Vertiefende PDF-Tutorials und SupportNeben den schulspezifischen Anleitungen und Hilfen hier im Wiki können
+## Vertiefende PDF-Tutorials und Support
+
+Neben den schulspezifischen Anleitungen und Hilfen hier im Wiki können
 Sie Hilfe zur Erstellung eigener Reports im Anwenderforum finden. Laden
 Sie hierzu Ihren Report im Forum hoch und äußern Sie ihre Bedarfe.-   [Link zum SchILD-NRW 3Anwenderforum](https://schulverwaltungsinfos.nrw.de/svws/forum/)Jede Bezirksregierung bietet kostenlose Fortbildungsmodule rund um
 SchILD-NRW für Angestellte des Landes-NRW an. Unter den Angeboten finden
@@ -115,7 +119,7 @@ einer grundlegenden Anleitung auch eine vertiefende Anleitung, welche
 Sie in die Programmieroberfläche des Reportdesigners einführt.-   [Link zu den deutschsprachigen Tutorials vonDigital-Metaphors](https://www.digital-metaphors.com/download/documentation/#LearningReportBuilder)
 -   [Link zur Support-Seite vonDigital-Metaphors](https://www.digital-metaphors.com/support/)
 
-## Weitere Tipps zur Reportverwaltung-   
+## Weitere Tipps zur Reportverwaltung   
 
 WIKILINK: Die_Ordnerstruktur_der_Reportverwaltung
 -   
@@ -147,7 +151,7 @@ WIKILINK: Einen_Report_per_E-Mail_versenden_und_teilen
 
 WIKILINK: Kompatibilität_der_Reports_in_SchILD-NRW_2_und_SchILD-NRW_3
 
-## Problemlösungen-  
+## Problemlösungen 
 
 WIKILINK: Problem_bei_der_Verwendung_von_Grafiken_(Tutorial)
 -   

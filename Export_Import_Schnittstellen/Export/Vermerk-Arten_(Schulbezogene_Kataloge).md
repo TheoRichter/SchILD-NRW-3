@@ -21,7 +21,9 @@ nicht manuell verändert werden, da es sonst zu ungewünschten bzw.
 unerwarteten Sortierungen kommt. Eine individuelle Sortierung wird im
 nächsten Abschnitt erläutert.  
 
-## Sortierung der Vermerk-ArtenBei Verwendung der **Sortierung** "Vermerkart" sortiert das Programm
+## Sortierung der Vermerk-Arten
+
+Bei Verwendung der **Sortierung** "Vermerkart" sortiert das Programm
 alphabetisch, wobei alle Großbuchstaben vor den Kleinbuchstaben
 einsortiert werden. In dieser Reihenfolge werden die Vermerk-Arten auch
 in der entsprechenden Auswahl im Programm sortiert.
@@ -33,12 +35,16 @@ dies eingestellt werden. Die Pfeile am linken Rand werden damit
 aktiviert und erlauben eine individuelle Reihenfolge. Im Beispiel
 dargestellt ist die Verschiebung der Vermerkart "Ordnungsmaßnahmen".  
 
-## Bearbeiten von Vermerk-ArtenDurch einen Doppelklick in das entsprechende Feld in der Spalte
+## Bearbeiten von Vermerk-Arten
+
+Durch einen Doppelklick in das entsprechende Feld in der Spalte
 "Vermerkart" kann die Bezeichnung bereits angelegter Vermerk-Arten
 **geändert** werden.Der Haken in der Spalte "Sichtbar" schaltet die Sichtbarkeit in den
 Auswahlmenüs ein oder aus. Dies bietet sich an, wenn bestimmte
 Vermerk-Arten nicht in jedem Schuljahr benötigt werden.Ein Klick auf das "-" **löscht** die angelegte Vermerkart nach
 Bestätigung einer Dialogabfrage.  
 
-## Export in eine Excel-TabelleDurch Klick auf "Excel-Export" und "Speichern" im folgenden Fenster kann
+## Export in eine Excel-Tabelle
+
+Durch Klick auf "Excel-Export" und "Speichern" im folgenden Fenster kann
 die aktuelle Ansicht in eine **Excel-Tabelle** exportiert werden.

@@ -1,4 +1,6 @@
-# Weitere Programme für Dateioperationen (Tipps)Möchte man mit den diversen in Text- und csv-Formaten vorliegenden Im-
+# Weitere Programme für Dateioperationen (Tipps)
+
+Möchte man mit den diversen in Text- und csv-Formaten vorliegenden Im-
 und Exportdateien und auch den Schnittstellendateien arbeiten, empfehlen
 sich in der Praxis Tabellenkalkulationsprogramme wie *Open Office Calc*
 oder *Microsoft Excel*. Erscheint eines der beiden Programme zu

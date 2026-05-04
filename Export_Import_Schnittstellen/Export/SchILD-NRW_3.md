@@ -16,7 +16,9 @@ herunter.
 
 ## Was ändert sich im Vergleich zu SchILD-NRW 2
 
-## Installation SchILD-NRW 3In diesem Abschnitt stehen technische Hintergründe zu Installation und
+## Installation SchILD-NRW 3
+
+In diesem Abschnitt stehen technische Hintergründe zu Installation und
 Administration von SchILD-NRW 3.
 
 Die Dokumentation des SVWS-Servers und zur Benutzung des SVWS-Clients
@@ -26,34 +28,42 @@ inklusive der Installation finden Sie auf <https://doku.svws-nrw.de>.
 
   
 
-## Einführung in wesentliche Funktionen von SchILD-NRW 3In diesem Abschnitt finden sich prägnante Erläuterungen zum Aufbau von
+## Einführung in wesentliche Funktionen von SchILD-NRW 3
+
+In diesem Abschnitt finden sich prägnante Erläuterungen zum Aufbau von
 SchILD-NRW 3, um den Einstieg zu erleichtern.
 
-## KarteireiterIn diesem Abschnitt werden alle Karteireiter von SchILD-NRW 3
+## Karteireiter
+
+In diesem Abschnitt werden alle Karteireiter von SchILD-NRW 3
 detailliert erklärt. Neben diesen rein auf den Reiter bezogenen Inhalten
 finden sich gegebenenfalls Erklärungen zu den mit den Reitern
 verbundenen Arbeitsprozessen sowie Beispiele, Hinweise und Tipps.
 Prozesse, die sich aufgrund ihrer Art oder Komplexität nicht einem
 einzigen Reiter zuordnen lassen, finden Sie bei den *Tutorials*.
 
-### Karteireiter Verwaltung------------------------------------------------------------------------
+## Karteireiter Verwaltung------------------------------------------------------------------------
 
-### Karteireiter Lehrkräfte------------------------------------------------------------------------
+## Karteireiter Lehrkräfte------------------------------------------------------------------------
 
-### Karteireiter Schüler------------------------------------------------------------------------
+## Karteireiter Schüler------------------------------------------------------------------------
 
-### Karteireiter Auswahl
+## Karteireiter Auswahl
 
-### Karteireiter GruppenprozesseIn diesem Abschnitt werden alle Gruppenprozesse aufgeführt. Je nach
+## Karteireiter Gruppenprozesse
+
+In diesem Abschnitt werden alle Gruppenprozesse aufgeführt. Je nach
 Schulform, Jahrgang oder anderen Kriterien werden für die jeweils
 gewählte Schülergruppe nicht zutreffende Gruppenprozesse ausgeblendet.
 Weitere Arbeitsprozesse finden Sie bei den *Tutorials*.
 
-### Karteireiter KatalogeIn diesem Abschnitt werden die diversen Kataloge von SchILD-NRW 3
+## Karteireiter Kataloge
+
+In diesem Abschnitt werden die diversen Kataloge von SchILD-NRW 3
 erklärt. Weiterhin finden sich Hinweise, Beispiele und Tipps zum Aufbau
 der Kataloge in der Praxis.
 
-### Karteireiter Reportverwaltung
+## Karteireiter Reportverwaltung
 
 ![Wiki_reporting.png](../../graphics/Wiki_reporting.png)
 
@@ -84,10 +94,10 @@ DEADLINK: Videotutorials - :Kategorie:Video.md
 
 **.
 
-### Allgemeine Tutorials------------------------------------------------------------------------
+## Allgemeine Tutorials------------------------------------------------------------------------
 
-### Schulformenspezifische Tutorials------------------------------------------------------------------------
+# Schulformenspezifische Tutorials------------------------------------------------------------------------
 
-### Fächer und Leistungsdaten------------------------------------------------------------------------
+## Fächer und Leistungsdaten------------------------------------------------------------------------
 
-### Versetzung, Abschlüsse und Zeugnisdruck
+## Versetzung, Abschlüsse und Zeugnisdruck
