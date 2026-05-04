@@ -1,4 +1,4 @@
-# Ergebnis Versetzungs-/Abschluss-Berechnung (Aktuelles Halbjahr / Aktueller Abschnitt
+# Ergebnis Versetzungs-/Abschluss-Berechnung (Aktuelles Halbjahr / Aktueller Abschnitt)
 
 ![SchILD_Schueler_AktHalbj_Leistungsdaten_11.png](../../graphics/SchILD_Schueler_AktHalbj_Leistungsdaten_11.png)
 

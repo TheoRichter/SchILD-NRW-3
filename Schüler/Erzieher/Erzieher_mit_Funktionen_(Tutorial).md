@@ -1,4 +1,6 @@
-# Erzieher mit Funktionen (Tutorial)Erstellen Sie für Erzieherfunktionen passende **Personengruppen** über
+# Erzieher mit Funktionen (Tutorial)
+
+Erstellen Sie für Erzieherfunktionen passende **Personengruppen** über
 ***Kataloge ➜ Personengruppen***. Beachten Sie **
 
 WIKILINK: Personengruppen_(Schulbezogene_Kataloge)**

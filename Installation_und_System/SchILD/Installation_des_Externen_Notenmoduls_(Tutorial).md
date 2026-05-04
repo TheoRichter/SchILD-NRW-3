@@ -5,10 +5,7 @@ Download zur Verfügung. Laden Sie es über
 <https://github.com/SVWS-NRW/ExternesNotenmodul/releases> herunter.Sofern es nicht mehr im Beta-Stadium ist, wird es über www.svws.nrw.de
 angeboten werden.
 
- warnin
-
-g
- Bei dem externen Notenmodul handelt es sich um ein
+Bei dem externen Notenmodul handelt es sich um ein
 Programm ausschließlich für **MS Windows**, das installiert wird.Eine Lösung, die vom Betriebssystem unabhängig ist, wird später mit dem
 **WebNotenManager** angeboten werden.Bitte verteilen Sie das Notenmodul direkt über Ihre Schule und verlinken
 Sie nicht auf für alle Lehrkräfte auf die Seite des MSB.
@@ -30,7 +27,9 @@ SVWS-Arbeitsverzeichnis installieren möchten.
 
 
 
-# InstallationSie können die ausführbare Datei fest auf ihrem System installieren oder
+# Installation
+
+Sie können die ausführbare Datei fest auf ihrem System installieren oder
 
 nur die gepackte zip-Datei entpacken.Per Standard blendet Windows die Dateiendungen .exe und .zip aus. Diese
 werden bei Ihnen also eventuell nicht angezeigt. Achten Sie hier auf die
@@ -129,7 +128,7 @@ Klicken Sie dann auf `Weiter`
 Desktop oder der Taskleiste anlegen soll.Wählen Sie, ob Ihnen das sinnvoll erscheint. Installieren Sie im
 Standardvorschlag direkt auf dem Desktop, wird dort auch das Verzeichnis
 zum direkten Anklicken liegen. Ein Symbol wäre damit nicht mehr
-hilfreich.Klicken Sie dann auf `Weiter`.Dann klicken Sie auf `Installieren`.
+hilfreich. Klicken Sie dann auf `Weiter`.Dann klicken Sie auf `Installieren`.
 
 Das Programm wird installiert.  
 

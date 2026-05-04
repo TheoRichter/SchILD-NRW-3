@@ -1,4 +1,6 @@
-# Grundschulzeugnisse Hybridzeugnis (Tutorial)Nehmen Sie die Tutorials zu den Ankreuzzeugnissen und den
+# Grundschulzeugnisse Hybridzeugnis (Tutorial)
+
+Nehmen Sie die Tutorials zu den Ankreuzzeugnissen und den
 Floskelzeugnissen zur Kenntnis. Dort wird das Konfigurieren von
 Ankreuzkompetenzen und Floskeln ausführlich beschrieben.
 

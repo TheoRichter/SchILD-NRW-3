@@ -1,9 +1,11 @@
 # Inhalt & Layout von Zeugnissen konfigurieren
 
-## Zeugnisse über die Zeugniseinstellungen.ini konfigurierenNun sollte noch die Einstellungsdatei *Zeugniseinstellungen.ini*
+## Zeugnisse über die Zeugniseinstellungen.ini konfigurieren
+
+Nun sollte noch die Einstellungsdatei *Zeugniseinstellungen.ini*
 konfiguriert werden und dann sind die Zeugnisse verwendbar.
 
-### Aufbau der ini-Datei
+## Aufbau der ini-Datei
 
 ![SchILD_Zeugnisdruck_ZeugniseinstellungenINI.png](../../graphics/SchILD_Zeugnisdruck_ZeugniseinstellungenINI.png)
 
@@ -30,7 +32,7 @@ dem "=") und der jeweils zugelassenen Konfiguration (nach dem "="). Die
 Konfiguration ist oftmals nur ein *Buchstabe*, kann aber auch *Texte*
 enthalten.  
 
-### Zeugnisoptionen und ihre Einstellmöglichkeiten
+## Zeugnisoptionen und ihre Einstellmöglichkeiten
 
 Diese Tabelle dient der Übersichtlichkeit, möglicherweise bietet ein
 bestimmtes Zeugnisformular noch weitere Optionen an. Diese wären dann

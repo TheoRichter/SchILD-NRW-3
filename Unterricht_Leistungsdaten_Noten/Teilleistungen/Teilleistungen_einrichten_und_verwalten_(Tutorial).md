@@ -1,4 +1,6 @@
-# Teilleistungen einrichten und verwalten (Tutorial)Über die Teilleistungen können zum Beispiel die Noten von einzelnen
+# Teilleistungen einrichten und verwalten (Tutorial)
+
+Über die Teilleistungen können zum Beispiel die Noten von einzelnen
 Klassen- oder Kursarbeiten, aber auch differenziert mündliche,
 schriftliche oder sonstige Leistungen erfasst werden.
 
@@ -73,7 +75,9 @@ Teilleistung zugeordnet haben.Bei Bedarf kann man mit der Schaltfläche **Datum 
 setzen, auch kann angewählt werden, dass ein eventuell schon vorhandenes
 Datum überschrieben wird.Nun können die **Noten** eingetragen werden.Mit **In Datenbank übernehmen** werden die Teilleistungen gespeichert.  
 
-## Teilleistungen ansehen und druckenIn SchILD gibt es bisher keine Möglichkeit, die Teilleistungen der
+## Teilleistungen ansehen und drucken
+
+In SchILD gibt es bisher keine Möglichkeit, die Teilleistungen der
 Schüler in einer Übersicht angezeigt zu bekommen. Die Liste der
 Teilleistungen kann bei jedem Schüler bezüglich der jeweiligen Fächern
 aufgeklappt werden.Wenn man eine Übersicht anzeigen möchte, muss man einen passenden

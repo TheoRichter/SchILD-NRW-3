@@ -1,4 +1,6 @@
-# Datenbank wiederherstellen (Verwaltung Datenbank)Ein Klick auf *Verwaltung ➜ Datenbank* ➜ **Datenbank wiederherstellen**,
+# Datenbank wiederherstellen (Verwaltung Datenbank)
+
+Ein Klick auf *Verwaltung ➜ Datenbank* ➜ **Datenbank wiederherstellen**,
 mit dem eine zuvor angelegte Sicherung der Datenbank wieder eingelesen
 werden kann.
 

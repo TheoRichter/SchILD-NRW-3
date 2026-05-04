@@ -2,7 +2,8 @@
 
 ## Version 12.12.2023
 
-### GS-Textzeugnisse-   Für den Jahrgang 04 gibt es nun Option, im Halbjahreszeugnis die
+## GS-Textzeugnisse
+-   Für den Jahrgang 04 gibt es nun Option, im Halbjahreszeugnis die
     Übergangsempfehlung auf Seite 2 nach Anlage „Schulformempfehlung“
     gemäß VVzAO-GS zu drucken.  
     Konkrete Angabe in der HybridzeugnisEinstellungen.ini-Datei:
@@ -20,15 +21,17 @@
     von der Einstellung unberührt.  
     Konkrete Angabe in der Ini-Datei: Schriftart=Calibri
 
-### Anlage „Schulformempfehlung“-   Im Zeugnisordner der GS-Textzeugnisse wurde ein separater Report
+## Anlage „Schulformempfehlung“
+-   Im Zeugnisordner der GS-Textzeugnisse wurde ein separater Report
     Anlage_Schulformempfehlung.rtm nach Anlage „Schulformempfehlung“
     gemäß VVzAO-GS hinzugefügt.
 
-### GS-Ankreuzzeugnis-   Die Überschrift „Bemerkung“ für den ASV-Bemerkungstext wurde nicht
+## GS-Ankreuzzeugnis
+-   Die Überschrift „Bemerkung“ für den ASV-Bemerkungstext wurde nicht
     auf invisible gestellt, nachdem ein Schüler eine Bemerkung für das
     ASV auf dem Zeugnis hat. Dies ist nun behoben.
 
-### Alle Zeugnisse
+## Alle Zeugnisse
 
 Die Floskel für SuS mit Förderschwerpunkt wurde angepasst: FSP: Lernen +
 zieldifferent: „… wurde im Förderschwerpunkt Lernen … im zieldifferenten
@@ -39,36 +42,43 @@ geistige Entwicklung….“ Sonst: „… Förderschwerpunkt xxx … im
 geistige Entwicklung muss für den zieldifferenten Bildungsgang als FSP1
 eingetragen sein.
 
-### GS-AnkreuzZeugnis_mit_Notenblock.rtm-   Zeilenumbruch nach dem Bemerkungstext für ASV eingefügt.
+## GS-AnkreuzZeugnis_mit_Notenblock.rtm
+-   Zeilenumbruch nach dem Bemerkungstext für ASV eingefügt.
 
 ## Version 15.05.2023
 
-### Ini-Dateien-   Die Standard-Einstellungen wurden angepasst und um fehlende Einträge
+## Ini-Dateien
+-   Die Standard-Einstellungen wurden angepasst und um fehlende Einträge
     ergänzt.
 -   Das Layout der Ini-Dateien wurde überarbeitet. Es wurden
     Erläuterungen zu den einzelnen Optionen hinzugefügt.
 -   Ini-Dateien der Vorgängerversion können ebenso weiterhin verwendet
     werden.
 
-### GS-AnkreuzZeugnis.rtm-   Eine Linie wurde für die Fächergruppe Deutsch ergänzt.
+## GS-AnkreuzZeugnis.rtm
+-   Eine Linie wurde für die Fächergruppe Deutsch ergänzt.
 
-### Alle Zeugnisse-   Bug bezüglich der Schulformempfehlung für den Eintrag „keine
+## Alle Zeugnisse
+-   Bug bezüglich der Schulformempfehlung für den Eintrag „keine
     Empfehlung“ behoben.
 -   Der Jahrgang wird je nach Angabe in der Ini-Datei nun auch für
     zieldifferente SuS ausgegeben.
 
-### GS-Lernstandsbericht_Hybridform.rtm, GS-Lernstandsbericht_Hybridform.rtm-   In dem Passus „xxx besucht seit dd.mm.jjjj eine deutsche Schule“
+## GS-Lernstandsbericht_Hybridform.rtm, GS-Lernstandsbericht_Hybridform.rtm
+-   In dem Passus „xxx besucht seit dd.mm.jjjj eine deutsche Schule“
     wurde das Datum auf das Aufnahmedatum gesetzt (zuvor: Anmeldedatum)
 
 ## Version 14.12.2022
 
-### GS-Ankreuzzeugnisse-   Überflüssiger Seitenumbruch, der bei der Verwendung des Zeugnisses
+## GS-Ankreuzzeugnisse
+-   Überflüssiger Seitenumbruch, der bei der Verwendung des Zeugnisses
     für Jahrgangsstufe 4 beim Auslassen des Begründungstextes für den
     Wechsel nach Sek1 auftrat, wurde entfernt
 
 ## Version 14.10.2022
 
-### GS-Ankreuzzeugnisse-   Wenn für ASV keine Ankreuzkompetenzen vorhanden waren, sondern nur
+## GS-Ankreuzzeugnisse
+-   Wenn für ASV keine Ankreuzkompetenzen vorhanden waren, sondern nur
     ein Bemerkungstext, so wurde die Überschrift für ASV nicht korrekt
     dargestellt. Das ist nun behoben.
 -   Es gibt Fälle, wo bei der Fachgruppe "Deutsch" (die ja aus mehreren
@@ -97,21 +107,25 @@ eingetragen sein.
 
 ## Version 23.01.2021
 
-### GS-Lernstandsbericht_Hybridform.rtm-   Der zweispaltige "Notenblock" wurde komplett entfernt. Das hat zur
+## GS-Lernstandsbericht_Hybridform.rtm
+-   Der zweispaltige "Notenblock" wurde komplett entfernt. Das hat zur
     Folge, dass die Bereiche \[Notenzeugnisreihenfolge_Links\] und
     \[Notenzeugnisreihenfolge_Rechts\] in der Konfigurationsdatei nicht
     mehr benötigt werden. Auch der Eintrag "Noten2SpaltigAbJahrgang=" im
     Bereich \[Optionen\] wird nicht mehr benötigt.
 
-### GS-HybridZeugnis.rtm-   Einige kleiner Korrekturen/Anpassungen.
+## GS-HybridZeugnis.rtm
+-   Einige kleiner Korrekturen/Anpassungen.
 
-### GS-AnkreuzZeugnis.rtm-   Die Vorlage erkennt nun automatisch, ob ein zusätzlicher Subreport
+## GS-AnkreuzZeugnis.rtm
+-   Die Vorlage erkennt nun automatisch, ob ein zusätzlicher Subreport
     "Kompetenz_Erlaeuterung.rtm" (mit Erläuterungen zu den
     Kompetenzstufen) vorhanden ist und fügt diesen dann als zusätzliches
     Blatt an. Die Vorlage "GS-AnkreuzZeugnis_Mit_Erlaeuterung.rtm" wird
     nicht mehr benötigt.
 
-## Version 15.6.2020-   Änderungen für Druck in Dokumentenverwaltung
+## Version 15.6.2020
+-   Änderungen für Druck in Dokumentenverwaltung
 -   Anpassung der Rechtshilfebelehrung ("dehnen")
 -   Separate Vorlage "GS-AnkreuzZeugnis_Mit_Erlaeuterung.rtm" (für
     Ausgabe eines Erläuterungsblattes am Ende) wird nicht mehr benötigt.

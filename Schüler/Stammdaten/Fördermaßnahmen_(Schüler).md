@@ -12,7 +12,7 @@ Förderabsprachen eingegeben werden. Es können zuständige Personen
 eingegeben werden. Und es können Zeitrahmen gesetzt werden, in denen die
 Fördermaßnahme abgeschlossen werden soll.  
 
-### Allgemeine Fördermaßnahmen
+## Allgemeine Fördermaßnahmen
 
 ![SchILD_Schüler_Fördermaßnahmen_Allgemein_Anlegen.png](../../graphics/SchILD_Schüler_Fördermaßnahmen_Allgemein_Anlegen.png)
 
@@ -29,7 +29,7 @@ nächste Beratungsgespräch* erfasst werden.Ebenso lässt sich ein Haken setzen,
 abgeschlossen*' ist.Bei einem Schließen des Fensters wird nachgefragt, ob die Eingaben
 gespeichert werden sollen.  
 
-### Fachbezogene Fördermaßnahmen
+## Fachbezogene Fördermaßnahmen
 
 ![SchILD_Schüler_Fördermaßnahmen_Fachbezogen_Anlegen.png](../../graphics/SchILD_Schüler_Fördermaßnahmen_Fachbezogen_Anlegen.png)
 
@@ -39,7 +39,9 @@ betreffende Fach zu klicken.Wählen Sie dort den Eintrag Fachbezogene Förderma�
 Bestätigen Sie die anschließende Frage mit "**Ja**".Sie gelangen nun in den gleichen Bildschirm, der oben schon gezeigt
 wurde. Jedoch ist das Fach zur Fördermaßnahme schon eingetragen.  
 
-### ReportingEs gibt zwei Datenquellen, mit denen auf Fördermaßnahen in Reports
+## Reporting
+
+Es gibt zwei Datenquellen, mit denen auf Fördermaßnahen in Reports
 zugegriffen werden kann.-   **Foerdermassnahmen**:
 
 Diese Datenquelle stellt einen eigenen Bezug zu den Fördermaßnahmen her

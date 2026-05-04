@@ -17,9 +17,12 @@ versetzt werden müssen.
 ausgewählte Schülermenge zu versetzen oder ins neue Halbjahr
 beziehungsweise in den *Status: Abschluss* zu übertragen.  
 
-### VorbereitungenEs sind nun die für jede Versetzung und jeden Abschnittswechsel üblichen
+## Vorbereitungen
+
+Es sind nun die für jede Versetzung und jeden Abschnittswechsel üblichen
 Vorbereitungen zu treffen. Konsultieren Sie bitte die hierzu verfassten
-Wiki-Artikel.1.  Setzen Sie zuerst das **Konferenz-** und bei Bedarf das
+Wiki-Artikel.
+1.  Setzen Sie zuerst das **Konferenz-** und bei Bedarf das
     **Zeugnisdatum** für die ausgewählte Schülermenge.  
     Diese Einstellungen können über ''Gruppenprozesse ➜ Noten,
     Zeugnisvorbereitung" und dann **Konferenz- und Zeugnisdatum setzen**
@@ -37,22 +40,24 @@ eventuelle Lernbereichsnoten gebildet wurden.
 
   
 
-3\. Anschließend drucken Sie eventuelle Zeugnisse entsprechend der
+3. Anschließend drucken Sie eventuelle Zeugnisse entsprechend der
 Prüfungsordnung und individuell unterschiedliche Abgangs- oder
 Abschlusszeugnisse.<!-- -->  
-4\. Bearbeiten Sie nun möglicherweise vorliegende Sonderfälle, die nicht
+4. Bearbeiten Sie nun möglicherweise vorliegende Sonderfälle, die nicht
 von den automatischen Prozessen abgedeckt sind, wie zum Beispiel Klassen
 zugeordnete Flüchtlingskinder.
 
-### Starten des Gruppenprozesses
+## Starten des Gruppenprozesses
 
 ![Schild_Gruppenprozess_Lernabschnitte_AbschnittswechselQu1zuQ2.png](../../graphics/Schild_Gruppenprozess_Lernabschnitte_AbschnittswechselQu1zuQ2.png)
 
- Es öffnet sich das Fenster "Optionen für
+Es öffnet sich das Fenster "Optionen für
 Schuljahreswechsel/Abschnittswechsel", bei dem verschiedene Optionen für
 die Übertragung ausgewählt werden können.Oben finden sich die Angaben zum *Alten Schuljahr und Abschnitt* und die
-zum *Neuen Schuljahr und Abschnitt*.Wie bei der üblichen Versetzung auch bauen die Einstellungen aufeinander
-auf:-   Zuerst müssen 2. in der Schule die Basisdaten für einen neuen
+zum *Neuen Schuljahr und Abschnitt*.
+Wie bei der üblichen Versetzung auch bauen die Einstellungen aufeinander
+auf:
+-   Zuerst müssen 2. in der Schule die Basisdaten für einen neuen
     Abschnitt angelegt werden.
 -   Dann ist es 3. möglich, für alle gewählten Schüler diesen
     Lernabschnitt einzutragen, um schließlich

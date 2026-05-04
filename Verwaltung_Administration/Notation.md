@@ -3,7 +3,8 @@
 Diese Seite beinhaltet Standardkonventionen und Notationen, die für alle
 Wiki-Artikel als Vorgabe gelten:
 
-### Bilder und Dateien-   Logische Benennung der eingebauten Bilder und Dateien
+## Bilder und Dateien
+-   Logische Benennung der eingebauten Bilder und Dateien
     -   Dateinamen werden klein geschrieben mit Ausnahme vom ersten
         Buchstaben.
     -   Der Dateiname folgt dem Schema
@@ -17,9 +18,12 @@ Wiki-Artikel als Vorgabe gelten:
 
 WIKILINK: Beispiel_zum_Bildereinbinden
 
-### KategorienUnter Spezialseiten-\>Seitenlisten-\>Kategorien findet man alle bereits
-existierenden Kategorien. Diese sollen konsequent genutzt werden und -
+## Kategorien
+Unter Spezialseiten-\>Seitenlisten-\>Kategorien 
+findet man alle bereits existierenden Kategorien.
+Diese sollen konsequent genutzt werden und -
 sofern noch nicht vorhanden - neu hinzugefügt werden. Beispiele:-   \[\
 
-### Layout-   Vermeiden von Tabellenstrukturen
+## Layout
+-   Vermeiden von Tabellenstrukturen
 -   Vermeiden von gesonderten Formatierungen

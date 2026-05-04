@@ -12,13 +12,17 @@ Der folgenden Artikel beinhaltet Hinweise zur Installation des
 
 SVWS-Servers ohne weitere Erläuterungen.
 
-## EinzelplatzinstallationIm Folgenden wird eine **Testinstallation** von dem SVWS-Server
+## Einzelplatzinstallation
+
+Im Folgenden wird eine **Testinstallation** von dem SVWS-Server
 **insbesondere für Fachberaterinnen und Fachberater** auf einem
 Einzelplatzrechner ohne weitere Erläuterung vorgestellt. In einer
 Produktivumgebung dürfen die Kennwörter keinesfalls wie abgebildet
 gesetzt werden.
 
-## Restlose Deinstallation einer vorherigen InstallationBitte laden Sie diese
+## Restlose Deinstallation einer vorherigen Installation
+
+Bitte laden Sie diese
 
 DEADLINK: Batch-Datei - Medium:Delete_SVWS-Server_and_SchILD-NRW_3.zip.md
 
@@ -29,7 +33,8 @@ Administrator ausführen".
 Die Deinstallation durch die Batch-Datei funktioniert nur, wenn die
 Standardpfade für die Installation belassen wurden.
 
-## Installation des SVWS-ServersLaden Sie sich den neusten Windows-Installer
+## Installation des SVWS-Servers
+Laden Sie sich den neusten Windows-Installer
 *"Setup_SchILD3_v3.x.x.exe"* hier herunter:
 **<https://github.com/SVWS-NRW/SVWS-Server/releases>**Führen Sie die .exe-Datei aus. Akzeptieren Sie alle vorgeschlagenen
 Einstellungen durch Klick auf die Schaltflächen `Weiter`.
@@ -79,7 +84,9 @@ im internen Netzwerk verwendet werden sollen.
 
  Installieren Sie das SSL-Zertifikat in MS Windows.  
 
-## Update des SVWS-ServersEin Update des SVWS-Servers erfolgt, indem man den Installer aufruft. Im
+## Update des SVWS-Servers
+
+Ein Update des SVWS-Servers erfolgt, indem man den Installer aufruft. Im
 Konfigurationsfenster wählen Sie nur diejenigen Komponenten aus, welche
 aktualisiert werden müssen. Die Häkchen `Erstelle ein neues Schema` und
 `Migriere aus einem Schild v2.x - Schema` werden nicht gesetzt. In der

@@ -31,7 +31,9 @@ Installation des SVWS-Clients können bestehende SchILD-NRW 2 Datenbanken
 migriert werden. Zudem wird eine Zertifikatsdatei erzeugt, welche im
 Zertifikatsspeicher des Betriebssystems hinterlegt werden muss.
 
-## EinzelplatzinstallationIm Folgenden wird die Installation des SVWS-Servers auf einem
+## Einzelplatzinstallation
+
+Im Folgenden wird die Installation des SVWS-Servers auf einem
 Einzelplatzrechner vorgestellt. In produktiven Schulumgebungen wird
 diese Form der Installation eher selten vorkommen.Insbesondere in der Entwicklungsphase bietet diese Installation eine
 einfache und schnelle Möglichkeit, das Programm zu testen. Die neuste
@@ -40,14 +42,19 @@ Version kann unter GitHub heruntergeladen werden:
 des SVWS-Servers sind Administrationsrechte am Arbeitsplatz-PC
 notwendig.
 
-### Installationsanleitungen als Video-TutorialsDerzeit werden im Video Standardordner genannt, die nicht mehr dem
+## Installationsanleitungen als Video-Tutorials
+
+Derzeit werden im Video Standardordner genannt, die nicht mehr dem
 aktuellen Stand des Installers entsprechen. Ebenso hat sich der
 Dateiname der Zugangs-Datei verändert. Die Informationen zum
 grundsätzlichen Vorgehen sind davon abgesehen korrekt! Das Video wird
 zum Abschluss der Beta-Entwicklungsphase des Servers und von SchILD-NRW3
 auf den aktuellen Stand gebracht.
 
-### Was wird installiert?Installiert werden1.  Ein Maria-Datenbankmanagementsystem
+## Was wird installiert?
+
+Installiert werden
+1.  Ein Maria-Datenbankmanagementsystem
     -   Das Datenbankmanagementsystem steuert den Multiuserzugriff auf
         die Datenbanken
     -   Das Programm wird im Ordner `C:\Programme\SVWS-Server\db`
@@ -84,7 +91,7 @@ auf den aktuellen Stand gebracht.
     -   Die SSL-Zertifikatsdatei wird im Ordner
         `C:\Users\`USERNAME`\Dokumente\SVWS.cer` gespeichert.
 
-### Installation des SVWS-Servers
+## Installation des SVWS-Servers
 
 ![Installation_SVWS-Server_Ziel-Ordner.png](../../graphics/Installation_SVWS-Server_Ziel-Ordner.png)
 
@@ -180,7 +187,7 @@ SchILD-NRW 3-Schema migrirert.Ein Anzeigefenster informiert Sie über den Fortsc
 Insbesondere die Migration der Datenbank kann einige Zeit in Anspruch
 nehmen.
 
-### Installation des SSL-Zertifikats
+## Installation des SSL-Zertifikats
 
 ![Installation_SVWS-Server_Zertifikat_installieren.png](../../graphics/Installation_SVWS-Server_Zertifikat_installieren.png)
 
@@ -205,7 +212,9 @@ Ursprungsfenster mit der Schaltfläche `Weiter`.Schließen Sie den Prozess mit K
 `Fertig stellen` ab. Ein Hinweisfenster informiert Sie über den
 erfolgreichen Import des Zertifikats.
 
-### Start des SVWS-ClientsZum Start des SVWS-Clients öffnen Sie einen Browser. Tippen Sie dann in
+## Start des SVWS-Clients
+
+Zum Start des SVWS-Clients öffnen Sie einen Browser. Tippen Sie dann in
 die Adresszeile die URL zum SVWS-Client ein (`https://localhost` oder
 `https://Computername`).Für den Zugriff auf den SVWS-Client müssen Sie sich als
 SchILD-NRW3-Benutzer anmelden. Verwenden Sie hier die gleichen
@@ -215,7 +224,7 @@ Funktionen von SchILD-NRW3 wurden noch nicht implementiert.In den kommenden Mona
 ausgebaut, so dass dieser später die gleichen Funktionalitäten enthalten
 wird, wie SchILD-NRW3.
 
-### Update der Programme
+## Update der Programme
 
 ![SVWS-Server_Installation_Update.png](../../graphics/SVWS-Server_Installation_Update.png)
 
@@ -225,7 +234,9 @@ aktualisiert werden müssen. Die Häkchen `Erstelle ein neues Schema` und
 `Migriere aus einem Schild v2.x - Schema` werden nicht gesetzt. In der
 Folge werden nur die Programmdateien aktualisiert.  
 
-### Deinstallieren der ProgrammeInsbesondere in der Testphase kann es vorkommen, dass aufgrund von
+## Deinstallieren der Programme
+
+Insbesondere in der Testphase kann es vorkommen, dass aufgrund von
 Änderungen der Datenbankstruktur eine Neuinstallation des SVWS-Servers
 notwendig wird, damit bei einer Neuinstallation die Migration einer
 Testdatenbank in die neue Tabellenstruktur erfolgen kann. In einem

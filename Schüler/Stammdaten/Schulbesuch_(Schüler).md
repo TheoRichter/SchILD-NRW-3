@@ -59,7 +59,9 @@ an die Schule einzugeben.Bitte klicken Sie dazu auf den Button **
 
 WIKILINK: Grundschuldaten_eingeben_(Schüler_Schulbesuch)**.  
 
-## Entlassung von eigener SchuleTragen Sie hier die Daten bei der Entlassung von der eigenen Schule ein.
+## Entlassung von eigener Schule
+
+Tragen Sie hier die Daten bei der Entlassung von der eigenen Schule ein.
 Dies betrifft *Abschluss* wie *Abgänger*.Es empfiehlt sich, diese Eintragungen vor der Versetzung im
 Abschlussjahrgang zu tätigen. Allerdings können die Daten auch später
 noch nachgetragen werden, wenn die Schülerdatensätze schon im Abgänger-
@@ -87,7 +89,9 @@ gesetzt wurde.
 Dies soll eine optische Hilfe zur Kontrolle aller Schulanmeldungen
 sein.  
 
-## Alle bisher besuchten SchulenZu Informationszwecken können hier alle bisher besuchten Schulen
+## Alle bisher besuchten Schulen
+
+Zu Informationszwecken können hier alle bisher besuchten Schulen
 aufgelistet werden.
 
 Die Eintragung von Links (Grundschulbesuch, andere vorherige Schulen) im

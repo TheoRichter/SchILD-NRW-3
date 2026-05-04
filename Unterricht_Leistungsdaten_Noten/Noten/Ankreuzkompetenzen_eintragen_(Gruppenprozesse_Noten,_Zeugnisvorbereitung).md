@@ -8,7 +8,8 @@
 
 Über *Gruppenprozesse ➜ Noten/Zeugnisvorbereitung ➜*
 **Ankreuzkompetenzen eintragen** können vorbereitete Ankreuzkompetenzen
-bei Schülern Gruppenweise eingetragen werden.Hierzu müssen folgende Bedingungen erfüllt sein1.  Die *Klasse* muss über *Kataloge* ➜ **Klassen-/Versetzungstabelle**
+bei Schülern Gruppenweise eingetragen werden.Hierzu müssen folgende Bedingungen erfüllt sein
+1.  Die *Klasse* muss über *Kataloge* ➜ **Klassen-/Versetzungstabelle**
     für Ankreuzkompetenzen konfiguriert sein. Setzen Sie hier den Haken
     bei **In dieser Klasse werden Ankreuzkompetenzen verwendet**.
 2.  Unter *Kataloge ➜* **Angaben für Ankreuzzeugnisse** müssen die

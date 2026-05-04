@@ -1,8 +1,10 @@
-# Fachbezogene Bemerkungen (Tutorial)Fachbezogene Bemerkungen können freie Texteinträge zu beliebigen
+# Fachbezogene Bemerkungen (Tutorial)
+
+Fachbezogene Bemerkungen können freie Texteinträge zu beliebigen
 Unterrichtsfächern bei jedem einzelnen Schüler enthalten.Dazu können diese Bemerkungen einzeln oder auch als Gruppenprozess bei
 mehreren Schülern gleichzeitig eingetragen werden.
 
-#### Fachbezogene Bemerkungen in SchILD aktivieren
+## Fachbezogene Bemerkungen in SchILD aktivieren
 
 ![SchILD_Tutorials_FachbezogeneBermerkungen_1_aktivieren.png](../../graphics/SchILD_Tutorials_FachbezogeneBermerkungen_1_aktivieren.png)
 
@@ -11,7 +13,7 @@ mehreren Schülern gleichzeitig eingetragen werden.
 unter *Ansicht* der Haken, mit dem **Fachbezogene Bemerkungen** in
 SchILD aktiviert werden können.  
 
-#### Bemerkungen verwenden
+## Bemerkungen verwenden
 
 ![SchILD_Tutorials_FachbezogeneBermerkungen_2_MemoFeld.png](../../graphics/SchILD_Tutorials_FachbezogeneBermerkungen_2_MemoFeld.png)
 
@@ -24,7 +26,7 @@ Karteireiter *Schüler ➜ Akt. Halbjahr ➜ Leistungsdaten* ein Memofeld
  Ein Doppelklick auf das Memofeld öffnet den aus Schild-NRW
 bekannten Texteditor und lässt nun eine freie Texteingabe zu.Es können zu allen Fächern Bemerkungen gemacht werden.  
 
-#### Floskeln definieren
+## Floskeln definieren
 
 ![SchILD_Tutorials_FachbezogeneBermerkungen_4_Flokeln.png](../../graphics/SchILD_Tutorials_FachbezogeneBermerkungen_4_Flokeln.png)
 
@@ -32,7 +34,7 @@ bekannten Texteditor und lässt nun eine freie Texteingabe zu.Es können zu alle
 *Floskel-Gruppe "FACH"* auch Bemerkungen schon - verbindlich? -
 vordefiniert werden, die sich dann per Doppelklick einfügen lassen.  
 
-#### Fachbezogene Bemerkungen per Gruppenprozess eintragen
+## Fachbezogene Bemerkungen per Gruppenprozess eintragen
 
 ![SchILD_Tutorials_FachbezogeneBermerkungen_5_Gruppenprozess.png](../../graphics/SchILD_Tutorials_FachbezogeneBermerkungen_5_Gruppenprozess.png)
 

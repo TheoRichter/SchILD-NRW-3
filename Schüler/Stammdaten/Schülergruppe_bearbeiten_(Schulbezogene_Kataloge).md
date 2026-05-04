@@ -1,4 +1,6 @@
-# Schülergruppe bearbeiten (Schulbezogene Kataloge)Durch **Schülergruppen** können beliebige Schülerinnen und Schülern
+# Schülergruppe bearbeiten (Schulbezogene Kataloge)
+
+Durch **Schülergruppen** können beliebige Schülerinnen und Schülern
 zusammengefasst werden mit dem Ziel, sich diese Gruppe an Schülerinnen
 und Schülern in der Zukunft schnell wieder von SchILD anzeigen zu
 lassen.
@@ -20,10 +22,7 @@ Benutzername eingetragen.
 
 ## Bearbeiten von Schülergruppen
 
- warnin
-
-g
- Es können nur diejenigen Schülergruppen bearbeitet
+Es können nur diejenigen Schülergruppen bearbeitet
 werden, die vom aktuell angemeldeten Benutzernamen selbst angelegt
 worden sind. Dies betrifft ebenfalls das Löschen einer Schülergruppe.
 

@@ -27,15 +27,21 @@ korrekt eingetragen waren.
 nach dem *europäischen Referenzrahmen* berechnen.Weiterhin lassen sich *manuell* (!) besondere Sprachqualifikationen
 (Latinum, Graecum, Hebraicum) anwählen.
 
-### Gruppenprozesse zu SprachenfolgenBei den Gruppenprozessen kann SchILD die Sprachenfolge aus den ➜
+## Gruppenprozesse zu Sprachenfolgen
+
+Bei den Gruppenprozessen kann SchILD die Sprachenfolge aus den ➜
 *Leistungsdaten ermitteln*, also aus den belegten Fächern der vorherigen
 Lernabschnitte.Es kann auch einer ausgewählten Schülermenge eine Sprachenfolge manuell
 zugewiesen werden ➜ *Sprachenfolge zuweisen*.Schlussendlich kann für eine komplette Schülergruppe das ➜
 *Sprach-Referenzniveau* aus den korrekt eingetragenen Sprachenfolgen
 berechnet werden.  
 
-## SprachprüfungenIn dieser Spalte werden eventuell abgelegte Sprachprüfungen mit den
+## Sprachprüfungen
+
+In dieser Spalte werden eventuell abgelegte Sprachprüfungen mit den
 jeweils relevanten Daten erfasst.
 
-## Erreichte Abschlüsse und Berechtigungen an aktueller SchuleWurden während der Laufbahn schon Abschlüsse erreicht, werden diese hier
+## Erreichte Abschlüsse und Berechtigungen an aktueller Schule
+
+Wurden während der Laufbahn schon Abschlüsse erreicht, werden diese hier
 zeilenweise erfasst.

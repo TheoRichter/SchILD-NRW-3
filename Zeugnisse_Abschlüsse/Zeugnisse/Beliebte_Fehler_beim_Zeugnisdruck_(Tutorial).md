@@ -1,6 +1,7 @@
 # Beliebte Fehler beim Zeugnisdruck (Tutorial)
 
-## Datenaufbereitung-   **Daten**
+## Datenaufbereitung
+-   **Daten**
     -   **Fehlendes Versetzungs- und/oder Zeugnisdatum** (bei allen
         Daten verwendet SchILD-NRW *1899* als Standarddatum, um auf
         einen Fehler hinzuweisen).
@@ -36,7 +37,8 @@
     -   Wiederholte Lernabschnitte sind nicht als *2. Durchgang*
         markiert.
 
-## Druckvorbereitung-   Soll das Gemeinde- oder Stadtwappen mit auf das Zeugnis, muss es von
+## Druckvorbereitung
+-   Soll das Gemeinde- oder Stadtwappen mit auf das Zeugnis, muss es von
     Hand in die Formulare eingefügt werden
 -   Keine Anpassung der Zeugniseinstellungen.ini für ein "selten"
     gedrucktes Zeugnis
@@ -67,7 +69,8 @@ kompatibel ist.
 
 
 
-## Druck-   Falsches Wenden beim Druck bei mehrseitigen Zeugnissen:
+## Druck
+-   Falsches Wenden beim Druck bei mehrseitigen Zeugnissen:
     -   A4-Zeugnisse werden über die *lange* Seite des Blatts gewendet
     -   A3-Zeugnisse über die *kurze* Seite des Blatts
 -   Farbdruck erzeugt, wenn das Zeugnis S/W sein soll oder umgekehrt

@@ -36,7 +36,9 @@ ODBC-Treiber notwendig.Es werden zwei Installationsdateien ausgeliefert:-   Das 
 
 ## Datenbank und Installation
 
-### Datenbank-SchemataUnter Datenbank-Schema versteht man eine vorstrukturierte, leere
+## Datenbank-Schemata
+
+Unter Datenbank-Schema versteht man eine vorstrukturierte, leere
 Datenbank. In der leeren Datenbank sind also schon alle Tabellen und
 deren Abhängigkeiten angelegt, jedoch noch keine Daten enthalten.In einer MariaDB können mehrere Schemata liegen, die dann einer
 einzelnen SVWS-Datenbank einer Schule entsprechen, auf die dann mit dem
@@ -44,7 +46,7 @@ SchILD-Client zugegriffen werden kann.In großen Systemen, etwa kommunalen Reche
 Rechenzentren, könnten noch weitere Schemata in der MariaDB laufen, die
 dann anderen Schulen gehören oder gar nichts mit Schulen zu tun haben.
 
-### Die unterschiedlichen Nutzer 
+## Die unterschiedlichen Nutzer 
  
 Ein *Root-Benutzer** ist ein Super-Administrator-Zugang auf den
 MariaDB-Server. Er hat Zugriffsrechte auf alle Datenbanken, kann
@@ -72,7 +74,7 @@ MariaDB-Server. Er hat Zugriffsrechte auf alle Datenbanken, kann
     Benutzeroberfläche von SchILD-NRW bereitgestellte
     Datenbankoperationen ausgeführt werden können.
 
-### Die Ordnerstruktur
+## Die Ordnerstruktur
 
 Um die Sicherheit des Betriebssystems zu gewährleisten, stattet Windows
 die unterschiedlichen Ordner mit unterschiedlichen Rechten aus. Der
@@ -101,7 +103,7 @@ Versionen können in der Fachberater-Cloud heruntergeladen werden. Für
 die Installation der Komponenten sind Administrationsrechte am
 Arbeitsplatz-PC notwendig.
 
-### Installationsanleitungen als Video-Tutorials
+## Installationsanleitungen als Video-Tutorials
 
 Derzeit werden im Video Standardordner genannt, die nicht mehr dem
 aktuellen Stand des Installers entsprechen. Ebenso hat sich der
@@ -110,7 +112,7 @@ grundsätzlichen Vorgehen sind davon abgesehen korrekt! Das Video wird
 zum Abschluss der Beta-Entwicklungsphase des Servers und von SchILD-NRW
 auf den aktuellen Stand gebracht.
 
-### Was wird installiert?
+## Was wird installiert?
 
 Die neuste Version kann hier heruntergeladen werden:
 
@@ -154,7 +156,7 @@ Installiert werden
     -   Die SSL-Zertifikatsdatei wird im Ordner
         `C:\Users\USERNAME\Dokumente\SVWS.cer` gespeichert.
 
-### Installation des SVWS-Servers
+## Installation des SVWS-Servers
 
 ![Installation_SVWS-Server_Ziel-Ordner.png](../../graphics/Installation_SVWS-Server_Ziel-Ordner.png)
 
@@ -250,7 +252,7 @@ SchILD-NRW 3-Schema migrirert.Ein Anzeigefenster informiert Sie über den Fortsc
 Insbesondere die Migration der Datenbank kann einige Zeit in Anspruch
 nehmen.
 
-### Installation des SSL-Zertifikats
+## Installation des SSL-Zertifikats
 
 ![Installation_SVWS-Server_Zertifikat_installieren.png](../../graphics/Installation_SVWS-Server_Zertifikat_installieren.png)
 
@@ -275,7 +277,7 @@ Ursprungsfenster mit der Schaltfläche `Weiter`.Schließen Sie den Prozess mit K
 `Fertig stellen` ab. Ein Hinweisfenster informiert Sie über den
 erfolgreichen Import des Zertifikats.
 
-### Installation von SchILD-NRW 3
+## Installation von SchILD-NRW 3
 
 ![Installation_SVWS-Server_Ziel-Ordner.png](../../graphics/Installation_SVWS-Server_Ziel-Ordner.png)
 
@@ -309,7 +311,7 @@ die Schaltfläche `Weiter`.SchILD-NRW 3 wird nun installiert. Ein Hinweisfenster
 über die erfolgreiche Installation und den Aufruf eines externen
 Programms zur Einrichtung der Konfigurationsdatei.
 
-#### Die Konfigurationsdatei (auch mit SchILD_DBConfig.exe)
+## Die Konfigurationsdatei (auch mit SchILD_DBConfig.exe)
 
 ![Installation_Schild3_Konfigurationsdatei_Einstellungen.png](../../graphics/Installation_Schild3_Konfigurationsdatei_Einstellungen.png)
 
@@ -373,7 +375,7 @@ Schaltfläche `Datei speichern`. Sie werden über ein Hinweisfenster
 darüber informiert, dass die Konfigurationsdatei gespeichert wurde.
 Klicken Sie zum Abschluss auf die Schaltfläche `Schließen`.
 
-### Start der Programme
+## Start der Programme
 
 SchILD-NRW 3 kann wie gewohnt über einen Doppelklick auf das
 Desktopsymbol oder über einen Einfachklick auf das Symbol im Startmenü
@@ -389,7 +391,7 @@ enthält.In den kommenden Monaten werden die Fähigkeiten des SVWS-Clients steti
 ausgebaut, so dass dieser später die gleichen Funktionalitäten enthalten
 wird, wie SchILD-NRW 3.
 
-### Update der Programme
+## Update der Programme
 
 ![SVWS-Server_Installation_Update.png](../../graphics/SVWS-Server_Installation_Update.png)
 
@@ -401,7 +403,7 @@ aktualisiert werden müssen. Die Häkchen `Erstelle ein neues Schema` und
 `Migriere aus einem Schild v2.x - Schema` werden nicht gesetzt. In der
 Folge werden nur die Programmdateien aktualisiert.  
 
-### Deinstallieren der Programme
+## Deinstallieren der Programme
 
 Insbesondere in der Testphase kann es vorkommen, dass aufgrund von
 Änderungen der Datenbankstruktur eine Neuinstallation des SVWS-Servers

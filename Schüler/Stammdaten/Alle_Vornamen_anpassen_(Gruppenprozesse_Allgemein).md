@@ -1,6 +1,8 @@
 # Alle Vornamen anpassen (Gruppenprozesse Allgemein)
 
-## Angabe des Vornamen unter Individualdaten IDer unter "Rufname" hinterlegte Vorname wird stets im Schülercontainer
+## Angabe des Vornamen unter Individualdaten I
+
+Der unter "Rufname" hinterlegte Vorname wird stets im Schülercontainer
 verwendet. Damit bei offiziellen Angaben des Vornamens stets der
 offizielle Name aus dem Personalausweis verwendet wird (beispielsweise
 in Zeugnissen), muss der Vorname wie folgt bei den Individualdaten der
@@ -35,7 +37,9 @@ Rufname: TinaEintrag des Vornamens bei den Individualdaten
 Rufname: Tina  
 Alle Vornamen: ---
 
-## Der Gruppenprozess Alle Vornamen anpassenUm fehlerhafte Einträge bei den Vornamen der Schülerinnen und Schüler zu
+## Der Gruppenprozess Alle Vornamen anpassen
+
+Um fehlerhafte Einträge bei den Vornamen der Schülerinnen und Schüler zu
 korrigieren, kann der Gruppenprozess "Alle Vornamen anpassen" angestoßen
 werden. Dadurch werden bei den Schülern die Felder "Rufname" und "Alle
 Vornamen" nach folgendem Vorgehen angepasst:-   Ist das Feld "Alle Vornamen" leer, so bleiben die Namenseinträge

@@ -24,7 +24,9 @@ eingefärbt.
 
 
 
-## BasisdatenIn diesem Bereich werden die grundsätzlichen Daten zur Person erfasst,
+## Basisdaten
+
+In diesem Bereich werden die grundsätzlichen Daten zur Person erfasst,
 wie der *Name*, *Vorname* und das *Geburtsdatum*.Über die drei "**...**" neben dem Feld *Name* kann ein Namenszusatz
 erfasst werden.
 
@@ -34,7 +36,9 @@ Kataloge können über das Dropdown-Menü bei den Feldern ausgewählt
 werden.Über "**...**" neben der Straße lassen sich zusätzliche Angaben der
 Adresse vermerken.
 
-## ZusatzdatenSehr wichtig bei den *Zusatzdaten* ist der **Status**: Dieses Feld
+## Zusatzdaten
+
+Sehr wichtig bei den *Zusatzdaten* ist der **Status**: Dieses Feld
 bestimmt, wie die Schule den Schüler verwaltet und in welchem
 "Kartekasten" eine Person sich befindet. Wollen Sie den Schüler z.B. von
 *Neuaufnahme* nach *Aktiv* bewegen, so stellen Sie dies an dieser
@@ -69,7 +73,7 @@ Inhalte sich über die jeweiligen *Kataloge* steuern lassen. Ein
 eventuelles "**+**" neben der Schaltfläche ruft den passenden Katalog
 zur Bearbeitung auf.
 
-### Weitere Funktionen
+## Weitere Funktionen
 
 ![SchILD_Schüler_Individualdaten_I_WeitereFunktionen.png](../../graphics/SchILD_Schüler_Individualdaten_I_WeitereFunktionen.png)
 
@@ -89,13 +93,17 @@ werden:-   **Foto laden**
 -   **Telefonnummern zeigen**: Zeigt ein Fenster Telefonnummern von
     *Erz.-Berechtigte*.
 
-## Aktuelle LaufbahndatenHier werden die Laufbahndaten gezeigt, dies betrifft etwa *Klasse*,
+## Aktuelle Laufbahndaten
+
+Hier werden die Laufbahndaten gezeigt, dies betrifft etwa *Klasse*,
 *Jahrgang* oder die *Prüfungsordnung*. Diese sind im *aktuellen
 Lernabschnitt* hinterlegt und werden üblicherweise über Gruppenprozesse
 klassenweise gesetzt beziehungsweise automatisch bei einer Versetzung
 basierend auf der *Klassen- und Versetzungstabelle* aktualisiert.
 
-## Weitere AngabenEinige dieser Felder wie die Prüfung auf *Volljährig* werden automatisch
+## Weitere Angaben
+
+Einige dieser Felder wie die Prüfung auf *Volljährig* werden automatisch
 gesetzt.Andere Felder werden abgefragt und von Hand befüllt. Dies betrifft etwa
 den Nachweis des *Masernschutzes* oder ob die *Konfession auf Zeugnis*
 gedruckt werden soll.Zu beachte ist hier das Feld *Keine Auskunft an Dritte*. Wurde dieser

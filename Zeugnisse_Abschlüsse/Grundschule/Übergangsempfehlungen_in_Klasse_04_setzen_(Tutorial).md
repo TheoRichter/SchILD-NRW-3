@@ -1,4 +1,6 @@
-# Übergangsempfehlungen in Klasse 04 setzen (Tutorial)In diesem Tutorial wird erklärt, wie die *Übergangsempfehlung* zum Ende
+# Übergangsempfehlungen in Klasse 04 setzen (Tutorial)
+
+In diesem Tutorial wird erklärt, wie die *Übergangsempfehlung* zum Ende
 von Jahrgang 4 per *Gruppenprozess* gesetzt wird.
 
 

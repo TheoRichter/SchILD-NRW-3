@@ -1,4 +1,5 @@
-# Abgeschlossene Fächer holen (Gruppenprozesse Noten, Zeugnisvorbereitung)Mithilfe des Gruppenprozesses **Abgeschlossene Fächer holen** aus dem
+# Abgeschlossene Fächer holen (Gruppenprozesse Noten, Zeugnisvorbereitung)
+Mithilfe des Gruppenprozesses **Abgeschlossene Fächer holen** aus dem
 Bereich *Gruppenprozesse ➜ Noten, Zeugnisvorbereitung* ist es möglich,
 die abgeschlossenen Fächer für eine ganze Schülergruppe zu holen.Mit *Abgeschlossene Fächer* sind solche Fächer gemeint, die ein/e
 Schülerin in vergangenen Schuljahren belegt hatte und in denen er/sie

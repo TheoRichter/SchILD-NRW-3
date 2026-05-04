@@ -1,6 +1,8 @@
 # Troubleshooting Installation SVWS-Server
 
-## Anderer Server vorhandenDer Server wurde installiert, startet aber nicht.Wenn noch ein anderer MySQL- oder MariaDB-Server auf dem gleichen Port
+## Anderer Server vorhanden
+
+Der Server wurde installiert, startet aber nicht.Wenn noch ein anderer MySQL- oder MariaDB-Server auf dem gleichen Port
 3306 läuft, müssen die Ports zur Konfliktfreiheit verändert werden
 beziehungsweise der Dienst auf dem anderen Server muss in die MariaDB
 integriert werden und der andere Server kann abgeschaltet werden.In einem Schulverwaltungsnetzwerk sollte der Schulverwaltungssoftware
@@ -32,7 +34,9 @@ als Sicherung vorliegt.
 
 
 
-## Migration schlägt fehl, danach startet der SVWS-Server nichtNach einer fehlgeschlagenen Migration kann es dazu kommen, dass der
+## Migration schlägt fehl, danach startet der SVWS-Server nicht
+
+Nach einer fehlgeschlagenen Migration kann es dazu kommen, dass der
 Server nicht mehr startet.In diesem Fall kann das Schema manuell aus der *svwsconfig.json*
 gelöscht werde. Diese findet sich *Daten*-Verzeichnis des SVWS-Servers
 im Unterordner *\res\\*.Unter <https://meinserver/admin> steht hierfür auch eine Admin-Anwendung

@@ -2,37 +2,38 @@
 
 WIKILINK: Reportdesigner_-_Schnelleinstieg
 
-## ZeugnisseAuf unseren Internetseiten finden Sie Zeugnisformulare aller
+## Zeugnisse
+Auf unseren Internetseiten finden Sie Zeugnisformulare aller
 Schulformen. Die Zeugnisformulare wurden alle rechtlich geprüft und
 werden regelmäßig an neue Vorgaben angepasst. Diese Seite erleichtert
 Ihnen den Einstieg im Umgang mit den Zeugnisformularen. Lesen Sie hier,
 wo Zeugnisse heruntergeladen und wie diese aktualisiert werden können.
 
-### Zeugnisse herunterladen und aktualisieren-  
+## Zeugnisse herunterladen und aktualisieren-  
 [Zeugnispakete auf GitHub](Zeugnispakete_auf_GitHub.md)  
 Links zu allen Zeugnispaketen aller Schulformen-   
 
 WIKILINK: Zeugnisformulare_herunterladen_und_aktualisieren  
 Schritt für Schritt Anleitung
 
-### Schulformspezifischer Zeugnisdruck-  
+## Schulformspezifischer Zeugnisdruck-  
 
 WIKILINK: Erstellen_von_Abschlusszeugnissen_am_BK_(Tutorial)  
 Erstellen Sie Abschlusszeugnisse am BK-   [Grundschul-Hybridzeugnis](Grundschulzeugnisse_Hybridzeugnis_(Tutorial).md)  
 Erstellen Sie Grundschulzeugnisse mit fachbezogener
 Kompetenzbeschreibung und Noten
 
-### Inhalt und Layout anpassen-   
+## Inhalt und Layout anpassen-   
 
 WIKILINK: Inhalt_&_Layout_von_Zeugnissen_konfigurieren  
 INI-Dateien anpassen, um Zeugnisse zu ändern
 
-### Zeugnis als Broschüre-  
+## Zeugnis als Broschüre-  
 [Zeugnis-Broschürendruck](Zeugnis-Broschürendruck_mit_dem_Foxit_Reader_(Tutorial).md)  
 Drucken Sie doppelseitige Zeugnisse als Broschüre mit externem
 Hilfsprogramm
 
-### Zeugnisdruck als Gruppenprozess-  
+## Zeugnisdruck als Gruppenprozess-  
 
 WIKILINK: Zeugnisvorlagen_zuordnen_(Schulbezogene_Kataloge)  
 Vereinfachen Sie den Zeugnisdruck, indem Sie passende Zeugnisse den

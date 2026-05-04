@@ -1,10 +1,12 @@
-# Weitere Adressen (Schüler)Unter *Schüler* ➜ **Weitere Adressen** lassen sich für den Schüler
+# Weitere Adressen (Schüler)
+
+Unter *Schüler* ➜ **Weitere Adressen** lassen sich für den Schüler
 relevante Adressen anlegen. Sinnvoll ist dies, um etwa
 Ausbildungsbetriebe oder Praktikumsbetriebe zu hinterlegen. Auch andere
 für den Schüler relevante Adressen, die nicht unter "Erz. Berechtigte"
 passen, können hier angelegt werden.
 
-### Adressen einem Lernenden zuordnen
+## Adressen einem Lernenden zuordnen
 
 ![SchILD_Schueler_WeitereAdressen1.png](../../graphics/SchILD_Schueler_WeitereAdressen1.png)
 
@@ -38,7 +40,7 @@ DEADLINK: `Kategorie: BETA` - Kategorie:_BETA.md
 
   
 
-### Anlegen einer neuen Adresse
+## Anlegen einer neuen Adresse
 
 ![SchILD_Schueler_WeitereAdressen3.png](../../graphics/SchILD_Schueler_WeitereAdressen3.png)
 

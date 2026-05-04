@@ -30,7 +30,7 @@ kann bestimmt werden, dass schon existierende Fächer nicht neu angelegt,
 sondern aktualisiert werden.Darunter findet sich die Möglichkeit, Fächer zu löschen: "**ausgewählte
 Fächer beim Schüler löschen**".  
 
-### Versetzungs- und Abschlussberechnung
+## Versetzungs- und Abschlussberechnung
 
 ![SchILD_Schueler_AktHalbj_Leistungsdaten_4.png](../../graphics/SchILD_Schueler_AktHalbj_Leistungsdaten_4.png)
 
@@ -71,7 +71,8 @@ Benotung eingetragen werden.
 
 ![SchILD_Schueler_AktHalbj_Leistungsdaten_8.png](../../graphics/SchILD_Schueler_AktHalbj_Leistungsdaten_8.png)
 
- Die Leistungsdaten werden zeilenweise erfasst.-   **Fach**: In der ersten Spalte ist das "**Fach**" einzutragen. Aus
+ Die Leistungsdaten werden zeilenweise erfasst.
+-   **Fach**: In der ersten Spalte ist das "**Fach**" einzutragen. Aus
     dem Dropdown-Menü können die über *"Kataloge"* ➜
     *"Unterrichtsfächer"* definierten Fächer ausgewählt werden.
 -   **Auf Zeugnis**: Mit diesem Wert wird gesteuert ob die Noten dieser

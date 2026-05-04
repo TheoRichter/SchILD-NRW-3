@@ -1,4 +1,6 @@
-# Floskeln bearbeiten (Schulbezogene Kataloge)In Schild-NRW gibt es sogenannte Floskeln. Dies sind wiederkehrende
+# Floskeln bearbeiten (Schulbezogene Kataloge)
+
+In Schild-NRW gibt es sogenannte Floskeln. Dies sind wiederkehrende
 Bemerkungen, die in Zeugnisbemerkungen, Bemerkungen zum Arbeits- und
 Sozialverhalten, Angaben zum außerunterrichtlichen Engagement oder den
 fachbezogenen Bemerkungen vorkommen können. Außerdem können Floskeln für
@@ -6,9 +8,9 @@ Textzeugnisse angelegt werden.Um diese Bemerkungen nicht immer eintippen zu müs
 Schild-NRW mit einem Kürzel hinterlegt werden und so im Zeugnisdruck
 schnell aufgerufen werden.  
 
-## Verwaltung von Floskeln
+# Verwaltung von Floskeln
 
-### Floskelgruppen
+## Floskelgruppen
 
 ![Schild_Kataloge_Floskeln_01.png](../../graphics/Schild_Kataloge_Floskeln_01.png)
 
@@ -38,7 +40,8 @@ ausgeestellt ist.
 
 
 
-### FloskelnIn der Grundansicht des Katalogs "Floskeln bearbeiten" können über die
+## Floskeln
+In der Grundansicht des Katalogs "Floskeln bearbeiten" können über die
 Schaltflächen am oberen Rand neue Floskeln angelegt bzw. bestehende
 Floskeln gelöscht oder bearbeitet werden.Bei Neuanlage einer Floskel muss das Feld des Floskeltexts ausgefüllt
 werden. Das Feld des Kürzels wird von SchILD-NRW automatisch ausgefüllt,
@@ -46,19 +49,19 @@ wenn keine Eingabe erfolgt.Es empfiehlt sich aber, hier ein einfach zu merkendes
 einzustellen, da dieses bei der Eingabe der Zeugnisbemerkungen
 automatisch ersetzt werden kann.
 
- warnin
-
-g
- Damit Daten bei Änderung oder Neuanlage einer Floskel
+Damit Daten bei Änderung oder Neuanlage einer Floskel
 übernommen werden, muss entweder mit der Maus zu einem anderen Datensatz
 gewechselt werden oder die Haken-Schaltfläche am oberen Rand geklickt
 werden.
 
 
 
-### PlatzhalterIn den Floskeln können drei Platzhalter verwendet werden, die dann vom
+## Platzhalter
+
+In den Floskeln können drei Platzhalter verwendet werden, die dann vom
 Programm automatisch ersetzt werden. Diese Platzhalter müssen exakt so
-geschrieben werden. Sie werden von Dollar-Zeichen ($) eingefasst:-   $Vorname$
+geschrieben werden. Sie werden von Dollar-Zeichen ($) eingefasst:
+-   $Vorname$
 -   $Name$ (fügt den Nachnamen ein)
 -   $Nachname$ (fügt den Nachnamen ein)Daneben können noch geschlechtsspezifische Platzhalter verwendet werden,
 die dann je nach Geschlecht des Schülers oder der Schülerin eingesetzt
@@ -66,10 +69,13 @@ werden.
 
 Diese Platzhalter können frei gewählt werden. Sie werden von Und-Zeichen
 (&) eingefasst. Die zuerst genannte männliche Form wird mit einem
-Prozent-Zeichen (%) von der weiblichen Form getrennt:Beispiel:` &Klassenbuchführer%Klassenbuchführerin&  (&männliche_Bezeichnung%weibliche_Bezeichnung&)`
+Prozent-Zeichen (%) von der weiblichen Form getrennt:Beispiel:
+` &Klassenbuchführer%Klassenbuchführerin&  (&männliche_Bezeichnung%weibliche_Bezeichnung&)`
 
-### Massenhaftes Bearbeiten von Floskeln**Alle Floskeln löschen**Durch Klick auf diese Schaltfläche werden nach Bestätigung einer Abfrage
-alle Floskeln gelöscht, die in der momentanen Ansicht gezeigt werden.**Floskeln importieren** 
+## Massenhaftes Bearbeiten von Floskeln
+**Alle Floskeln löschen**Durch Klick auf diese Schaltfläche werden nach Bestätigung einer Abfrage
+alle Floskeln gelöscht, die in der momentanen Ansicht gezeigt werden.
+**Floskeln importieren** 
 
 ![Schild_Kataloge_Floskeln_03.png](../../graphics/Schild_Kataloge_Floskeln_03.png)
 
@@ -120,10 +126,7 @@ geändert werden. Zusätzlich kann für eine bessere Lesbarkeit z. B. auf
 Zeugnissen angewählt werden, dass Vornamen nicht mehrfach genannt
 werden.
 
- warnin
-
-g
- Die fachbezogene Leistungsentwicklung steht erst zur
+Die fachbezogene Leistungsentwicklung steht erst zur
 Verfügung, wenn sie unter Verwaltung ➜ Einstellungen ➜ Globale
 Einstellungen: Allgemeines ➜ Ansicht aktiviert wurde.
 
@@ -137,10 +140,7 @@ besonders dann an, wenn Floskeln häufig verwendet werden.Bei der fachbezogenen 
 Niveau vergeben werden. So können die Kategorien für den Zeugnisdruck
 bei Textzeugnissen aufgebaut werden.
 
- warnin
-
-g
- Sollen Floskeln zum Beispiel als Zeugnisbemerkungen für
+Sollen Floskeln zum Beispiel als Zeugnisbemerkungen für
 ganze Schülergruppen eingetragen werden, sollte anstelle einer manuellen
 Eingabe bei jeder einzelnen Schülerin oder jedem einzelnen Schüler der
 entsprechende Gruppenprozess verwendet werden. Verwenden Sie

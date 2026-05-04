@@ -1,6 +1,8 @@
 # Umgang mit Bildungsgangswechlsern am BK (Tutorial)
 
-## Grundsätzliches ProblemAm BK kann es vorkommen, dass sich aktive Schüler für das kommende
+## Grundsätzliches Problem
+
+Am BK kann es vorkommen, dass sich aktive Schüler für das kommende
 Schuljahr für einen weiteren oder anderen Bildungsgang anmelden.Da sie aber in diesem Schuljahr noch aktiv sind, kann mit den bisher
 vorhandenen Schülern nicht für das kommende Schuljahr geplant werden.
 Diese Schüler werden hier als *"Original"* bezeichnet.Um für das neue Schuljahr planen zu können, werden von den aktiven
@@ -18,9 +20,11 @@ nun den **Status** *Abschluss* hat - und das *Duplikat* - das den
 
 ## Schülerdatensatz erzeugen
 
-### Bildungsgangwechsler ohne Online-Verfahren zur Anmeldung
+## Bildungsgangwechsler ohne Online-Verfahren zur Anmeldung
 
-#### Aufnahme 1: Neuaufnahme eines Schülers an der Schule
+## Aufnahme 1:
+
+Neuaufnahme eines Schülers an der Schule
 
 ![SchILD_Tutorials_BK_Bildungsgangwechsler_Neu.png](../../graphics/SchILD_Tutorials_BK_Bildungsgangwechsler_Neu.png)
 
@@ -31,7 +35,9 @@ Aufnahmeverfahren durchzuführen.Verwendet die Schule kein Online-Anmeldeverfahr
 neuer Schüler manuell eingetragen werden.Tragen Sie in der Neuaufnahmemaske Jahrgang und Klasse. Dann pflegen Sie
 wie üblich alle anderen notwendigen und bekannten Daten nach.  
 
-#### Aufnahme 2: Duplizieren eines Schülers der eigenen Schule
+## Aufnahme 2:
+
+Duplizieren eines Schülers der eigenen Schule
 
 ![SchILD_Tutorials_BK_Bildungsgangwechsler_Duplizieren.png](../../graphics/SchILD_Tutorials_BK_Bildungsgangwechsler_Duplizieren.png)
 
@@ -60,7 +66,8 @@ Klasse* einsortiert wird.
 
 
 
-#### Aufnahme 3: Bildungsgangwechsler mit Schüler-Online (oder anderen Verfahren)Exportiert man Schülerdaten aus Schüler-Online, wird der *Name* des
+## Aufnahme 3:
+Bildungsgangwechsler mit Schüler-Online (oder anderen Verfahren)Exportiert man Schülerdaten aus Schüler-Online, wird der *Name* des
 Schülers in der zu erzeugten Schnittstellendatei
 *SchuelerBasisidaten.dat* durch *#neueKlasse* ergänzt.` Hansen`wird also zu` Hansen#AHM1`Wenn SchILD-NRW beim Import bereits einen Schülerdatensatz für den
 gleichen Schüler findet, die Kriterien hierfür sind *Name*, *Vorname*
@@ -78,7 +85,9 @@ mit der alten Klasse* einsortiert wird.
 
 
 
-## Schüler mit dem aktuellen Bildungsgang aktivierenUnabhängig davon, auf welchem Weg die Schülerdatensätze in SchILD-NRW
+## Schüler mit dem aktuellen Bildungsgang aktivieren
+
+Unabhängig davon, auf welchem Weg die Schülerdatensätze in SchILD-NRW
 aufgenommen wurden, ist der Name des neuen Schülers nun in der
 Namensliste gelb hinterlegt, da der Haken bei **Ist Duplikat** gesetzt
 wurde.
@@ -92,11 +101,13 @@ abgelaufenen Schuljahres, automatisch in den **Status** *Abschluss*
 gesetzt.Damit ist das Original nicht mehr im Schülercontainer der aktiven
 Schüler zu sehen.
 
-### Variante 1: Nicht-Verschmelzen und Beibehalten beider DatensätzeEs wird das nun mit den aktuellen Daten versehene Duplikat weiter als
+## Variante 1:
+Nicht-Verschmelzen und Beibehalten beider DatensätzeEs wird das nun mit den aktuellen Daten versehene Duplikat weiter als
 der aktuelle Schüler gepflegt.Hierbei muss lediglich der Haken bei **Ist Duplikat** entfernt werden.
 
 Das *Original* verbleibt nun mit der alten Geschichte im alten
-Bildungsgang im **Status** *Abschluss*.Nachteile des Verschmelzens:-   beim aktiven Schüler ist ide vorherige Laufbahn mit den Noten nicht
+Bildungsgang im **Status** *Abschluss*.Nachteile des Verschmelzens:
+-   beim aktiven Schüler ist ide vorherige Laufbahn mit den Noten nicht
     mehr aufgeführt.
 -   Auch in vorherigen Bildungsgängen erreichte Abschlüsse sind nicht
     mehr abrufbar, da SchILD-NRW nur einen Bildungsgang-Abschluss pro

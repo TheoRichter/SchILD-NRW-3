@@ -1,4 +1,6 @@
-# Individualdaten II (Schüler)In den *Individualdaten II* werden Informationen zur
+# Individualdaten II (Schüler)
+
+In den *Individualdaten II* werden Informationen zur
 Einwanderungsgeschichte, dem Schulbesuch und sonderpädagogischen
 Förderungen eines Schülers erfasst.
 

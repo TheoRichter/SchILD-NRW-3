@@ -2,7 +2,9 @@
 
 ![Kontextmenue_Lehrkraefte.png](../../graphics/Kontextmenue_Lehrkraefte.png)
 
-## Kontextmenü der LehrkräfteSie können einen oder mehrere Lehrkräfte markieren und dann mit der
+## Kontextmenü der Lehrkräfte
+
+Sie können einen oder mehrere Lehrkräfte markieren und dann mit der
 rechten Maustaste auf die Lehrkräfte klicken. Sie gelangen so in das
 Kontextmenü der Lehrkräfte, wo sie verschiedene Optionen zur Auswahl
 haben.Alle auswählen  

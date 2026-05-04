@@ -49,7 +49,7 @@ den jeweilig eingeloggten Benutzer ausfällt.Unter **Allgemeines** finden sich f
 
 ## Weitere Einstellungen
 
-### Benutzeroberfläche
+## Benutzeroberfläche
 
 ![SchILD_Verwaltung_Einstellungen_individualEinstellungen_SilverGUI.png](../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_SilverGUI.png)
 
@@ -70,7 +70,7 @@ statistikrelevanten Feldern verwendet.
 
   
 
-### Andere
+## Andere
 
 ![SchILD_Verwaltung_Einstellungen_individualEinstellungen_Andere.png](../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_Andere.png)
 
@@ -87,7 +87,7 @@ die **Emailadresse des Absenders** eingetragen werden.Damit diese Funktionen Sin
 von Emails korrekt konfiguriert sein (*Einstellungen ➜
 Email-Versand*).  
 
-### Sichtbare Spalten
+## Sichtbare Spalten
 
 ![SchILD_Verwaltung_Einstellungen_individualEinstellungen_SichtbareSpalten.png](../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_SichtbareSpalten.png)
 

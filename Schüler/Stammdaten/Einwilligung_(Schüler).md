@@ -1,4 +1,6 @@
-# Einwilligung (Schüler)In diesem Reiter können für die ausgewählte Schülerin bzw. den
+# Einwilligung (Schüler)
+
+In diesem Reiter können für die ausgewählte Schülerin bzw. den
 ausgewählten Schüler die Einwilligungen sowohl in die Nutzung
 personenbezogener Daten gemäß DSGVO als auch zur Nutzung von
 Lernplattformen verwaltet werden.Beide Arten von Einwilligungen werden unter den (schulbezogenen)
@@ -7,7 +9,7 @@ Schülerinnen und Schülern bearbeitet werden.
 
 ## Individuelle Schülerinnen und Schüler
 
-### Einwilligungen
+## Einwilligungen
 
 ![Schild_Schüler_Einwilligung_01.png](../../graphics/Schild_Schüler_Einwilligung_01.png)
 
@@ -24,7 +26,9 @@ verwendet werden, die nicht mit der DSGVO zusammenhängen.
 
   
 
-### LernplattformenEbenso wie für die Einwilligungen kann auch für die von der Schule
+## Lernplattformen
+
+Ebenso wie für die Einwilligungen kann auch für die von der Schule
 verwendeten Lernplattformen die individuelle Einwilligung verwaltet
 werden. Zusätzlich lassen sich (in Zukunft) Benutzernamen und
 Initialpasswörter direkt in SchILD generieren und für einen Export zu

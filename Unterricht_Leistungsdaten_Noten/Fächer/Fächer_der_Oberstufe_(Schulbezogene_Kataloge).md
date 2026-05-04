@@ -1,4 +1,6 @@
-# Fächer der Oberstufe (Schulbezogene Kataloge) ´ DEPRICATED ! REMOVE!
+# Fächer der Oberstufe (Schulbezogene Kataloge)
+
+ ´ DEPRICATED ! REMOVE!
 Werden über den SVWS-Webclient verwaltet
 
 ## Übersicht

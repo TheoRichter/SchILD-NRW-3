@@ -49,7 +49,9 @@ die Daten der entsprechenden Reiter unter *Schüler* zur Verfügung.
 bei einem Merkmal *Ja* oder *Nein* wählen, mit dem **X** wieder entfernt
 werden.  
 
-### VerknüpfungenStandardmäßig nutzt der Filter UND-Verknüpfungen, bei einigen Feldern
+## Verknüpfungen
+
+Standardmäßig nutzt der Filter UND-Verknüpfungen, bei einigen Feldern
 werden aber auch ODER-Verknüpfungen genutzt.-   **UND**: Beide Kriterien müssen zutreffen, damit ein Eintrag
     angezeigt wird. **Beispiel**: der Schüler ist *Volljährig UND
     Männlich*.
@@ -66,7 +68,7 @@ werden aber auch ODER-Verknüpfungen genutzt.-   **UND**: Beide Kriterien müsse
     evangelisch* ausgewählt und negiert, was im Filter alle Personen
     anzeigt, die WEDER *katholisch* NOCH *evangelisch* sind.  
 
-### Beispiel: Leistungsdaten filtern
+## Beispiel: Leistungsdaten filtern
 
 ![SchILD_Auswahl_Filter_I_Beispiel_Leistungdaten.png](../../graphics/SchILD_Auswahl_Filter_I_Beispiel_Leistungdaten.png)
 
@@ -80,7 +82,9 @@ die Einführungsphase EF aus.Unter *Fächer und Noten* stellt man das gesuchte *
 *Kursart* ein.Als verwendete Beziehung muss in diesem Fall UND ausgewählt werden. Die
 Einstellungen durch einen Klick auf den **roten Pfeil** übernommen.  
 
-### Beispiel: Filtern über mehrere Reiter hinwegGefiltert werden soll nach allen Schülern, die im-   Schuljahr 2021/22
+## Beispiel: Filtern über mehrere Reiter hinweg
+
+Gefiltert werden soll nach allen Schülern, die im-   Schuljahr 2021/22
 -   die Abiturzulassung erhalten,
 -   das Abitur dann aber nicht bestanden haben und abgegangen sind
 -   und Englisch als erste Fremdsprache hatten.Dafür müssen Einstellungen unter mehreren Reitern getätigt werden:

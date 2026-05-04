@@ -2,7 +2,9 @@
 werden und somit unabhängig von den Zuordnungen in den Leistungsdaten
 (Klassen, Kurse, AGs, ZUV etc.) als Auswahl zur Verfügung stehen.
 
-### Eine Individuelle Schülergruppe erstellen, bearbeiten und Schüler entfernenDamit eine Individuelle Schülergruppe genutzt werden kann, muss diese
+## Eine Individuelle Schülergruppe erstellen, bearbeiten und Schüler entfernen
+
+Damit eine Individuelle Schülergruppe genutzt werden kann, muss diese
 zuerst definiert werden.
 
 ![SchILD_Tutorials_IndividuelleSchuelergruppen_1.png](../../graphics/SchILD_Tutorials_IndividuelleSchuelergruppen_1.png)
@@ -18,7 +20,7 @@ noch leer.
 markieren Sie die betreffenden Einträge.Ein Klick auf **Markierte Schüler aus der Gruppe entfernen** führt die
 Aktion aus.  
 
-### Personen zu einer Schülergruppe hinzufügen
+## Personen zu einer Schülergruppe hinzufügen
 
 ![SchILD_Tutorials_IndividuelleSchuelergruppen_2_Kontextmenu.png](../../graphics/SchILD_Tutorials_IndividuelleSchuelergruppen_2_Kontextmenu.png)
 
@@ -27,7 +29,7 @@ indem diese im Container mit einem Haken markiert werden.Ein Rechtsklick öffnet
 Schülergruppe hinzufügen** ausgewählt werden kann.Es stehen hier alle Schülergruppen zur Auswahl, auf die der gewählte
 Nutzer Zugriff hat. Zu dieser werden die Schüler nun hinzugefügt.  
 
-### Eine Schülergruppe auswählen
+## Eine Schülergruppe auswählen
 
 ![SchILD_Tutorials_IndividuelleSchuelergruppen_3_Auswahl.png](../../graphics/SchILD_Tutorials_IndividuelleSchuelergruppen_3_Auswahl.png)
 

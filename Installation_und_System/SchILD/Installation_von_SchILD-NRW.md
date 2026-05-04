@@ -14,7 +14,9 @@ installiert werden.
 
 Diese Anleitung führt durch die Installation des Klienten SchILD 3.
 
-## Installation von SchILD 3Laden Sie zuerst SchILD 3 auf der Webseite für
+## Installation von SchILD 3
+
+Laden Sie zuerst SchILD 3 auf der Webseite für
 [Schulverwaltungssoftware](https://www.svws.nrw.de) des MSB NRW
 herunter. Über diese Seite können auch Updates für SchIlD 3 bezogen
 werden.
@@ -32,7 +34,7 @@ soll.Bestätigen Sie diese Nachfrage mit "Trotzdem installieren". Eventuell
 wird auch noch einmal eine weitere Bestätigung eingefordert, bestätigen
 Sie diese ebenfalls.  
 
-### Angabe der Installationspfade
+## Angabe der Installationspfade
 
 ![SchILD_Installation_3.png](../../graphics/SchILD_Installation_3.png)
 
@@ -82,7 +84,7 @@ Hier kann der Standard behalten werden. Klicken Sie auf "Weiter".
 
 ![SchILD_Installation_7.png](../../graphics/SchILD_Installation_7.png)
 
-### Das Konfigurationstool
+## Das Konfigurationstool
 
 ![SchILD_Installation_8.png](../../graphics/SchILD_Installation_8.png)
 
@@ -116,7 +118,7 @@ folgenden Installation von SchILD 3 ausgewählt.
 
   
 
-### Installation auf einem Einzelplatzrechner
+## Installation auf einem Einzelplatzrechner
 
 ![SchILD_Installation_9.png](../../graphics/SchILD_Installation_9.png)
 
@@ -158,7 +160,8 @@ Konfigurationsdatei erfolgreich angelegt werden konnte.
 1 SchILD 3 kann nun über diese Icon auf Ihrem Desktop
 gestartet werden.  
 
-### Installation in einer NetzwerkumgebungWird SchILD in einer Netzwerkumgebung installiert, werden sowohl der
+## Installation in einer Netzwerkumgebung
+Wird SchILD in einer Netzwerkumgebung installiert, werden sowohl der
 SVWS-Server als auch SchILD auf einem Server installiert. SchILD wird
 nun von den Nutzen gestartet, indem aus einer Netzwerkfreigabe das
 SchILD 3 gestartet wird.Geben Sie in dem Fenster, in dem bei der Installation am Einzelplatz
@@ -205,7 +208,9 @@ Verknüpfung.
 
   
 
-### UpdateWurde SchILD einmal auf einem Rechner installiert, kann ein Update durch
+## Update
+
+Wurde SchILD einmal auf einem Rechner installiert, kann ein Update durch
 ein Anklicken eines aktuellen Installationsprogramms gestartet werden.
 Es müssen bei einem Update keine weiteren Einstellungen vorgenommen
 werden.

@@ -39,7 +39,9 @@ kenntlich zu machen.
  Sollte der Kurs noch nicht existieren, kann er über das
 **+** neben dem Dropdown-Menü *Kurs* definiert werden.  
 
-## LöschenWählt man als Bearbeitungsmodus **Löschen**, ist wieder zuerst ein
+## Löschen
+
+Wählt man als Bearbeitungsmodus **Löschen**, ist wieder zuerst ein
 *Fach* zu wählen.Danach bewirkt das *Anklicken der Spaltenüberschrift* beziehungsweise
 einer einzelnen *Zelle*, dass das ausgewählte Fach bei den Schülerinnen
 und Schülern gelöscht wird.Haben Sie ihre Änderungen vorgenommen, klicken Sie links über der

@@ -1,4 +1,5 @@
-# Grundschulzeugnisse Konfiguration des Erscheinungsbildes von Zeugnissen (Tutorial) Nehmen Sie bitte die 
+# Grundschulzeugnisse Konfiguration des Erscheinungsbildes von Zeugnissen (Tutorial)
+Nehmen Sie bitte die 
 
 WIKILINK: Zeugnisse_Themenübersicht zur Kenntnis, wie
 Zeugnisse zu installieren und über die *Zeugniseinstellungen.ini*
@@ -61,16 +62,21 @@ eigenen Schule, kann der Standard belassen werden.
 
 
 
-## Inhalte der Datei und Felder zur KonfigurationIn der Datei werden folgende Aspekte konfiguriert. Wird ein Feld über
+## Inhalte der Datei und Felder zur KonfigurationIn der Datei werden folgende Aspekte konfiguriert.
+Wird ein Feld über
 ein Semikolon ein- oder ausgeschaltet, ist das Semikolon hier in diesem
 Artikel wie in der Datei als Standard entweder *gesetzt* oder
 *entfernt*.
 
-### 1. Fächerreihenfolge festlegenWie im Beispiel oben gezeigt werden die Bezeichnungen der Fächer *exakt
+### 1. Fächerreihenfolge festlegen
+
+Wie im Beispiel oben gezeigt werden die Bezeichnungen der Fächer *exakt
 so geschrieben wie in der Datei vorgefunden* in die gewünschte
 Reihenfolge gebracht.
 
-### 2. Layout festlegen (Allgemein)Über die hier aufgeführten Schalter wird das allgemeine Layout mit
+### 2. Layout festlegen (Allgemein)
+
+Über die hier aufgeführten Schalter wird das allgemeine Layout mit
 Schrift, Druck und Seitenumbrüchen gesteuert.| Steuerbefehl                                | Erklärung                                                                                                                                                                                                                                        |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **;Duplex=Vertikal**                        | aktiviert automatisch den doppelseitigen Druck durch Entfernen des Semikolons (**;**)                                                                                                                                                            |
@@ -81,7 +87,9 @@ Schrift, Druck und Seitenumbrüchen gesteuert.| Steuerbefehl                    
 | **BemerkungenAufNeuerSeite**=E1;E2;E3;03;04 | *BemerkungenAufNeuerSeite* steuert, vor welchen Jahrgängen ein Seitenumbruch für die Zeugnis- und Versetzungsbemerkungen erzeugt wird. Die Jahrgänge, *für die dies zutreffen soll*, folgen durch ein Semikolon aus Aufzählungszeichen getrennt. |
 |                                             |                                                                                                                                                                                                                                                  |
 
-### 3. Allgemeine inhaltliche EinstellungenHier werden generelle Einstellungen zu Inhalten vorgenommen.| Steuerbefehl                      | Erklärung                                                                                                                                                                                                               |
+### 3. Allgemeine inhaltliche Einstellungen
+
+Hier werden generelle Einstellungen zu Inhalten vorgenommen.| Steuerbefehl                      | Erklärung                                                                                                                                                                                                               |
 |-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | **NotenAbJahrgang**=03            | NotenAbJahrgang lässt den Jahrgang setzen, *ab* dem Noten auf Zeugnissen gedruckt werden. Zulässige Start-Jahrgänge sind *E1, E2, 03* und *04*                                                                          |
 | **;MitJahrgang**                  | wenn das Semikolon gesetzt ist, werden nur die Klassen im Zeugniskopf gedruckt. Wird das Semikolon entfernt, werden Klasse und Jahrgang ausgegeben. Diese Einstellung ist nur für die Jahrgänge *03* und *04* relevant. |
@@ -90,7 +98,9 @@ Schrift, Druck und Seitenumbrüchen gesteuert.| Steuerbefehl                    
 | **NurRufname**                    | Falls in SchILD-NRW ein Eintrag unter "alle Namen" vorhanden ist, diese aber nicht auf das Zeugnis gedruckt sollen, ist kein Semikolon zu setzen.                                                                       |
 | **;ASVAusblenden**                | Arbeits und Sozialverhalten nicht auf dem Zeugnis drucken: Entfernen Sie das Semikolon.                                                                                                                                 |
 
-### 4. Layout für Fächer und Kompetenzen festlegenÜber diese Schalter werden Layoutfunktionen wie Zeilenabstände,
+### 4. Layout für Fächer und Kompetenzen festlegen
+
+Über diese Schalter werden Layoutfunktionen wie Zeilenabstände,
 Fächerposition, Linien zwischen Kompetenzen oder das verwendete
 Ankreuzsymbol gesteuert.-| Steuerbefehl                                               | Erklärung                                                                                                                                                                                                                                                                                                                                                      |
 |------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -113,7 +123,9 @@ Ankreuzsymbol gesteuert.-| Steuerbefehl                                         
 | **;FachKopfSichtbar03**=KR;RS;MU                           |                                                                                                                                                                                                                                                                                                                                                                |
 | **;FachKopfSichtbar04**=D;E;M                              |                                                                                                                                                                                                                                                                                                                                                                |
 
-### 5. Anpassungen der Unterschriften (Text und Layout)Über diese Schalter werden Art und Layout der Unterschriften gesteuert.
+### 5. Anpassungen der Unterschriften (Text und Layout)
+
+Über diese Schalter werden Art und Layout der Unterschriften gesteuert.
 | Steuerbefehl | Erklärung |
 | --- | --- |
 | Unterschrift =VN | Über die unterschiedlichen Optionen wird die Art der<br>Unterschriften eingestellt. Zulässige Schalter sind VN = Vorname Nachname NV = Nachname, Vorname N = Nachname, KlassenlehrerIn ON = Klassenleitung |

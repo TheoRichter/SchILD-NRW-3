@@ -1,7 +1,10 @@
-# Erstellen von Abschlusszeugnissen am BK (Tutorial)Im Folgenden finden Sie eine Kurzanleitung für die Berufsschule in
+# Erstellen von Abschlusszeugnissen am BK (Tutorial)
+
+Im Folgenden finden Sie eine Kurzanleitung für die Berufsschule in
 SchILD-NRW 3.
 
-### Noteneingabe1.  Für die Eingabe der Noten müssen die aktuellen Fächer mit
+## Noteneingabe
+1.  Für die Eingabe der Noten müssen die aktuellen Fächer mit
     Lehrkräften unter *Schüler ➜ Akt. Halbjahr ➜ Leistungsdaten*
     eingetragen sein. Diese Zuweisung erfolgt über *Stundentafeln* und
     die zugehörigen Gruppenprozesse.
@@ -19,7 +22,9 @@ SchILD-NRW 3.
     Zeugnis erscheinen.Über einen passenden Report kann eine Zensurenübersicht für die Klasse
 erzeugt werden, die in der Zeugniskonferenz verwendet werden kann.
 
-### Einstellen der übrigen DatenMit dem Zeugniskonferenzprotokoll kann anschließend die Erstellung der
+## Einstellen der übrigen Daten
+
+Mit dem Zeugniskonferenzprotokoll kann anschließend die Erstellung der
 Zeugnisse vorbereitet werden.-   Über Gruppenprozesse lassen sich das Konferenzdatum und das
     Zeugnisdatum setzen.
 -   Für die korrekte Ermittlung der FOR-Abschlüsse ist der

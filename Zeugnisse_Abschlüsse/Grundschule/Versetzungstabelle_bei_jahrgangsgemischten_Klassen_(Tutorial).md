@@ -65,9 +65,9 @@ im dritten Jahrgang werden die ersten beiden Klassen als 03A und 03B
 erfasst.In dieser Tabelle ist die Schule noch auf zwei Teilstandorte (Spalte
 **TSO**) mit den Standorten *A* und *B* aufgeteilt.  
 
-## Beispiele für Klassenversetzungstabellen
+# Beispiele für Klassenversetzungstabellen
 
-### Grundschule mit jahrgangsbezogenem Unterricht
+## Grundschule mit jahrgangsbezogenem Unterricht
 
 ![SchILD_Tutorials_GS_Versetzungstabelle_Klassendetails_Standardklasse.png](../../graphics/SchILD_Tutorials_GS_Versetzungstabelle_Klassendetails_Standardklasse.png)
 
@@ -95,7 +95,7 @@ jahrgangsbezogenem Halbtagsunterricht.| Schulinterne Bez. | Jahrgang | Paralleli
 | 04A               | 04       | A            |              | 03A              | Regelklasse |
 | 04B               | 04       | B            |              | 03B              | Regelklasse |
 
-### Grundschule mit jahrgangsübergreifendem Unterricht in der Schuleingangsphase
+## Grundschule mit jahrgangsübergreifendem Unterricht in der Schuleingangsphase
 
 ![SchILD_Tutorials_GS_Versetzungstabelle_Klassendetails_JUinSPE.png](../../graphics/SchILD_Tutorials_GS_Versetzungstabelle_Klassendetails_JUinSPE.png)
 
@@ -130,7 +130,9 @@ Schuleingangsphase werden hier nicht differenziert.| Schulinterne Bez. | Jahrgan
 | 04A               | 04       | A            |              | 03A              | Regelklasse |
 | 04B               | 04       | B            |              | 03B              | Regelklasse |
 
-### Grundschule mit jahrgangsübergreifendem Unterricht in allen JahrgängenIn Falle des jahrgangsübergreifenden Unterrichts in allen Jahrgängen ist
+## Grundschule mit jahrgangsübergreifendem Unterricht in allen Jahrgängen
+
+In Falle des jahrgangsübergreifenden Unterrichts in allen Jahrgängen ist
 wie im vorherigen Beispiel zu verfahren, nur dass der Jahrgang *JU* für
 alle Jahrgänge und nicht nur die der Schuleingangsphase gesetzt werden.-   Es wird lediglich der **Jahrgang** *JU* verwendet.
 -   Als **Klassenart** wird immer *Regelklasse* eingetragen.
@@ -152,7 +154,7 @@ jahrgangsübergreifendem Halbtagsunterricht.| Schulinterne Bez. | Jahrgang | Par
 | Giraffen          | JU       | G            | Giraffen     | Giraffen         | Regelklasse |
 | Hasen             | JU       | H            | Hasen        | Hasen            | Regelklasse |
 
-### Förderschulen: jahrgangsübergreifende Klassen
+## Förderschulen: jahrgangsübergreifende Klassen
 
 ![SchILD_Tutorials_GS_Versetzungstabelle_Versetzungstabelle_FS.png](../../graphics/SchILD_Tutorials_GS_Versetzungstabelle_Versetzungstabelle_FS.png)
 

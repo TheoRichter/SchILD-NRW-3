@@ -1,4 +1,6 @@
-# Fächer aus vorherigem Abschnitt holen (Gruppenprozesse Fächer)Mit dem Gruppenprozess **Fächer aus vorherigem Abschnitt holen** ist es
+# Fächer aus vorherigem Abschnitt holen (Gruppenprozesse Fächer)
+
+Mit dem Gruppenprozess **Fächer aus vorherigem Abschnitt holen** ist es
 möglich, Fächer nachträglich in den aktuellen Abschnitt zu übernehmen.Normalerweise sollten die Fächer bei Durchführung der Versetzung
 beziehungsweise Übertragung in einen neuen Abschnitt ins nächste
 Halbjahr übertragen werden.Sollte dies nicht gelungen sein, zum Beispiel wegen einem fehlerhaften

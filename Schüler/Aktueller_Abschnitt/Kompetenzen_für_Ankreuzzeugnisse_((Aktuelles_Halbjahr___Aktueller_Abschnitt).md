@@ -1,4 +1,4 @@
-# Kompetenzen für Ankreuzzeugnisse ((Aktuelles Halbjahr / Aktueller Abschnitt)
+# Kompetenzen für Ankreuzzeugnisse (Aktuelles Halbjahr / Aktueller Abschnitt)
 
 ![SchILD_Schueler_AktHalbj_Ankreuzkompetenzen_Auswahl.png](../../graphics/SchILD_Schueler_AktHalbj_Ankreuzkompetenzen_Auswahl.png)
 

@@ -1,4 +1,6 @@
-# KAoA (Schüler)In diesem Reiter können für den ausgewählten Schüler Module der
+# KAoA (Schüler)
+
+In diesem Reiter können für den ausgewählten Schüler Module der
 beruflichen Orientierung von *"Kein Abschluss ohne Anschluss - Übergang
 Schule-Beruf NRW"*, KAoA, verwaltet und archiviert werden.
 

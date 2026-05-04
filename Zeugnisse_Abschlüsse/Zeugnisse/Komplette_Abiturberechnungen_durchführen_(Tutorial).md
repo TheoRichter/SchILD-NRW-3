@@ -7,7 +7,8 @@ werden sollten und es wird auf mögliche Fehlerquellen hingewiesen.Vom Aufbau he
 **Abitur** erklärt, so dass einzelne Schüler individuell bearbeitet
 werden. Dann wird auf die entsprechenden Gruppenprozesse verwiesen, mit
 denen die gesamte Q2 beziehungsweise die betreffenden Teilmengen, zum
-Beispiel Kurse, verarbeitet werden können.Grundsätzlich läuft das Abitur wie folgt ab:1.  Leistungsdaten der Q-Phase einsammeln
+Beispiel Kurse, verarbeitet werden können.Grundsätzlich läuft das Abitur wie folgt ab:
+1.  Leistungsdaten der Q-Phase einsammeln
 2.  Die in das Abitur einzubringenden und für die Zulassung relevanten
     Kurse markieren. Der Zentrale Abiturausschuss (ZAA) entscheidet
     basierend darauf über die Zulassung.
@@ -35,9 +36,9 @@ Abiturdurchlaufs.
 
   
 
-## Leistungsdaten holen und Zulassungsberechnung
+# Leistungsdaten holen und Zulassungsberechnung
 
-### Leistungsdaten holen
+## Leistungsdaten holen
 
 ![SchILD_Schüler_Abitur_LeistungsdatenBelFehler.png](../../graphics/SchILD_Schüler_Abitur_LeistungsdatenBelFehler.png)
 
@@ -51,7 +52,7 @@ sein oder eine Note wurde noch nicht von der Fachlehrkraft geliefert und
 muss erst nachgetragen werden.Bei den hier im Screenshot abgebildeten Leistungsdaten fehlten noch die
 Noten für den *Zusatzkurs SW* und den *GK Geschichte*.  
 
-### Facharbeitsthema erfassen
+## Facharbeitsthema erfassen
 
 ![SchILD_Tutorials_Projektkurse_SchülerAbitur.png](../../graphics/SchILD_Tutorials_Projektkurse_SchülerAbitur.png)
 
@@ -61,7 +62,7 @@ auszugeben.Wurde der Projektkurs mit dem Thema als *Fachbezogene
 Leistungsentwicklung* erfasst, lässt sich dieses Thema mit einem Klick
 auf `Thema ermitteln` in den Reiter *Schüler ➜ Abitur* übernehmen.  
 
-### Kurse algorithmisch markieren
+## Kurse algorithmisch markieren
 
 ![SchILD_Schüler_Abitur_KurseMarkieren_1.png](../../graphics/SchILD_Schüler_Abitur_KurseMarkieren_1.png)
 
@@ -85,7 +86,7 @@ vorteilhafteren Kurs zu markieren.
 
 Die Leistungskurse und beiden Abiturfächer sind farblich hervorgehoben.  
 
-### Zulassung berechnen
+## Zulassung berechnen
 
 ![SchILD_Schüler_Abitur_ZulassungBerechnen.png](../../graphics/SchILD_Schüler_Abitur_ZulassungBerechnen.png)
 
@@ -178,7 +179,9 @@ softwaregestützte Unterstützung ohne Gewähr zu verstehen.
 
 
 
-## Nachbereitung und ZeugnisdruckKontrollieren Sie die Sprachenfolge. Tragen Sie dann ein, ob ein Latinum
+## Nachbereitung und Zeugnisdruck
+
+Kontrollieren Sie die Sprachenfolge. Tragen Sie dann ein, ob ein Latinum
 (Graecum, Hebraicum) erreicht wurde, und berechnen Sie die
 Referenzniveaus.Verwenden Sie hierzu die passenden Gruppenprozesse in der Gruppe
 *Abitur*.

@@ -1,6 +1,8 @@
 # Grundschulzeugnisse Ankreuzzeugnis (Tutorial)
 
-## Schule vorbereitenZuerst muss die Schule für das Eintrage von Leistungsdaten vorbereitet
+## Schule vorbereiten
+
+Zuerst muss die Schule für das Eintrage von Leistungsdaten vorbereitet
 werden. Folgen Sie hierzu der Anleitung im Wiki-Artikel zur
 
 WIKILINK: Grundschulzeugnisse_Vorbereitung_für_Text-_und_Ankreuzzeugnisse_(Tutorial).
@@ -42,7 +44,7 @@ definierten Kompetenzen verwendet.-   Obwohl *ASV - "Arbeits- und Sozialverhalte
 
 
 
-### Import und Export
+## Import und Export
 
 ![SchILD_Tutorials_GS_Ankreuzzeugnisse_Import.png](../../graphics/SchILD_Tutorials_GS_Ankreuzzeugnisse_Import.png)
 
@@ -81,7 +83,9 @@ Jahrgang *E3* nicht eingegeben. Hier werden die Floskeln des Jahrgangs
 
 
 
-### UnterkategorienZu Fächern können auch Unterkategorien gebildet werden. So könnten die
+## Unterkategorien
+
+Zu Fächern können auch Unterkategorien gebildet werden. So könnten die
 Kompetenzen in *ASV* in die beiden Unterkategorien *"Lern- und
 Leistungsbereitschaft* und *Zuverlässigkeit und Sorgfalt* eingeteilt
 werden.Eine Unterkategorie wird durch einen Doppelpunkt **:** kenntlich
@@ -100,7 +104,7 @@ die Unter-Kompetenzen erst unter **Lern- und Leistungsbereitschaft** und
 dann als **Zuverlässigkeit und Sorgfalt** gruppiert werden.Hier im Beispiel wurde die Sortierung so gewählt, dass alle Kompetenzen
 ohne Kategorie zuerst erscheinen.
 
-### Definition der Kompetenzstufen
+## Definition der Kompetenzstufen
 
 ![SchILD_Tutorials_GS_Ankreuzzeugnisse_KompetenzenBenennen.png](../../graphics/SchILD_Tutorials_GS_Ankreuzzeugnisse_KompetenzenBenennen.png)
 
@@ -108,14 +112,16 @@ ohne Kategorie zuerst erscheinen.
 die vergebenen **Kompetenzstufen** definiert werden. Es sind maximal
 fünf Stufen möglich.  
 
-### Anzeigen einer LegendeIn der *AnkreuzZeugniseinstellungen.ini* lässt sich eine Legende ein-
+## Anzeigen einer Legende
+
+In der *AnkreuzZeugniseinstellungen.ini* lässt sich eine Legende ein-
 und ausblenden, in der Sie die Kompetenzstufen erläutern können.` ; - Semikolon entfernen, um Kompetenzerläuterungen mit auszugeben`  
 ` ; KompetenzErlaeuterung`Entfernen Sie das Semikolon vor der Zeile mit *"KompetenzErlauterung"*
 und speichern Sie die Datei, wird die in der Datei
 *\_Kompetenz_Erlaeuterung.rtm* aufgeführte Legende ausgegeben. Diese
 Datei lässt sich vom Report-Explorer aus aufrufen und bearbeiten.
 
-### Die "Frei definierbare Zeugnisrubrik"
+## Die "Frei definierbare Zeugnisrubrik"
 
 ![SchILD_Tutorials_GS_Ankreuzzeugnisse_FreiDefinierbaresSonstiges.png](../../graphics/SchILD_Tutorials_GS_Ankreuzzeugnisse_FreiDefinierbaresSonstiges.png)
 
@@ -125,7 +131,7 @@ Kompetenzen nun über das Pseudo-**Fach** *Sonstiges* wie üblich erzeugt
 werden.Auch hier lassen sich Zeilenumbrüche mit einem **\#** erzwingen (siehe
 das Unterkapitel unten).  
 
-### Zeilenumbrüche
+## Zeilenumbrüche
 
 ![SchILD_Tutorials_GS_Ankreuzzeugnisse_Zeilenumbruch.png](../../graphics/SchILD_Tutorials_GS_Ankreuzzeugnisse_Zeilenumbruch.png)
 
@@ -137,7 +143,9 @@ vorgestellt wird.
 Ebenso kann in den *Beschreibungen der Kompetenzstufen* ein zweizeiliger
 Eintrag mit erzwungenem Zeilenumbruch gesetzt werden.
 
-## Kompetenzen über Leistungsdaten zuweisenDamit Ankreuzkompetenzen zugewiesen werden können, müssen zuerst die
+## Kompetenzen über Leistungsdaten zuweisen
+
+Damit Ankreuzkompetenzen zugewiesen werden können, müssen zuerst die
 Fächer in den individuellen Leistungsdaten bei den Schülern hinzugefügt
 worden sein. Dies geht individuell über *Schüler ➜ Akt. Halbjahr ➜
 Leistungsdaten* oder besser und für große Schülergruppen, zum Beispiel

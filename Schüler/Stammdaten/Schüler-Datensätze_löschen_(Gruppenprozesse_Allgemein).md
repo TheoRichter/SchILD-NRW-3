@@ -1,4 +1,6 @@
-# Schüler-Datensätze löschen (Gruppenprozesse Allgemein)Um Schüler in SchILD-NRW dauerhaft zu löschen, werden diese erst in der
+# Schüler-Datensätze löschen (Gruppenprozesse Allgemein)
+
+Um Schüler in SchILD-NRW dauerhaft zu löschen, werden diese erst in der
 *Schüler*-Übersicht mit dem "**-**" aus dem Container entfernt.Dann sind diese aber noch nicht aus der Datenbank entfernt, sondern
 werden lediglich mit einem *Löschvermerk* versehen.
 

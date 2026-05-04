@@ -20,7 +20,9 @@ Beginn des Sprachenlernens in der Laufbahninfo neu eingetragen.
 werden können, müssen sie als *Fremdsprache* markiert sein.Dazu muss unter *Kataloge ➜ Unterrichtsfächer ➜ Sonstige Einstellungen*
 der Haken bei **Fremdsprache** gesetzt sein.  
 
-## Mit Überschreiben vorhandener DatenHierbei werden alle vorhandenen Einträge ignoriert und die Sprachenfolge
+## Mit Überschreiben vorhandener Daten
+
+Hierbei werden alle vorhandenen Einträge ignoriert und die Sprachenfolge
 so übernommen, wie sie in den Leistungsdaten vorhanden sind.
 
 Dieses kann bei Schülerinnen und Schülern, die später auf die Schule
@@ -31,7 +33,9 @@ SchILD-NRW die Leistungsdaten der Klassen 5 - 7 nicht vorhanden.
 Dieser Schüler würde dann in der Sprachenfolge zum Beispiel Franzöisch
 erst ab Klasse 8 vorliegen haben.
 
-## Ohne Überschreiben vorhandener DatenWählt man diese Option, werden vorhandene Einträge nicht gelöscht,
+## Ohne Überschreiben vorhandener Daten
+
+Wählt man diese Option, werden vorhandene Einträge nicht gelöscht,
 sondern nur ergänzt.So wird der Abschluss einer Fremdsprache mit dem richtigen Halbjahr
 eingetragen, wenn dort vorher keine Angabe war.Fremdspracheneinträge, die nicht in den Leistungsdaten auftauchen,
 werden nicht verändert.

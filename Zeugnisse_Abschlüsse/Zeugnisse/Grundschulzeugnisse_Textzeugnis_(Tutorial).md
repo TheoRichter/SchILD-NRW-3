@@ -1,4 +1,6 @@
-# Grundschulzeugnisse Textzeugnis (Tutorial)Schließen Sie die
+# Grundschulzeugnisse Textzeugnis (Tutorial)
+
+Schließen Sie die
 
 WIKILINK: Grundschulzeugnisse_Vorbereitung_für_Text-_und_Ankreuzzeugnisse_(Tutorial)
 in ihrer Schule ab.
@@ -37,7 +39,7 @@ definieren und es kann noch ein **Niveau** festgelegt werden.Auch während der E
 werden.Einen gesetzten Filter können Sie entfernen, indem Sie den Eintrag im
 Feld *markieren* und dann die `Entf`-Taste drücken.
 
-### Import und Export
+## Import und Export
 
 ![SchILD_Tutorials_GS_Ankreuzzeugnisse_Import.png](../../graphics/SchILD_Tutorials_GS_Ankreuzzeugnisse_Import.png)
 
@@ -75,7 +77,9 @@ eingegeben. Hier werden die Floskeln des Jahrgangs *E2* verwendet.-   Sie könne
 
 
 
-## Zeugnisse herunterladenLaden Sie die Textzeugnisse herunter und legen Sie diese im
+## Zeugnisse herunterladen
+
+Laden Sie die Textzeugnisse herunter und legen Sie diese im
 SVWS-Arbeitsverzeichnis ab, wie es im Wiki-Artikel zur Vorbereitung des
 Zeugnisdrucks beschrieben ist.
 
@@ -90,9 +94,9 @@ werden.Dazu muss in SchILD die Auswahl **zieldifferentes Lernen** unter
 
   
 
-## Eingabe von Floskeln
+# Eingabe von Floskeln
 
-### Fachleistungen
+## Fachleistungen
 
 ![SchILD_Tutorials_GS_Floskelzeugnisse_FloskelnNutzen.png](../../graphics/SchILD_Tutorials_GS_Floskelzeugnisse_FloskelnNutzen.png)
 
@@ -126,13 +130,14 @@ Wurden Floskeln definiert, können diese auch in externen Tools verwendet
 
 werden, zum Beispiel in SchILDweb oder dem Externen Notenmodul.**BETA: Das Notenmodul steht noch nicht zur Verfügung.**   
 
-### Bemerkungen
+## Bemerkungen
 
 ![SchILD_Tutorials_GS_Floskelzeugnisse_Bemerkungen.png](../../graphics/SchILD_Tutorials_GS_Floskelzeugnisse_Bemerkungen.png)
 
  Unter Akt. Halbjahr Bemerkungen werden durch die
 Klassenleitung oder Schulleitung an oder nach der Zeugniskonferenz noch
-weitere Bemerkungen gesetzt.Weitere Bemerkungen sind zu diesen Feldern möglich:-   **Arbeits- und Sozialverhalten**
+weitere Bemerkungen gesetzt.Weitere Bemerkungen sind zu diesen Feldern möglich:
+-   **Arbeits- und Sozialverhalten**
 -   **Lern- und Leistungsfortschritt**
 -   **Außerunterrichtlichem Engagement**
 -   **Förderschwerpunkt**Weiterhin werden im Zuge von Versetzungen oder auch zum Abschluss von
@@ -178,7 +183,8 @@ des 1. Halbjahres von Jahrgang 4 die **Übergangsempfehlungen**
 eingetragen.Tragen Sie unter dem Bemerkungsfeld **Empfehlung für die Fortsetzung der
 Schullaufbahn** an dieser Stelle eine eventuelle Erläuterung ein.  
 
-### Ankreuzkompetenzen von ASV im Jahrgang 4Mitunter wird das *Arbeits- und Sozialverhalten* im Jahrgang 4 über
+## Ankreuzkompetenzen von ASV im Jahrgang 4
+Mitunter wird das *Arbeits- und Sozialverhalten* im Jahrgang 4 über
 Ankreuzkompetenzen ausgegeben.In diesem Fall wird das ASV nicht über einen Text erfasst, sondern über
 die Kompetenzen erfasst. Das *Hybridzeugnis* ist in der Lage, diese
 Situation bei Vorhandensein entsprechender Daten zu verarbeiten. Sollen

@@ -1,4 +1,6 @@
-# Fächer# AnsichtHier werden die Fächer mit ihren in SchildNRW hinterlegten Eigenschaften
+# Fächer# Ansicht
+
+Hier werden die Fächer mit ihren in SchildNRW hinterlegten Eigenschaften
 angezeigt. Diese können hier auch berarbeitet werden.  
 
 ## Reihenfolge

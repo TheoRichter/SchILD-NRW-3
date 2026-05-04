@@ -1,4 +1,5 @@
-# Personengruppen (Schulbezogene Kataloge)Hier angelegten **Personengruppen** können beliebige Personen zugewiesen
+# Personengruppen (Schulbezogene Kataloge)Hier angelegten 
+**Personengruppen** können beliebige Personen zugewiesen
 werden, bei denen es sich nicht um Schülerinnen und Schüler, Eltern oder
 Lehrkräfte handeln muss. So können weitere Beschäftigte der Schule
 verwaltet werden als auch weitere Personen, deren Kontaktdaten für die
@@ -46,7 +47,9 @@ direkt *Personengruppen* definiert werden.
 
 Diese Gruppen werden dann mit den Kontaktdaten von *Personen* befüllt.    
 
-## Bearbeiten von PersonengruppenDurch einen Doppelklick in das entsprechende Feld in der Übersicht *Alle
+## Bearbeiten von Personengruppen
+
+Durch einen Doppelklick in das entsprechende Feld in der Übersicht *Alle
 Gruppen* kann die Bezeichnung bereits angelegter Personengruppen
 geändert werden.Ebenso können Details der Personengruppe geändert werden, indem diese
 Gruppe durch einen Klick auf das "**+**" neben dem Gruppennamen

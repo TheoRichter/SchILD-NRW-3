@@ -1,4 +1,4 @@
-# Hinweise für IT-
+# Hinweise für IT
 
 DienstleisterDer folgenden Artikel beinhaltet Hinweise zur Installation der
 **S**chul**V**er**W**altungs**S**oftware, zu der auch SchILD-NRW 3
@@ -25,7 +25,9 @@ sondern aus vier Programmbausteinen.-   Der SVWS-Server fungiert als Dienstprogr
 
 ## Datenbank und Installation
 
-### Datenbank-SchemataUnter Datenbank-Schema versteht man eine vorstrukturierte, leere
+## Datenbank-Schemata
+
+Unter Datenbank-Schema versteht man eine vorstrukturierte, leere
 Datenbank. In der leeren Datenbank sind also schon alle Tabellen und
 deren Abhängigkeiten angelegt, jedoch noch keine Daten enthalten.In einer MariaDB können mehrere Schemata liegen, die dann einer
 einzelnen SVWS-Datenbank einer Schule entsprechen, auf die dann mit dem
@@ -33,7 +35,8 @@ SchILD-Client zugegriffen werden kann.In großen Systemen, etwa kommunalen Reche
 Rechenzentren, könnten noch weitere Schemata in der MariaDB laufen, die
 dann anderen Schulen gehören oder gar nichts mit Schulen zu tun haben.
 
-### Die unterschiedlichen Nutzer-   Ein *Root-Benutzer* ist ein Super-Administrator-Zugang auf den
+## Die unterschiedlichen Nutzer
+-   Ein *Root-Benutzer* ist ein Super-Administrator-Zugang auf den
     MariaDB-Server. Er hat Zugriffsrechte auf alle Datenbanken, kann
     diese anlegen und löschen. Er kann beliebige weitere
     Datenbank-Benutzer anlegen. Geht das Root-Kennwort für die MariaDB
@@ -67,7 +70,9 @@ haben sollen!
 
 
 
-### Die OrdnerstrukturUm die Sicherheit des Betriebssystems zu gewährleisten, stattet Windows
+## Die Ordnerstruktur
+
+Um die Sicherheit des Betriebssystems zu gewährleisten, stattet Windows
 die unterschiedlichen Ordner mit unterschiedlichen Rechten aus. Der
 SVWS-Server und SchILD-NRW 3 fügen sich hier in diesem Sinne korrekt
 ein. Für die Benutzung des SVWS-Servers und SchILD-NRW werden vier
@@ -172,7 +177,8 @@ anderen Anwendungen oder Schulen abzuschotten, die ebenfalls auf der
 MariaDB laufen und auch innerhalb von SchILD-NRW Nutzerrechte vergeben
 zu können.
 
-### MariaDB-rootAus Sicht der Datenbank-Administration sind zwei Nutzer relevant: Der
+## MariaDB-root
+Aus Sicht der Datenbank-Administration sind zwei Nutzer relevant: Der
 **Root-Nutzer der MariaDB** dient dazu, einzelne Datenbankschemas - also
 etwas unpräzise einzelne "Schul-Datenbanken" - anzulegen oder zu
 löschen. Zuerst einmal ist ein Schema einfach nur die leere Struktur
@@ -181,7 +187,8 @@ Regelfall der Datenbank einer Schule.Geht dieses Kennwort verloren, laufen die D
 Passwort kann aber weder angesehen noch verändert werden. Es können auch
 keine Schemas neu angelegt oder entfernt werden.Der weitere Nutzer ist der
 
-### Schema-AdminDer **Administrator-User von jedem dieser Schemas**, per Standard wird
+## Schema-Admin
+Der **Administrator-User von jedem dieser Schemas**, per Standard wird
 dieser Nutzer *svwsadmin* genannt, ist aber veränderbar. Für mehrere
 Schemas können unterschiedliche svws-Admins angelegt werden, es können
 aber auch mehrere Datenbanken von einem solchen Nutzer verwaltet werden.
@@ -219,7 +226,9 @@ der betroffenen Schule.
 
 
 
-### SchILD-Nutzer (Administrator)**SchILD-Nutzer mit ihren Rechten** sind für Schulträger/IT nur bedingt
+## SchILD-Nutzer (Administrator)
+
+**SchILD-Nutzer mit ihren Rechten** sind für Schulträger/IT nur bedingt
 relevant. In der Regel dürfte sich die IT einen Administrator-Nutzer in
 SchILD-NRW anlegen, so dass im Zweifel Benutzer gesperrt oder neu
 angelegt und Kennwörter neu gesetzt werden können, ohne manuell in der

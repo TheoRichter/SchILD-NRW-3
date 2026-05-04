@@ -1,4 +1,8 @@
-# Abiturjahrgänge einrichten# Einrichtung der JahrgängeDurch "+" können die aktiven Jahrgangsstufen der Oberstufe sowie eine
+# Abiturjahrgänge einrichten
+
+## Einrichtung der Jahrgänge
+
+Durch "+" können die aktiven Jahrgangsstufen der Oberstufe sowie eine
 ggf. neu zu planende EF hinzugefügt werden. 
 
 ![SVWS_Oberstufe_Jahrganganlegen_1.png](../../graphics/SVWS_Oberstufe_Jahrganganlegen_1.png)

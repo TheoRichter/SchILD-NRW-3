@@ -71,7 +71,7 @@ Schüler, die *weder evangelisch noch katholisch* sind.Dementsprechend können z
 werden, die nicht in der 3a sind sind oder auch alle, die keine deutsche
 Staatsangehörigkeit haben usw.  
 
-### Suche nach Inhalten vergangener Lernabschnitte
+## Suche nach Inhalten vergangener Lernabschnitte
 
 ![Auswahl_Filter_I_5.png](../../graphics/Auswahl_Filter_I_5.png)
 

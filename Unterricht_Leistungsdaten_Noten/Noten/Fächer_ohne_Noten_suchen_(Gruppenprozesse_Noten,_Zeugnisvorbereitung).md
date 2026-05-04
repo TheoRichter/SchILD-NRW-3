@@ -1,4 +1,6 @@
-# Fächer ohne Noten suchen (Gruppenprozesse Noten, Zeugnisvorbereitung)Über den Menüpunkt **Fächer ohne Noten suchen** kann im aktuellen
+# Fächer ohne Noten suchen (Gruppenprozesse Noten, Zeugnisvorbereitung)
+
+Über den Menüpunkt **Fächer ohne Noten suchen** kann im aktuellen
 Abschnitt nach Fächern ohne Noteneintrag gesucht werden. Es empfiehlt
 sich, diesen Gruppenprozess vor den Laufbahnkonferenzen, insbesondere
 vor den Zeugniskonferenzen bzw. dem Zeugnisdruck selbst, zu starten, um

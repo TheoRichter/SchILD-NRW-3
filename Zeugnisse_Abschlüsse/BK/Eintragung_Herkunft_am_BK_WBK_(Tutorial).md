@@ -5,7 +5,9 @@
  Tragen Sie die Herkunft der Schüler mit den bekannten Daten
 unter *Schüler* ➜ **Schulbesuch** ein.
 
-### Schulen aus NRWWenn Sie eine Schule eintragen, wird die Schulnummer automatisch
+## Schulen aus NRW
+
+Wenn Sie eine Schule eintragen, wird die Schulnummer automatisch
 ausgefüllt.Befindet sich eine Schule nicht im Dropdown-Menü zur Auswahl, lässt sich
 über das **+** neben dem Dropdown Menü der Katalog mit den Schulnummern
 von Schulen in NRW öffnen.Sie gelangen auf den Katalog, der auch über *Kataloge ➜ Schulen in NRW*
@@ -17,7 +19,7 @@ auswählbar.Wählen Sie die Schule in **Schulbesuch** an und tragen Sie die Date
 ein.Fügen Sie dann die Schule mit einem Klick auf den Rechtspfeil (➜) der
 Liste *Alle bisher besuchten Schulen* ein.  
 
-### Schulen außerhalb von NRW
+## Schulen außerhalb von NRW
 
 ![SchILD_Tutorials_BK_Herkunft_AndereSchule.png](../../graphics/SchILD_Tutorials_BK_Herkunft_AndereSchule.png)
 
@@ -26,7 +28,7 @@ Liste *Alle bisher besuchten Schulen* ein.
 einen passenden Eintrag in Ihre Kataloglist.Zur Auswahl stehen hier die Bundesländer, *Schule aus den Niederlanden*,
 *Schule aus dem sonstigen Ausland* und *Sonstige/keine Schule*.
 
-### Unbekannte Herkunft
+## Unbekannte Herkunft
 
 Die letzte Schulnummer kann auch für *unbekannte Herkunft* verwendet
 werden. Füllen Sie hierbei alle bekannten Daten aus und lassen Sie die

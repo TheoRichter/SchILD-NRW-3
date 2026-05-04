@@ -14,9 +14,8 @@ Reiters beziehungsweise der zugehörigen Gruppenprozesse.
 
 
 
-Der Ablauf ist, dass-   zuerst über **Leistungsdaten holen** die Leistungsdaten gehol
-
-t
+Der Ablauf ist, dass
+-   zuerst über **Leistungsdaten holen** die Leistungsdaten geholt
     werden.
 -   Anschließend werden die Kurse algorithmisch markiert, SchILD
     versucht, möglichst positive Kurse einzubringen. Anschließend wird

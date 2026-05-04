@@ -39,7 +39,8 @@ Die beiden Einträge zur **Bezeichnung** geben die männliche und
 weibliche Form der erreichten Berufsbezeichnung an.
 
 Das Feld **DQR-Niveau** enthält eine Zahl, die eines von acht Niveaus
-kenntlich macht. Hier ein Zitat von der Webseite des [deutschenQualifikationsrahmen für lebenslanges Lernen](https://www.dqr.de):`Der DQR beschreibt acht Kompetenzniveaus, denen sich die Qualifikationen des deutschen Bildungssystems zuordnen lassen. Jedem Niveau ist ein kurzer Text vorangestellt, der die Anforderungsstruktur des jeweiligen Niveaus beschreibt. [...] Dabei geht es vor allem darum [...] mit Komplexität und unvorhersehbaren Veränderungen umzugehen, und mit welchem Grad von Selbständigkeit sie in einem beruflichen Tätigkeitsfeld oder in einem wissenschaftlichen Fach agieren können. (Abgerufen 18.06.2024)`Im Bereich **Lernfelder** ist ein frei editierbares Feld enthalten, das
+kenntlich macht. Hier ein Zitat von der Webseite des [deutschenQualifikationsrahmen für lebenslanges Lernen](https://www.dqr.de):
+`Der DQR beschreibt acht Kompetenzniveaus, denen sich die Qualifikationen des deutschen Bildungssystems zuordnen lassen. Jedem Niveau ist ein kurzer Text vorangestellt, der die Anforderungsstruktur des jeweiligen Niveaus beschreibt. [...] Dabei geht es vor allem darum [...] mit Komplexität und unvorhersehbaren Veränderungen umzugehen, und mit welchem Grad von Selbständigkeit sie in einem beruflichen Tätigkeitsfeld oder in einem wissenschaftlichen Fach agieren können. (Abgerufen 18.06.2024)`Im Bereich **Lernfelder** ist ein frei editierbares Feld enthalten, das
 mit Informationen aus den Bildungsplänen ohne konkrete strukturelle
 Vorgabe zu befüllen ist. Die Bildungspläne sind auf den einschlägigen
 Webseiten, etwa der [QuaLis](https://www.berufsbildung.nrw.de/),

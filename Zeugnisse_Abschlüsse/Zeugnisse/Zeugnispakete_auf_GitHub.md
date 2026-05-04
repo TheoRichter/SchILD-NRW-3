@@ -1,6 +1,8 @@
 # Zeugnispakete auf GitHub
 
-## Zeugnispakete auf GitHubFür SchILD-NRW 3 werden alle Zeugnisse als ZIP-Paketdatei auf GitHub
+## Zeugnispakete auf GitHub
+
+Für SchILD-NRW 3 werden alle Zeugnisse als ZIP-Paketdatei auf GitHub
 angeboten. Sie finden die Zeugnispakete im jeweiligen
 schulformspezifischen Releas-Bereich. Zu jeder Veröffentlichung
 (Release) finden Sie dort auch eine Änderungshistorie anhand derer Sie

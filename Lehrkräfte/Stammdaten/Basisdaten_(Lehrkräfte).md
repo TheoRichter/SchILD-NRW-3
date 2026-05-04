@@ -1,9 +1,11 @@
-# Basisdaten (Lehrkräfte)Auf diesem Karteireiter werden die Stammdaten der Lehrerinnen und Lehrer
+# Basisdaten (Lehrkräfte)
+
+Auf diesem Karteireiter werden die Stammdaten der Lehrerinnen und Lehrer
 verwaltet. Der Reiter gliedert sich in drei Bereiche, die
 Individualdaten, die Kontaktdaten und die für die Statistik relevanten
 Daten.
 
-### Individualdaten
+## Individualdaten
 
 ![Schild_Lehrkräfte_Basisdaten_Individualdaten.png](../../graphics/Schild_Lehrkräfte_Basisdaten_Individualdaten.png)
 
@@ -42,7 +44,7 @@ Notation erwarten (Beispiel: "D,E,PH").Geben Sie *Lehrbefähigungen* aber besser
 sauber unter den *Schulbezogenen Daten* ein, dort werden diese
 statistisch korrekt und verarbeitbar erfasst.  
 
-### Fotos einbinden
+## Fotos einbinden
 
 ![Schild_Lehrkräfte_Basisdaten_Bearbeitungswerkzeuge.png](../../graphics/Schild_Lehrkräfte_Basisdaten_Bearbeitungswerkzeuge.png)
 

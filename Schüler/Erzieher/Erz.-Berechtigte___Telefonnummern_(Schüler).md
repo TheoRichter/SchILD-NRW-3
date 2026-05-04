@@ -35,7 +35,9 @@ Hausnummer*, *Adresszusatz*, *Bemerkungen* und die Festlegung, ob
 Die zur Auswahl stehenden *Erzieherarten* werden über den entsprechenden
 *Katalog* eingestellt.
 
-## TelefonnummernIn dieser Auflistung können unabhängig von den obigen
+## Telefonnummern
+
+In dieser Auflistung können unabhängig von den obigen
 Erziehungsberechtigten Telefonnummern zu verschiedenen Ansprechpartnern
 erfasst werden.Ein Eintrag umfasst dabei die Angaben *Ansprechpartner*,
 *Telefonnummer*, ein Kennzeichen, ob diese Telefonnummer *Gesperrt* ist

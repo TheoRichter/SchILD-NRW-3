@@ -1,4 +1,5 @@
-# Abschlussnoten in Leistungsdaten übertragen(Gruppenprozesse BK-Abschluss)Wurden die endgültigen Abschlussnoten im Reiter *Schüler* ➜
+# Abschlussnoten in Leistungsdaten übertragen(Gruppenprozesse BK-Abschluss)
+Wurden die endgültigen Abschlussnoten im Reiter *Schüler* ➜
 **BK-Abschluss** endgültig geprüft und festgelegt, lassen sich diese
 Noten in die Leistungsdaten zurück übertragen.
 

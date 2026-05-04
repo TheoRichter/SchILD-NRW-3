@@ -1,4 +1,6 @@
-# Datenbank importieren (aus SQLite) (Verwaltung Datenbank)Liegt eine SQLite-Datenbank für SchILD-NRW3 vor, kann diese in das
+# Datenbank importieren (aus SQLite) (Verwaltung Datenbank)
+
+Liegt eine SQLite-Datenbank für SchILD-NRW3 vor, kann diese in das
 aktuelle, ein anderes oder auch ein neues Schema importiert werden.Hierzu wird das Root-Password des MariaDB-Servers benötigt. Diese Option
 erlaubt es zum Beispiel, eine existierende Datenbank auf in einen neuen
 MariaDB-Server einzuspielen oder ein System mit mehreren Datenbanken

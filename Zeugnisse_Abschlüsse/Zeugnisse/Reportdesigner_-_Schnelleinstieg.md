@@ -1,4 +1,5 @@
-# Reportdesigner - Schnelleinstieg\_\_NOTOC\_\_
+# Reportdesigner
+ - Schnelleinstieg\_\_NOTOC\_\_
 
 ## Überblick
 Mit dem Reportdesigner von SchILD-NRW 3 können Sie ***Listen,
@@ -12,7 +13,7 @@ erweitern oder programmieren möchten.
 
 ## Themenbereiche
 
-### 📦Basisreports & Downloads
+## 📦Basisreports & Downloads
 
 WIKILINK: Basisreportsammlung:_Herunterladen_und_aktualisieren
 
@@ -20,7 +21,7 @@ WIKILINK: Basisreportsammlung:_Ein_Überblick➡️
 
 WIKILINK: Basisreports_&_Downloads_Themenübersicht
 
-### 🎓Zeugnisdruck
+## 🎓Zeugnisdruck
 
 WIKILINK: Zeugnisformulare_herunterladen_und_aktualisieren
 
@@ -28,7 +29,7 @@ WIKILINK: Inhalt_&_Layout_von_Zeugnissen_konfigurieren
 
 WIKILINK: Zeugnisse_Themenübersicht
 
-### 📁Reportverwaltung, Reportverwendung & Einstellungen
+## 📁Reportverwaltung, Reportverwendung & Einstellungen
 
 WIKILINK: Reports_über_den_Schnellzugriff_aufrufen
 
@@ -44,13 +45,14 @@ WIKILINK: Einen_vorhandenen_Report_anpassen
 
 WIKILINK: Reports_erstellen_&_anpassen_Themenübersicht
 
-### ⚙️Programmierung & Sonderlogik-  
+## ⚙️Programmierung & Sonderlogik
+
 [Programmierung in Reports](../../Export_Import_Schnittstellen/Export/Programmierung_in_Reports.md)
 -   [RAP-Funktionen](../../Export_Import_Schnittstellen/Export/RAP-Funktionen.md)➡️ 
 
 WIKILINK: Programmierung_&_Sonderlogik_Themenübersicht
 
-### 💡Hilfe & Wissen
+## 💡Hilfe & Wissen
 
 [Glossar zum Reportdesigner](../../Export_Import_Schnittstellen/Export/Glossar_zum_Reportdesigner.md)
 

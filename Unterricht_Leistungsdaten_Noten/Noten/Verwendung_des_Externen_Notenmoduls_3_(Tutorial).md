@@ -13,7 +13,8 @@ markiert.
 
 
 
-## Übersicht (für die Artikelplanung)1.  Zuerst müssen die in **Schüler ➜ Akt. Halbjahr ➜ Leistungsdaten**
+## Übersicht (für die Artikelplanung)
+1.  Zuerst müssen die in **Schüler ➜ Akt. Halbjahr ➜ Leistungsdaten**
     (ohne die Noten) der Schüler korrekt befüllt werden, daher es müssen
     alle Fächer mit den *aktuell korrekten Lehrkräften* eintragen sein.
 2.  Stellen Sie sicher, dass alle Lehrkräfte Initialkennworte gesetzt

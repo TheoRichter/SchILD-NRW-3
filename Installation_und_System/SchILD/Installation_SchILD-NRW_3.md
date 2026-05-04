@@ -29,7 +29,9 @@ SVWS-Server und teilweise direkt auf die MariaDB zu.Es wird eine Installationsda
 Installationsprogramm installiert SchILD-NRW 3 und stellt eine
 Verknüpfung zur MariaDB her.
 
-## EinzelplatzinstallationIm Folgenden wird die Installation von SchILD-NRW3 auf einem
+## Einzelplatzinstallation
+
+Im Folgenden wird die Installation von SchILD-NRW3 auf einem
 Einzelplatzrechner vorgestellt. In produktiven Schulumgebungen wird
 diese Form der Installation eher selten vorkommen.Insbesondere in der Entwicklungsphase bietet diese Installation eine
 einfache und schnelle Möglichkeit, das Programm zu testen. Die neuste
@@ -38,7 +40,7 @@ Version kann unter GitHub heruntergeladen werden:
 Installation von SchILD-NRW3 sind Administrationsrechte am
 Arbeitsplatz-PC notwendig.
 
-### Installation von SchILD-NRW 3
+## Installation von SchILD-NRW 3
 
 ![Installation_SVWS-Server_Ziel-Ordner.png](../../graphics/Installation_SVWS-Server_Ziel-Ordner.png)
 
@@ -67,7 +69,7 @@ die Schaltfläche `Weiter`.SchILD-NRW 3 wird nun installiert. Ein Hinweisfenster
 über die erfolgreiche Installation und den Aufruf eines externen
 Programms zur Einrichtung der Konfigurationsdatei.
 
-#### Die Konfigurationsdatei (auch mit SchILD_DBConfig.exe)
+## Die Konfigurationsdatei (auch mit SchILD_DBConfig.exe)
 
 ![Installation_Schild3_Konfigurationsdatei_Einstellungen.png](../../graphics/Installation_Schild3_Konfigurationsdatei_Einstellungen.png)
 
@@ -132,17 +134,23 @@ Schaltfläche `Datei speichern`. Sie werden über ein Hinweisfenster
 darüber informiert, dass die Konfigurationsdatei gespeichert wurde.
 Klicken Sie zum Abschluss auf die Schaltfläche `Schließen`.
 
-### Start von SchILD-NRW 3SchILD-NRW 3 kann wie gewohnt über einen Doppelklick auf das
+# Start von SchILD-NRW 3
+
+SchILD-NRW 3 kann wie gewohnt über einen Doppelklick auf das
 Desktopsymbol oder über einen Einfachklick auf das Symbol im Startmenü
 gestartet werden. Für den Zugriff auf das Programm müssen Sie sich als
 SchILD-Benutzer anmelden. Verwenden Sie hier die gleichen Zugangsdaten,
 die sie auch beim Start in SchILD-NRW 2 verwendet haben.
 
-### Update des ProgrammsEin Update von SchILD-NRW 3 erfolgt am einfachsten, indem man die
+# Update des Programms
+
+Ein Update von SchILD-NRW 3 erfolgt am einfachsten, indem man die
 ZIP-Version in das bestehende Installationsverzeichnis entpackt und die
 dortigen Dateien überschreibt.
 
-### Deinstallieren der ProgrammeInsbesondere in der Testphase kann es vorkommen, dass aufgrund von
+## Deinstallieren der Programme
+
+Insbesondere in der Testphase kann es vorkommen, dass aufgrund von
 Änderungen der Datenbankstruktur eine Neuinstallation des SVWS-Servers
 und des Programms SchILD-NRW 3 notwendig ist.In der Testphase stellen wir eine Batch-Datei zur Verfügung, welche eine
 vollständige Deinstallation des SVWS-Servers gewährleistet. Diese
@@ -170,6 +178,8 @@ eintippen, oder in der Ansicht des Datei-Explorers ausgeblendete
 Elemente anzeigen lassen. Um die Ordner löschen zu können sind
 Admin-Rechte notwendig.
 
-## Testen und melden von Fehlern in SchILD-NRW 3Unter dieser Adresse ist ein Ticketsystem bei GitHUB zugänglich:<https://github.com/SVWS-NRW/Schild3-BetaTest/issues>Um Issues zu kommentieren oder zu erstellen benötigen Sie einen
+## Testen und melden von Fehlern in SchILD-NRW 3
+
+Unter dieser Adresse ist ein Ticketsystem bei GitHUB zugänglich:<https://github.com/SVWS-NRW/Schild3-BetaTest/issues>Um Issues zu kommentieren oder zu erstellen benötigen Sie einen
 kostenlosen GitHUB-Account.Bitte beachten Sie, dass Sie zunächst die bestehenden Issues ansehen,
 bevor Issues doppelt angelegt werden.Beschreiben Sie den Fehler bitte so genau, wie möglich.

@@ -12,7 +12,8 @@ Bei der **Sortierung** kann gewählt werden, ob erst nach *Fach* und dann
 nach *Name* oder erst nach *Name* und dann nach *Fach* sortiert wird.
 
 Dieser erste Fall ist im Screenshot zu sehen. Im zweiten Fall könnte die
-Liste so aufgebaut sein:` Adam, Melanie, D`  
+Liste so aufgebaut sein:
+` Adam, Melanie, D`  
 ` Adam, Melanie, E`  
 ` Adam, Melanie, M`  
 ` Adams, Jessica, D`  

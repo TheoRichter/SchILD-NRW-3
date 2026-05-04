@@ -1,4 +1,6 @@
-# Teilleistungs-Arten (Schulbezogene Kataloge)**Teilleistungen** dienen zur Erfassung aller Leistungen von
+# Teilleistungs-Arten (Schulbezogene Kataloge)
+
+**Teilleistungen** dienen zur Erfassung aller Leistungen von
 Schülerinnen und Schülern, die keine Zeugnisnoten sind, die aber
 entweder mit dauerhaft erfasst werden sollen oder die zur Weiterarbeit
 in anderen Prozessen nützlich sind.
@@ -23,7 +25,9 @@ Die Einträge in der Spalte **Sortierung** sollten nicht manuell
 verändert werden, da es sonst zu ungewünschten bzw. unerwarteten
 Sortierungen kommt.Eine individuelle Sortierung wird im nächsten Abschnitt erläutert.  
 
-## Sortierung der TeilleistungsartenBei Verwendung der **Sortierung** "Teilleistungsart" sortiert das
+## Sortierung der Teilleistungsarten
+
+Bei Verwendung der **Sortierung** "Teilleistungsart" sortiert das
 Programm alphabetisch, wobei alle Großbuchstaben vor den Kleinbuchstaben
 einsortiert werden.In dieser Reihenfolge werden die Teilleistungen auch in den
 entsprechenden Reports sortiert.
@@ -37,10 +41,14 @@ Die Pfeile am linken Rand werden damit aktiviert und erlauben eine
 individuelle Reihenfolge, die so auch in Reports abgerufen werden kann.Im Screenshot dargestellt ist die Verschiebung der neu angelegten
 Teilleistungsart "KA 2" ("Klassenarbeit 2").  
 
-## Bearbeiten von TeilleistungsartenDurch einen Doppelklick in das entsprechende Feld in der Spalte
+## Bearbeiten von Teilleistungsarten
+
+Durch einen Doppelklick in das entsprechende Feld in der Spalte
 "Teilleistungsart" kann die Bezeichnung bereits angelegter
 Teilleistungsarten geändert werden.Ein Klick auf das `-` löscht die angelegte Teilleistungsart nach
 Bestätigung einer Dialogabfrage.  
 
-## Export in eine Excel-TabelleDurch Klick auf **Excel-Export** und `Speichern` im folgenden Fenster
+## Export in eine Excel-Tabelle
+
+Durch Klick auf **Excel-Export** und `Speichern` im folgenden Fenster
 kann die aktuelle Ansicht in eine Excel-Tabelle exportiert werden.

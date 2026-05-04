@@ -32,7 +32,7 @@ entfernt werden.
 
   
 
-### Allgemeine Angaben
+## Allgemeine Angaben
 
 ![SchILD_Schueler_AktHalbj_Allgemein_4.png](../../graphics/SchILD_Schueler_AktHalbj_Allgemein_4.png)
 
@@ -77,7 +77,7 @@ Achten Sie bitte auf eine statistikkonforme Eintragung.Unten in diesem Detailblo
 *Gesellschaftswissenschaften* und *Naturwissenschaften* erfasst.Sofern ein **Bilingualer Zweig** vorliegt, wird dieser im entsprechenden
 Feld vermerkt.  
 
-#### Fehlstunden
+## Fehlstunden
 
 Die Fehlstunden werden über die gesamten Fehlstunden (**Ges.Fehlsdt.**)
 und die unentschuldigten Fehlstunden (**Unentschuldigt**) erfasst. Diese
@@ -91,7 +91,7 @@ DEADLINK: Fehlzeiten - Fehlzeiten_(Aktuelles_Halbjahr_/_Aktueller_Abschnitt.md
 
 .  
 
-### Allgemeine Angaben II
+## Allgemeine Angaben II
 
 ![SchILD_Schueler_AktHalbj_AllgemeineAngabenII.png](../../graphics/SchILD_Schueler_AktHalbj_AllgemeineAngabenII.png)
 
@@ -100,7 +100,7 @@ An Berufskollegs finde sich hier das Feld *Allgemeine Angaben II* zur
 eingetragen. Die Schwerpunkte werden über *Kataloge ➜ Schwerpunkt*
 definiert.  
 
-### Vor- und Rücktritt im laufenden Schuljahr
+## Vor- und Rücktritt im laufenden Schuljahr
 
 ![SchILD_Schueler_AktHalbj_Allgemein_7.png](../../graphics/SchILD_Schueler_AktHalbj_Allgemein_7.png)
 
@@ -138,7 +138,7 @@ Wechsel)"* gekennzeichnet ist.
  Über den *Schülerfilter* lassen sich Rücktritte im
 laufenden Schuljahr finden.  
 
-### Zeugnis/Abschluss
+## Zeugnis/Abschluss
 
 ![SchILD_Schueler_AktHalbj_Allgemein_8.png](../../graphics/SchILD_Schueler_AktHalbj_Allgemein_8.png)
 

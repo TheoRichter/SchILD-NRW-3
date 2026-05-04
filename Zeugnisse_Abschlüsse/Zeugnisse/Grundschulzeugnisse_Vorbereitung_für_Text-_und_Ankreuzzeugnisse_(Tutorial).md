@@ -1,4 +1,5 @@
-# Grundschulzeugnisse Vorbereitung für Text- und Ankreuzzeugnisse (Tutorial) Damit Leistungsdaten für die Grundschule erhoben werden
+# Grundschulzeugnisse Vorbereitung für Text- und Ankreuzzeugnisse (Tutorial)
+Damit Leistungsdaten für die Grundschule erhoben werden
 können, um *Textzeugnisse*, *Ankreuzzeugnisse* oder *Lernstandsberichte*
 mit den bereitgestellten Formularen erzeugt werden können, müssen in
 SchILD-NRW einige Vorbereitungen getroffen werden.
@@ -40,7 +41,9 @@ zu wählen, da hierüber eingestellt wird, wie die Fächer auf dem Zeugnis
 gruppiert werden.Für jedes Fach kann ausgewählt werden, ob bei einem Haken bei *Auf
 Zeugnis* auf dem Zeugnisformular ausgegeben wird.
 
-### BasisfächerTypischerweise sollten mindestens folgende Basisfächer vorhanden sein:-   Deutsch
+## Basisfächer
+Typischerweise sollten mindestens folgende Basisfächer vorhanden sein:
+-   Deutsch
     -   Lesen
     -   Rechtschreibung
     -   Sprachgebrauch
@@ -67,7 +70,7 @@ Teilfächer der Fächergruppe *Sprache* zu.
 
   
 
-### Fächerreihenfolge
+## Fächerreihenfolge
 
 ![SchILD_Tutorials_GS_VorbereitungLeistungsD_Fächerkatalog_Reigenfolge.png](../../graphics/SchILD_Tutorials_GS_VorbereitungLeistungsD_Fächerkatalog_Reigenfolge.png)
 
@@ -138,7 +141,7 @@ einfügen.
 
 
 
-### Sonderfall Religion
+## Sonderfall Religion
 
 ![SchILD_Tutorials_GS_VorbereitungLeistungsD_GP_FächerHinzufügen.png](../../graphics/SchILD_Tutorials_GS_VorbereitungLeistungsD_GP_FächerHinzufügen.png)
 
@@ -173,7 +176,7 @@ werden soll, dann wird der Prozess gestartet.
 
   
 
-### Stundentafeln zuweisen
+## Stundentafeln zuweisen
 
 ![SchILD_Tutorials_GS_VorbereitungLeistungsD_GP_StundentafelnHinzufügen.png](../../graphics/SchILD_Tutorials_GS_VorbereitungLeistungsD_GP_StundentafelnHinzufügen.png)
 
@@ -247,7 +250,9 @@ zu übernehmen.
 den Leistungsdaten der Schüler unter *Schüler ➜ Akt. Halbjahr ➜
 Leistungsdaten*.  
 
-## EinstellungenUm die Eingabe von Noten und Bemerkungen außerhalb des gewünschten
+## Einstellungen
+
+Um die Eingabe von Noten und Bemerkungen außerhalb des gewünschten
 Zeitraums zu sperren, gehen Sie auf ''Verwaltung ➜ Globale Einstellungen
 ➜ Fächer, Noten" und setzen Sie den Haken bei **Noteneingabe
 gesperrt**.  
@@ -258,7 +263,7 @@ gesperrt**.
 
 0 Laden Sie nun die Zeugnisse von der Webseite für 
 
-DEADLINK: desMSB - https://www.svws.nrw.de%7CSchulverwaltungssofte
+DEADLINK: desMSB - https://www.svws.nrw.de/Schulverwaltungssofte
 
 .Sie finden derzeit (Stand der Angabe Juli 2023) unter *Download ➜
 Schild-Reports ➜ Zeugnisformulare* die für Ihre Schulform vorgesehenen
@@ -282,7 +287,8 @@ den Ordner *Schild-Reports* **entpackt** werden.
 
 2    
 
-## Anhang: Konfiguration des Erscheinungsbildes von ZeugnissenNehmen Sie im Rahmen der Vorbereitung von Grundschulzeugnissen den
+## Anhang:
+ Konfiguration des Erscheinungsbildes von ZeugnissenNehmen Sie im Rahmen der Vorbereitung von Grundschulzeugnissen den
 Anhang zur 
 
 WIKILINK: Grundschulzeugnisse_Konfiguration_des_Erscheinungsbildes_von_Zeugnissen_(Tutorial)

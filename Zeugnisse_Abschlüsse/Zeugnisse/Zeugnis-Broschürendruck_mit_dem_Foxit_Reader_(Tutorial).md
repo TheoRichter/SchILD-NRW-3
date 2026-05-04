@@ -13,13 +13,16 @@ A3-Blatt gedruckt werden, zum Beispiel Abschluss- oder Abgangszeugnisse.
 Die konkreten Einstellungen hängen vom verwendeten Druckerhersteller und
 dem jeweiligen Druckertreiber ab.
 
-## Broschürendruck über einen Windows-DruckertreiberWählen Sie für Abschluss- und Abgangszeugnisse im Druckdialog die Option
+## Broschürendruck über einen Windows-Druckertreiber
+
+Wählen Sie für Abschluss- und Abgangszeugnisse im Druckdialog die Option
 *Broschüre* (oder eine entsprechend benannte Einstellung) und stellen
 Sie das Papierformat auf A3 ein.Es wird dann eine Broschüre erzeugt, die nach dem Falten ein A4-Zeugnis
 ergibt. Dabei bilden die Seiten 1 und 4 den äußeren Teil und die Seiten
 2 und 3 den inneren Teil des Zeugnisses.
 
-## Broschürendruck mit dem Foxit-ReaderFür den Broschürendruck mit dem Foxit Reader steht eine separate
+## Broschürendruck mit dem Foxit-Reader
+Für den Broschürendruck mit dem Foxit Reader steht eine separate
 Anleitung zur Verfügung: [Broschürendruck –Anleitung](https://www.svws.nrw.de/system/files/media/document/file/broschuerendruck.pdf)Im Foxit Reader heißt der Broschürendruck *Booklet*. Vergleichbare
 Funktionen werden häufig auch von anderen PDF-Programmen angeboten.
 

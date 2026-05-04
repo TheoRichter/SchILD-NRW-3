@@ -16,7 +16,7 @@ werden.
 
 ## Konfiguration der Kataloge
 
-### Anlegen der Teilleistungen
+## Anlegen der Teilleistungen
 
 ![SchILD_Tutorials_ZP10_Teilleistungsarten.png](../../graphics/SchILD_Tutorials_ZP10_Teilleistungsarten.png)
 
@@ -29,7 +29,7 @@ aber eindeutig und leicht erkennbar gewählt werden. Hier im Beispiel
 wurde die Zuordnung der Teilleistungen durch das Präfix *"ZP 10 "*
 kenntlich gemacht.  
 
-### Unterrichtsfächer konfigurieren
+## Unterrichtsfächer konfigurieren
 
 ![SchILD_Tutorials_ZP10_Unterrichtsfächer.png](../../graphics/SchILD_Tutorials_ZP10_Unterrichtsfächer.png)
 
@@ -38,7 +38,7 @@ Fach, das Teil der ZP 10 oder einer Zentralen Klausur ist.Hierzu kann auch auf e
 Fach ein **Schriftliches Prüfungsfach für ZP 10/ZK** ist.Weiterhin kann angehakt werden, ob nach der Prüfungsordnung eine
 **Nachprüfung** erlaubt ist. Für die ZP 10-Fächer gilt dies.Wiederholen Sie diesen Vorgang für alle relevanten Fächer.  
 
-### Zuweisen der Teilleistungen zu den Fächern
+## Zuweisen der Teilleistungen zu den Fächern
 
 ![SchILD_Tutorials_ZP10_TeilleistungsartenZuordnen.png](../../graphics/SchILD_Tutorials_ZP10_TeilleistungsartenZuordnen.png)
 
@@ -61,7 +61,9 @@ Englisch.
 
 
 
-## Die Teilleistungsarten den Leistungsdaten bei den Schülern zuordnenNun sind die Fächer und Teilleistungsarten für die Schule vorbereitet,
+## Die Teilleistungsarten den Leistungsdaten bei den Schülern zuordnen
+
+Nun sind die Fächer und Teilleistungsarten für die Schule vorbereitet,
 sie müssen jedoch noch den Schülern konkret in ihren Leistungsdaten
 zugewiesen werden, damit die Teilleistungen aufgenommen werden können.
 

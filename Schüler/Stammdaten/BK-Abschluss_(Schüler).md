@@ -1,4 +1,6 @@
-# BK-Abschluss (Schüler)Am BK werden viele Abschlüsse vergeben. Über den Reiter *Schüler ➜*
+# BK-Abschluss (Schüler)
+
+Am BK werden viele Abschlüsse vergeben. Über den Reiter *Schüler ➜*
 **BK-Abschluss** können diese berechnet werden.Noch viel mehr als bei anderen Schulformen gilt, dass das Ergebnis von
 der ausgewählten Schülergruppe abhängt und die Berechnung nur für
 Schülergruppen durchgeführt wird, bei denen die Abschlussberechnung
@@ -26,7 +28,7 @@ Bei der Berechnung des Abschlusses greift SchILD-NRW auf die beim
 Schüler eingetragene *Prüfungsordnung* und gegebenenfalls auf den
 *Jahrgang* zurück, um die jeweiligen Kriterien zu prüfen.
 
-### Leistungsdaten holen
+## Leistungsdaten holen
 
 ![SchILD_Schüler_BK-Abschluss_LeistungsdatenHolen.png](../../graphics/SchILD_Schüler_BK-Abschluss_LeistungsdatenHolen.png)
 
@@ -44,7 +46,7 @@ Teilleistungs-Vornote überschrieben werden.
 
 
 
-### Teilleistungen und Prüfungsnoten
+## Teilleistungen und Prüfungsnoten
 
 ![SchILD_Schüler_BK-Abschluss_PrüfiungTeilleistungen.png](../../graphics/SchILD_Schüler_BK-Abschluss_PrüfiungTeilleistungen.png)
 
@@ -54,7 +56,9 @@ Teilleistungs-Vornote überschrieben werden.
 bei der **Notenart** um eine *schriftliche* oder *mündliche* Note
 handelt.  
 
-### Zulassung berechnenLiegt nach der Prüfungsordnung eine Prüfung an, kann durch einen Klick
+## Zulassung berechnen
+
+Liegt nach der Prüfungsordnung eine Prüfung an, kann durch einen Klick
 auf `Zulassung prüfen` links unter *Zulassung* das Feld **Prüfung** auf
 *Ja* oder *Nein* gesetzt werden.  
 
@@ -67,7 +71,9 @@ der tatsächlichen *Vornote* überschrieben.
 Die Einträge *schriftliche Note* und *mündliche Note* beziehen sich hier
 auf die entsprechenden Prüfungsnoten.  
 
-### Mündliche Prüfungen festlegenÜber die Haken bei **Mdl. Prüfung** und **Mdl. freiw. Prüfung** können
+## Mündliche Prüfungen festlegen
+
+Über die Haken bei **Mdl. Prüfung** und **Mdl. freiw. Prüfung** können
 aufgrund der Prüfungsleistung - nach der jeweiligen Prüfungsordnung
 vorgesehene - notwendige Bestehensprüfungen oder erlaubte freiwillige
 Prüfungen gesetzt werden.Der Schalter `Mündliche Prüfungen festlegen` setzt bei Bedarf den Haken
@@ -75,7 +81,7 @@ bei **Mdl. Prüfung**.Der Haken bei der **Mdl. Prüfung** kann auch per Gruppenp
 eine Prüfung der erbrachten Leistungen für eine Schülergruppe geprüft
 und gesetzt werden.
 
-### Abschluss berechnen
+## Abschluss berechnen
 
 ![SchILD_Schüler_BK-Abschluss_AbschlussBerechnen.png](../../graphics/SchILD_Schüler_BK-Abschluss_AbschlussBerechnen.png)
 
@@ -101,7 +107,9 @@ werden.
  Die Abschlüsse finden Sie dann auch unter *Aktueller
 Abschnitt ➜ Zeugnis/Abschluss*.  
 
-### Anschlussnoten in Leistungsdaten übertragenHaben Sie alle Leistungsdaten im Reiter hinterlegt und die
+## Anschlussnoten in Leistungsdaten übertragen
+
+Haben Sie alle Leistungsdaten im Reiter hinterlegt und die
 **Abschlussnoten** erfasst, klicken Sie auf
 `Abschlussnoten in Leistungsdaten übertragen`. Hierüber werden die Noten
 aus diesem Reiter zurück in den Bereich *Note* des aktuellen Abschnitts

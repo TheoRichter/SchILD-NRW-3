@@ -4,7 +4,9 @@
 
  
 
-### SchülersucheIndem Sie in *Schüler* auf **Suchen** klicken, öffnet sich ein Fenster,
+## Schülersuche
+
+Indem Sie in *Schüler* auf **Suchen** klicken, öffnet sich ein Fenster,
 über das sich Schüler sehr schnell finden lassen.Geben Sie Kriterien wie *Name*, *Vorname*, die *Straße* oder das
 *Geburtsdatum* ein, um sofort alle Schüler angezeigt zu bekommen, auf
 die alle eingegebenen Kriterien zutreffen.Haben Sie eine *Prüfung auf Statistikfehler* durchgeführt, lassen sich

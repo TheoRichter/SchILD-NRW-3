@@ -1,4 +1,6 @@
-# Abschlussnote in Leistungsdaten übertragen (Gruppenprozesse Zentrale Klausuren)Mit dem Gruppenprozess **Abschlussnote in Leistungsdaten übertragen**
+# Abschlussnote in Leistungsdaten übertragen (Gruppenprozesse Zentrale Klausuren)
+
+Mit dem Gruppenprozess **Abschlussnote in Leistungsdaten übertragen**
 wird die fertige und kontrollierte **Abschlussnote** aus dem Reiter
 *Schüler ZP 10/ZK* in die Leistungsdaten des aktuellen Halbjahrs als
 *Note* übertragen.

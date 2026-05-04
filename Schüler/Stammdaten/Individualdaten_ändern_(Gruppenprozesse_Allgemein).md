@@ -1,4 +1,6 @@
-# Individualdaten ändern (Gruppenprozesse Allgemein)Über den *Gruppenprozess* ➜ **Individualdaten ändern** lassen sich die
+# Individualdaten ändern (Gruppenprozesse Allgemein)
+
+Über den *Gruppenprozess* ➜ **Individualdaten ändern** lassen sich die
 personenbezogenen Daten mehrerer Schülerinnen und Schüler zugleich
 verändern.
 

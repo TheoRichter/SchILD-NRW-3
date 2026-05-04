@@ -12,9 +12,9 @@ Dieses lässt sich über *Verwaltung ➜ Einstellungen ➜ Globale
 Einstellungen* mit einem Haken bei **Fachbezogenes Bemerkungsfeld
 zeigen** aktivieren.  
 
-## Projektkurse vorbereiten
+# Projektkurse vorbereiten
 
-### Ein Unterrichtsfach anlegen
+## Ein Unterrichtsfach anlegen
 
 ![SchILD_Tutorials_Projektkurse_Fach.png](../../graphics/SchILD_Tutorials_Projektkurse_Fach.png)
 
@@ -30,7 +30,7 @@ Oberstufe** und **Bei "abgeschlossene Fächer holen" berücksichtigen**
 anzuwählen, da der Projektkurs in der Q1 abgeschlossen wird.Achten Sie auch daran, dass das Fach bei *auf Zeugnis* und *Sichtbar*
 angehakt ist.  
 
-### Den Kurs anlegen
+## Den Kurs anlegen
 
 ![SchILD_Tutorials_Projektkurse_Kurs.png](../../graphics/SchILD_Tutorials_Projektkurse_Kurs.png)
 
@@ -51,9 +51,9 @@ Maustaste ein Kontextmenü aufrufen, um den Kurs zu kopieren. Nun kann er
 in einem anderen Halbjahr, üblicherweise Q1, 2. Halbjahr, eingefügt
 werden.  
 
-## Den Projektkurs verwenden
+# Den Projektkurs verwenden
 
-### Kurs bei Schüler hinzufügen
+## Kurs bei Schüler hinzufügen
 
 ![SchILD_Tutorials_Projektkurse_SchülerKurs.png](../../graphics/SchILD_Tutorials_Projektkurse_SchülerKurs.png)
 
@@ -63,7 +63,7 @@ Kursen auch, zum Beispiel durch Zuordnen per Gruppenprozesse, über die
 Fortschreibungsart beim Abschnittswechsel oder durch einen Import aus
 einem externen Blockungs- und Kursplanungsprogramm.Achten Sie darauf, den Kurs in beiden Halbjahren der Q1 zuzuordnen.  
 
-### Thema der Projektkursarbeit erfassen
+## Thema der Projektkursarbeit erfassen
 
 ![SchILD_Tutorials_Projektkurse_SchülerThema.png](../../graphics/SchILD_Tutorials_Projektkurse_SchülerThema.png)
 
@@ -78,7 +78,7 @@ Q1 zu erfassen.
 
 
 
-### Im Abitur
+## Im Abitur
 
 ![SchILD_Tutorials_Projektkurse_SchülerAbitur.png](../../graphics/SchILD_Tutorials_Projektkurse_SchülerAbitur.png)
 
@@ -87,7 +87,9 @@ Im Zuge des Abiturs können Sie das Thema der Projektkursarbeit unter
 Akt. Halbjahr Leistungsdaten* in der Q1 beim Kurs erfasst, klicken Sie
 auf `Thema ermitteln` um es einzulesen.  
 
-### Note der Projektkursarbeit oder einer Facharbeit erfassenNoten von Projektkursarbeiten und Facharbeiten lassen sich als
+## Note der Projektkursarbeit oder einer Facharbeit erfassen
+
+Noten von Projektkursarbeiten und Facharbeiten lassen sich als
 *Teilleistung* bei den Daten des Faches erfassen.Legen Sie zuerst eine Teilleistung *Projektursarbeit* und/oder
 *Facharbeit* über *Kataloge ➜ Teilleistungsarten* an.Dann können Sie Teilleistungen über *Gruppenprozesse ➜ Teilleistungen* ➜
 **Teilleistungsarten individuell zuweisen** die Teilleistungen

@@ -28,7 +28,7 @@ festgelegt.
 
 
 
-### Unterkategorien
+## Unterkategorien
 
 ![SchILD_Kataloge_Ankreuzkompetenzen_Unterkategorien_Beispiel.png](../../graphics/SchILD_Kataloge_Ankreuzkompetenzen_Unterkategorien_Beispiel.png)
 
@@ -49,7 +49,7 @@ Beispielsweise könnten diese Unterkategorien gesetzt werden:` Lern- und Leis
 ` Zuverlässigkeit und Sorgfalt: ... strukturiert die Arbeits- und Lernprozesse eigenständig.`  
 ` Zuverlässigkeit und Sorgfalt: ... hält sich an vereinbarte Absprachen.`  
 
-### Zeilenumbrüche
+## Zeilenumbrüche
 
 ![SchILD_Kataloge_Ankreuzkompetenzen_Zeilenumbruch.png](../../graphics/SchILD_Kataloge_Ankreuzkompetenzen_Zeilenumbruch.png)
 
